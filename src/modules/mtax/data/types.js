@@ -1,0 +1,10 @@
+export const CREATE_MTAX = "CREATE_MTAX"
+export const SAVED_MTAX = 'SAVED_MTAX'
+export const EDIT_MTAX = 'EDIT_MTAX'
+export const EDITED_MTAX = 'EDITED_MTAX'
+export const FETCH_MTAX = 'FETCH_MTAX'
+export const FETCHED_MTAX = 'FETCHED_MTAX'
+export const DELETE_MTAX = 'DELETE_MTAX'
+export const DELETED_MTAX = 'DELETED_MTAX'
+export const NOTIFICATION_DONE_MTAX = 'NOTIFICATION_DONE_MTAX'
+export const DOWNLOAD_MTAX_EXCEL = 'DOWNLOAD_MTAX_EXCEL'

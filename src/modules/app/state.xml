@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<states>
+<state value="Badakhshan" statecode="" stateid="A1_1" countryid="A1">Badakhshan</state>
+<state value="Badghis" statecode="" stateid="A1_2" countryid="A1">Badghis</state>
+<state value="Baghlan" statecode="" stateid="A1_3" countryid="A1">Baghlan</state>
+<state value="Balkh" statecode="" stateid="A1_4" countryid="A1">Balkh</state>
+<state value="Bamian" statecode="" stateid="A1_5" countryid="A1">Bamian</state>
+<state value="Farah" statecode="" stateid="A1_6" countryid="A1">Farah</state>
+<state value="Faryab" statecode="" stateid="A1_7" countryid="A1">Faryab</state>
+<state value="Ghazni" statecode="" stateid="A1_8" countryid="A1">Ghazni</state>
+<state value="Ghowr" statecode="" stateid="A1_9" countryid="A1">Ghowr</state>
+<state value="Helmand" statecode="" stateid="A1_10" countryid="A1">Helmand</state>
+<state value="Herat" statecode="" stateid="A1_11" countryid="A1">Herat</state>
+<state value="Jowzjan" statecode="" stateid="A1_12" countryid="A1">Jowzjan</state>
+<state value="Kabol" statecode="" stateid="A1_13" countryid="A1">Kabol</state>
+<state value="Kandahar" statecode="" stateid="A1_14" countryid="A1">Kandahar</state>
+<state value="Kapisa" statecode="" stateid="A1_15" countryid="A1">Kapisa</state>
+<state value="Konar" statecode="" stateid="A1_16" countryid="A1">Konar</state>
+<state value="Kondoz" statecode="" stateid="A1_17" countryid="A1">Kondoz</state>
+<state value="Laghman" statecode="" stateid="A1_18" countryid="A1">Laghman</state>
+<state value="Lowgar" statecode="" stateid="A1_19" countryid="A1">Lowgar</state>
+<state value="Nangarhar" statecode="" stateid="A1_20" countryid="A1">Nangarhar</state>
+<state value="Nimruz" statecode="" stateid="A1_21" countryid="A1">Nimruz</state>
+<state value="Oruzgan" statecode="" stateid="A1_22" countryid="A1">Oruzgan</state>
+<state value="Paktia" statecode="" stateid="A1_23" countryid="A1">Paktia</state>
+<state value="Paktika" statecode="" stateid="A1_24" countryid="A1">Paktika</state>
+<state value="Parvan" statecode="" stateid="A1_25" countryid="A1">Parvan</state>
+<state value="Samangan" statecode="" stateid="A1_26" countryid="A1">Samangan</state>
+<state value="Sar-e Pol" statecode="" stateid="A1_27" countryid="A1">Sar-e Pol</state>
+<state value="Takhar" statecode="" stateid="A1_28" countryid="A1">Takhar</state>
+<state value="Vardak" statecode="" stateid="A1_29" countryid="A1">Vardak</state>
+<state value="Zabol" statecode="" stateid="A1_30" countryid="A1">Zabol</state>
+<state value="Berat" statecode="" stateid="A4_1" countryid="A4">Berat</state>
+<state value="Bulqize" statecode="" stateid="A4_2" countryid="A4">Bulqize</state>
+<state value="Delvine" statecode="" stateid="A4_3" countryid="A4">Delvine</state>
+<state value="Devoll (Bilisht)" statecode="" stateid="A4_4" countryid="A4">Devoll (Bilisht)</state>
+<state value="Diber (Peshkopi)" statecode="" stateid="A4_5" countryid="A4">Diber (Peshkopi)</state>
+<state value="Durres" statecode="" stateid="A4_6" countryid="A4">Durres</state>
+<state value="Elbasan" statecode="" stateid="A4_7" countryid="A4">Elbasan</state>
+<state value="Fier" statecode="" stateid="A4_8" countryid="A4">Fier</state>
+<state value="Gjirokaster" statecode="" stateid="A4_9" countryid="A4">Gjirokaster</state>
+<state value="Gramsh" statecode="" stateid="A4_10" countryid="A4">Gramsh</state>
+<state value="Has (Krume)" statecode="" stateid="A4_11" countryid="A4">Has (Krume)</state>
+<state value="Kavaje" statecode="" stateid="A4_12" countryid="A4">Kavaje</state>
+<state value="Kolonje (Erseke)" statecode="" stateid="A4_13" countryid="A4">Kolonje (Erseke)</state>
+<state value="Korce" statecode="" stateid="A4_14" countryid="A4">Korce</state>
+<state value="Kruje" statecode="" stateid="A4_15" countryid="A4">Kruje</state>
+<state value="Kucove" statecode="" stateid="A4_16" countryid="A4">Kucove</state>
+<state value="Kukes" statecode="" stateid="A4_17" countryid="A4">Kukes</state>
+<state value="Kurbin" statecode="" stateid="A4_18" countryid="A4">Kurbin</state>
+<state value="Lezhe" statecode="" stateid="A4_19" countryid="A4">Lezhe</state>
+<state value="Librazhd" statecode="" stateid="A4_20" countryid="A4">Librazhd</state>
+<state value="Lushnje" statecode="" stateid="A4_21" countryid="A4">Lushnje</state>
+<state value="Malesi e Madhe (Koplik)" statecode="" stateid="A4_22" countryid="A4">Malesi e Madhe (Koplik)</state>
+<state value="Mallakaster (Ballsh)" statecode="" stateid="A4_23" countryid="A4">Mallakaster (Ballsh)</state>
+<state value="Mat (Burrel)" statecode="" stateid="A4_24" countryid="A4">Mat (Burrel)</state>
+<state value="Mirdite (Rreshen)" statecode="" stateid="A4_25" countryid="A4">Mirdite (Rreshen)</state>
+<state value="Peqin" statecode="" stateid="A4_26" countryid="A4">Peqin</state>
+<state value="Permet" statecode="" stateid="A4_27" countryid="A4">Permet</state>
+<state value="Pogradec" statecode="" stateid="A4_28" countryid="A4">Pogradec</state>
+<state value="Puke" statecode="" stateid="A4_29" countryid="A4">Puke</state>
+<state value="Sarande" statecode="" stateid="A4_30" countryid="A4">Sarande</state>
+<state value="Shkoder" statecode="" stateid="A4_31" countryid="A4">Shkoder</state>
+<state value="Skrapar (Corovode)" statecode="" stateid="A4_32" countryid="A4">Skrapar (Corovode)</state>
+<state value="Tepelene" statecode="" stateid="A4_33" countryid="A4">Tepelene</state>
+<state value="Tirane (Tirana)" statecode="" stateid="A4_34" countryid="A4">Tirane (Tirana)</state>
+<state value="Tropoje (Bajram Curri)" statecode="" stateid="A4_35" countryid="A4">Tropoje (Bajram Curri)</state>
+<state value="Vlore" statecode="" stateid="A4_36" countryid="A4">Vlore</state>
+<state value="Adrar" statecode="" stateid="A5_1" countryid="A5">Adrar</state>
+<state value="Ain Defla" statecode="" stateid="A5_2" countryid="A5">Ain Defla</state>
+<state value="Ain Temouchent" statecode="" stateid="A5_3" countryid="A5">Ain Temouchent</state>
+<state value="Alger" statecode="" stateid="A5_4" countryid="A5">Alger</state>
+<state value="Annaba" statecode="" stateid="A5_5" countryid="A5">Annaba</state>
+<state value="Batna" statecode="" stateid="A5_6" countryid="A5">Batna</state>
+<state value="Bechar" statecode="" stateid="A5_7" countryid="A5">Bechar</state>
+<state value="Bejaia" statecode="" stateid="A5_8" countryid="A5">Bejaia</state>
+<state value="Biskra" statecode="" stateid="A5_9" countryid="A5">Biskra</state>
+<state value="Blida" statecode="" stateid="A5_10" countryid="A5">Blida</state>
+<state value="Bordj Bou Arreridj" statecode="" stateid="A5_11" countryid="A5">Bordj Bou Arreridj</state>
+<state value="Bouira" statecode="" stateid="A5_12" countryid="A5">Bouira</state>
+<state value="Boumerdes" statecode="" stateid="A5_13" countryid="A5">Boumerdes</state>
+<state value="Chlef" statecode="" stateid="A5_14" countryid="A5">Chlef</state>
+<state value="Constantine" statecode="" stateid="A5_15" countryid="A5">Constantine</state>
+<state value="Djelfa" statecode="" stateid="A5_16" countryid="A5">Djelfa</state>
+<state value="El Bayadh" statecode="" stateid="A5_17" countryid="A5">El Bayadh</state>
+<state value="El Oued" statecode="" stateid="A5_18" countryid="A5">El Oued</state>
+<state value="El Tarf" statecode="" stateid="A5_19" countryid="A5">El Tarf</state>
+<state value="Ghardaia" statecode="" stateid="A5_20" countryid="A5">Ghardaia</state>
+<state value="Guelma" statecode="" stateid="A5_21" countryid="A5">Guelma</state>
+<state value="Illizi" statecode="" stateid="A5_22" countryid="A5">Illizi</state>
+<state value="Jijel" statecode="" stateid="A5_23" countryid="A5">Jijel</state>
+<state value="Khenchela" statecode="" stateid="A5_24" countryid="A5">Khenchela</state>
+<state value="Laghouat" statecode="" stateid="A5_25" countryid="A5">Laghouat</state>
+<state value="M'Sila" statecode="" stateid="A5_26" countryid="A5">M'Sila</state>
+<state value="Mascara" statecode="" stateid="A5_27" countryid="A5">Mascara</state>
+<state value="Medea" statecode="" stateid="A5_28" countryid="A5">Medea</state>
+<state value="Mila" statecode="" stateid="A5_29" countryid="A5">Mila</state>
+<state value="Mostaganem" statecode="" stateid="A5_30" countryid="A5">Mostaganem</state>
+<state value="Naama" statecode="" stateid="A5_31" countryid="A5">Naama</state>
+<state value="Oran" statecode="" stateid="A5_32" countryid="A5">Oran</state>
+<state value="Ouargla" statecode="" stateid="A5_33" countryid="A5">Ouargla</state>
+<state value="Oum el Bouaghi" statecode="" stateid="A5_34" countryid="A5">Oum el Bouaghi</state>
+<state value="Relizane" statecode="" stateid="A5_35" countryid="A5">Relizane</state>
+<state value="Saida" statecode="" stateid="A5_36" countryid="A5">Saida</state>
+<state value="Setif" statecode="" stateid="A5_37" countryid="A5">Setif</state>
+<state value="Sidi Bel Abbes" statecode="" stateid="A5_38" countryid="A5">Sidi Bel Abbes</state>
+<state value="Skikda" statecode="" stateid="A5_39" countryid="A5">Skikda</state>
+<state value="Souk Ahras" statecode="" stateid="A5_40" countryid="A5">Souk Ahras</state>
+<state value="Tamanghasset" statecode="" stateid="A5_41" countryid="A5">Tamanghasset</state>
+<state value="Tebessa" statecode="" stateid="A5_42" countryid="A5">Tebessa</state>
+<state value="Tiaret" statecode="" stateid="A5_43" countryid="A5">Tiaret</state>
+<state value="Tindouf" statecode="" stateid="A5_44" countryid="A5">Tindouf</state>
+<state value="Tipaza" statecode="" stateid="A5_45" countryid="A5">Tipaza</state>
+<state value="Tissemsilt" statecode="" stateid="A5_46" countryid="A5">Tissemsilt</state>
+<state value="Tizi Ouzou" statecode="" stateid="A5_47" countryid="A5">Tizi Ouzou</state>
+<state value="Tlemcen" statecode="" stateid="A5_48" countryid="A5">Tlemcen</state>
+<state value="Eastern" statecode="" stateid="A6_1" countryid="A6">Eastern</state>
+<state value="Manu'a" statecode="" stateid="A6_2" countryid="A6">Manu'a</state>
+<state value="Rose Island" statecode="" stateid="A6_3" countryid="A6">Rose Island</state>
+<state value="Swains Island" statecode="" stateid="A6_4" countryid="A6">Swains Island</state>
+<state value="Western" statecode="" stateid="A6_5" countryid="A6">Western</state>
+<state value="Andorra la Vella" statecode="" stateid="A8_1" countryid="A8">Andorra la Vella</state>
+<state value="Bengo" statecode="" stateid="A8_2" countryid="A8">Bengo</state>
+<state value="Benguela" statecode="" stateid="A8_3" countryid="A8">Benguela</state>
+<state value="Bie" statecode="" stateid="A8_4" countryid="A8">Bie</state>
+<state value="Cabinda" statecode="" stateid="A8_5" countryid="A8">Cabinda</state>
+<state value="Canillo" statecode="" stateid="A8_6" countryid="A8">Canillo</state>
+<state value="Cuando Cubango" statecode="" stateid="A8_7" countryid="A8">Cuando Cubango</state>
+<state value="Cuanza Norte" statecode="" stateid="A8_8" countryid="A8">Cuanza Norte</state>
+<state value="Cuanza Sul" statecode="" stateid="A8_9" countryid="A8">Cuanza Sul</state>
+<state value="Cunene" statecode="" stateid="A8_10" countryid="A8">Cunene</state>
+<state value="California" statecode="" stateid="C3_1" countryid="C3">California</state>
+<state value="Encamp" statecode="" stateid="A8_11" countryid="A8">Encamp</state>
+<state value="Escaldes-Engordany" statecode="" stateid="A8_12" countryid="A8">Escaldes-Engordany</state>
+<state value="Huambo" statecode="" stateid="A8_13" countryid="A8">Huambo</state>
+<state value="Huila" statecode="" stateid="A8_14" countryid="A8">Huila</state>
+<state value="La Massana" statecode="" stateid="A8_15" countryid="A8">La Massana</state>
+<state value="Luanda" statecode="" stateid="A8_16" countryid="A8">Luanda</state>
+<state value="Lunda Norte" statecode="" stateid="A8_17" countryid="A8">Lunda Norte</state>
+<state value="Lunda Sul" statecode="" stateid="A8_18" countryid="A8">Lunda Sul</state>
+<state value="Malanje" statecode="" stateid="A8_19" countryid="A8">Malanje</state>
+<state value="Moxico" statecode="" stateid="A8_20" countryid="A8">Moxico</state>
+<state value="Namibe" statecode="" stateid="A8_21" countryid="A8">Namibe</state>
+<state value="Ordino" statecode="" stateid="A8_22" countryid="A8">Ordino</state>
+<state value="Sant Julia de Loria" statecode="" stateid="A8_23" countryid="A8">Sant Julia de Loria</state>
+<state value="Uige" statecode="" stateid="A8_24" countryid="A8">Uige</state>
+<state value="Zaire" statecode="" stateid="A8_25" countryid="A8">Zaire</state>
+<state value="Anguilla" statecode="" stateid="A9_1" countryid="A9">Anguilla</state>
+<state value="Barbuda" statecode="" stateid="A10_1" countryid="A10">Barbuda</state>
+<state value="Redonda" statecode="" stateid="A10_2" countryid="A10">Redonda</state>
+<state value="Saint George" statecode="" stateid="A10_3" countryid="A10">Saint George</state>
+<state value="Saint John" statecode="" stateid="A10_4" countryid="A10">Saint John</state>
+<state value="Saint Mary" statecode="" stateid="A10_5" countryid="A10">Saint Mary</state>
+<state value="Saint Paul" statecode="" stateid="A10_6" countryid="A10">Saint Paul</state>
+<state value="Saint Peter" statecode="" stateid="A10_7" countryid="A10">Saint Peter</state>
+<state value="Saint Philip" statecode="" stateid="A10_8" countryid="A10">Saint Philip</state>
+<state value="Antartica e Islas del Atlantico Sur" statecode="" stateid="A11_1" countryid="A11">Antartica e Islas del Atlantico Sur</state>
+<state value="Buenos Aires" statecode="" stateid="A11_2" countryid="A11">Buenos Aires</state>
+<state value="Buenos Aires Capital Federal" statecode="" stateid="A11_3" countryid="A11">Buenos Aires Capital Federal</state>
+<state value="Catamarca" statecode="" stateid="A11_4" countryid="A11">Catamarca</state>
+<state value="Chaco" statecode="" stateid="A11_5" countryid="A11">Chaco</state>
+<state value="Chubut" statecode="" stateid="A11_6" countryid="A11">Chubut</state>
+<state value="Cordoba" statecode="" stateid="A11_7" countryid="A11">Cordoba</state>
+<state value="Corrientes" statecode="" stateid="A11_8" countryid="A11">Corrientes</state>
+<state value="Entre Rios" statecode="" stateid="A11_9" countryid="A11">Entre Rios</state>
+<state value="Formosa" statecode="" stateid="A11_10" countryid="A11">Formosa</state>
+<state value="Jujuy" statecode="" stateid="A11_11" countryid="A11">Jujuy</state>
+<state value="La Pampa" statecode="" stateid="A11_12" countryid="A11">La Pampa</state>
+<state value="La Rioja" statecode="" stateid="A11_13" countryid="A11">La Rioja</state>
+<state value="Mendoza" statecode="" stateid="A11_14" countryid="A11">Mendoza</state>
+<state value="Misiones" statecode="" stateid="A11_15" countryid="A11">Misiones</state>
+<state value="Neuquen" statecode="" stateid="A11_16" countryid="A11">Neuquen</state>
+<state value="Rio Negro" statecode="" stateid="A11_17" countryid="A11">Rio Negro</state>
+<state value="Salta" statecode="" stateid="A11_18" countryid="A11">Salta</state>
+<state value="San Juan" statecode="" stateid="A11_19" countryid="A11">San Juan</state>
+<state value="San Luis" statecode="" stateid="A11_20" countryid="A11">San Luis</state>
+<state value="Santa Cruz" statecode="" stateid="A11_21" countryid="A11">Santa Cruz</state>
+<state value="Santa Fe" statecode="" stateid="A11_22" countryid="A11">Santa Fe</state>
+<state value="Santiago del Estero" statecode="" stateid="A11_23" countryid="A11">Santiago del Estero</state>
+<state value="Tierra del Fuego" statecode="" stateid="A11_24" countryid="A11">Tierra del Fuego</state>
+<state value="Tucuman" statecode="" stateid="A11_25" countryid="A11">Tucuman</state>
+<state value="Aragatsotn" statecode="" stateid="A12_1" countryid="A12">Aragatsotn</state>
+<state value="Ararat" statecode="" stateid="A12_2" countryid="A12">Ararat</state>
+<state value="Armavir" statecode="" stateid="A12_3" countryid="A12">Armavir</state>
+<state value="Geghark'unik'" statecode="" stateid="A12_4" countryid="A12">Geghark'unik'</state>
+<state value="Kotayk'" statecode="" stateid="A12_5" countryid="A12">Kotayk'</state>
+<state value="Lorri" statecode="" stateid="A12_6" countryid="A12">Lorri</state>
+<state value="Shirak" statecode="" stateid="A12_7" countryid="A12">Shirak</state>
+<state value="Syunik'" statecode="" stateid="A12_8" countryid="A12">Syunik'</state>
+<state value="Tavush" statecode="" stateid="A12_9" countryid="A12">Tavush</state>
+<state value="Vayots' Dzor" statecode="" stateid="A12_10" countryid="A12">Vayots' Dzor</state>
+<state value="Yerevan" statecode="" stateid="A12_11" countryid="A12">Yerevan</state>
+<state value="Aruba" statecode="" stateid="A13_1" countryid="A13">Aruba</state>
+<state value="Australian Capital Territory" statecode="" stateid="A15_1" countryid="A15">Australian Capital Territory</state>
+<state value="New South Wales" statecode="" stateid="A15_2" countryid="A15">New South Wales</state>
+<state value="Northern Territory" statecode="" stateid="A15_3" countryid="A15">Northern Territory</state>
+<state value="Queensland" statecode="" stateid="A15_4" countryid="A15">Queensland</state>
+<state value="South Australia" statecode="" stateid="A15_5" countryid="A15">South Australia</state>
+<state value="Tasmania" statecode="" stateid="A15_6" countryid="A15">Tasmania</state>
+<state value="Victoria" statecode="" stateid="A15_7" countryid="A15">Victoria</state>
+<state value="Western Australia" statecode="" stateid="A15_8" countryid="A15">Western Australia</state>
+<state value="Melbourne" statecode="" stateid="A15_9" countryid="A15">Melbourne</state>
+<state value="Burgenland" statecode="" stateid="A16_1" countryid="A16">Burgenland</state>
+<state value="Kaernten" statecode="" stateid="A16_2" countryid="A16">Kaernten</state>
+<state value="Niederoesterreich" statecode="" stateid="A16_3" countryid="A16">Niederoesterreich</state>
+<state value="Oberoesterreich" statecode="" stateid="A16_4" countryid="A16">Oberoesterreich</state>
+<state value="Salzburg" statecode="" stateid="A16_5" countryid="A16">Salzburg</state>
+<state value="Steiermark" statecode="" stateid="A16_6" countryid="A16">Steiermark</state>
+<state value="Tirol" statecode="" stateid="A16_7" countryid="A16">Tirol</state>
+<state value="Vorarlberg" statecode="" stateid="A16_8" countryid="A16">Vorarlberg</state>
+<state value="Wien" statecode="" stateid="A16_9" countryid="A16">Wien</state>
+<state value="Abseron Rayonu" statecode="" stateid="A17_1" countryid="A17">Abseron Rayonu</state>
+<state value="Agcabadi Rayonu" statecode="" stateid="A17_2" countryid="A17">Agcabadi Rayonu</state>
+<state value="Agdam Rayonu" statecode="" stateid="A17_3" countryid="A17">Agdam Rayonu</state>
+<state value="Agdas Rayonu" statecode="" stateid="A17_4" countryid="A17">Agdas Rayonu</state>
+<state value="Agstafa Rayonu" statecode="" stateid="A17_5" countryid="A17">Agstafa Rayonu</state>
+<state value="Agsu Rayonu" statecode="" stateid="A17_6" countryid="A17">Agsu Rayonu</state>
+<state value="Ali Bayramli Sahari" statecode="" stateid="A17_7" countryid="A17">Ali Bayramli Sahari</state>
+<state value="Astara Rayonu" statecode="" stateid="A17_8" countryid="A17">Astara Rayonu</state>
+<state value="Baki Sahari" statecode="" stateid="A17_9" countryid="A17">Baki Sahari</state>
+<state value="Balakan Rayonu" statecode="" stateid="A17_10" countryid="A17">Balakan Rayonu</state>
+<state value="Barda Rayonu" statecode="" stateid="A17_11" countryid="A17">Barda Rayonu</state>
+<state value="Beylaqan Rayonu" statecode="" stateid="A17_12" countryid="A17">Beylaqan Rayonu</state>
+<state value="Bilasuvar Rayonu" statecode="" stateid="A17_13" countryid="A17">Bilasuvar Rayonu</state>
+<state value="Cabrayil Rayonu" statecode="" stateid="A17_14" countryid="A17">Cabrayil Rayonu</state>
+<state value="Calilabad Rayonu" statecode="" stateid="A17_15" countryid="A17">Calilabad Rayonu</state>
+<state value="Daskasan Rayonu" statecode="" stateid="A17_16" countryid="A17">Daskasan Rayonu</state>
+<state value="Davaci Rayonu" statecode="" stateid="A17_17" countryid="A17">Davaci Rayonu</state>
+<state value="Fuzuli Rayonu" statecode="" stateid="A17_18" countryid="A17">Fuzuli Rayonu</state>
+<state value="Gadabay Rayonu" statecode="" stateid="A17_19" countryid="A17">Gadabay Rayonu</state>
+<state value="Ganca Sahari" statecode="" stateid="A17_20" countryid="A17">Ganca Sahari</state>
+<state value="Goranboy Rayonu" statecode="" stateid="A17_21" countryid="A17">Goranboy Rayonu</state>
+<state value="Goycay Rayonu" statecode="" stateid="A17_22" countryid="A17">Goycay Rayonu</state>
+<state value="Haciqabul Rayonu" statecode="" stateid="A17_23" countryid="A17">Haciqabul Rayonu</state>
+<state value="Imisli Rayonu" statecode="" stateid="A17_24" countryid="A17">Imisli Rayonu</state>
+<state value="Ismayilli Rayonu" statecode="" stateid="A17_25" countryid="A17">Ismayilli Rayonu</state>
+<state value="Kalbacar Rayonu" statecode="" stateid="A17_26" countryid="A17">Kalbacar Rayonu</state>
+<state value="Kurdamir Rayonu" statecode="" stateid="A17_27" countryid="A17">Kurdamir Rayonu</state>
+<state value="Lacin Rayonu" statecode="" stateid="A17_28" countryid="A17">Lacin Rayonu</state>
+<state value="Lankaran Rayonu" statecode="" stateid="A17_29" countryid="A17">Lankaran Rayonu</state>
+<state value="Lankaran Sahari" statecode="" stateid="A17_30" countryid="A17">Lankaran Sahari</state>
+<state value="Lerik Rayonu" statecode="" stateid="A17_31" countryid="A17">Lerik Rayonu</state>
+<state value="Masalli Rayonu" statecode="" stateid="A17_32" countryid="A17">Masalli Rayonu</state>
+<state value="Mingacevir Sahari" statecode="" stateid="A17_33" countryid="A17">Mingacevir Sahari</state>
+<state value="Naftalan Sahari" statecode="" stateid="A17_34" countryid="A17">Naftalan Sahari</state>
+<state value="Naxcivan Muxtar Respublikasi" statecode="" stateid="A17_35" countryid="A17">Naxcivan Muxtar Respublikasi</state>
+<state value="Neftcala Rayonu" statecode="" stateid="A17_36" countryid="A17">Neftcala Rayonu</state>
+<state value="Oguz Rayonu" statecode="" stateid="A17_37" countryid="A17">Oguz Rayonu</state>
+<state value="Qabala Rayonu" statecode="" stateid="A17_38" countryid="A17">Qabala Rayonu</state>
+<state value="Qax Rayonu" statecode="" stateid="A17_39" countryid="A17">Qax Rayonu</state>
+<state value="Qazax Rayonu" statecode="" stateid="A17_40" countryid="A17">Qazax Rayonu</state>
+<state value="Qobustan Rayonu" statecode="" stateid="A17_41" countryid="A17">Qobustan Rayonu</state>
+<state value="Quba Rayonu" statecode="" stateid="A17_42" countryid="A17">Quba Rayonu</state>
+<state value="Qubadli Rayonu" statecode="" stateid="A17_43" countryid="A17">Qubadli Rayonu</state>
+<state value="Qusar Rayonu" statecode="" stateid="A17_44" countryid="A17">Qusar Rayonu</state>
+<state value="Saatli Rayonu" statecode="" stateid="A17_45" countryid="A17">Saatli Rayonu</state>
+<state value="Sabirabad Rayonu" statecode="" stateid="A17_46" countryid="A17">Sabirabad Rayonu</state>
+<state value="Saki Rayonu" statecode="" stateid="A17_47" countryid="A17">Saki Rayonu</state>
+<state value="Saki Sahari" statecode="" stateid="A17_48" countryid="A17">Saki Sahari</state>
+<state value="Salyan Rayonu" statecode="" stateid="A17_49" countryid="A17">Salyan Rayonu</state>
+<state value="Samaxi Rayonu" statecode="" stateid="A17_50" countryid="A17">Samaxi Rayonu</state>
+<state value="Samkir Rayonu" statecode="" stateid="A17_51" countryid="A17">Samkir Rayonu</state>
+<state value="Samux Rayonu" statecode="" stateid="A17_52" countryid="A17">Samux Rayonu</state>
+<state value="Siyazan Rayonu" statecode="" stateid="A17_53" countryid="A17">Siyazan Rayonu</state>
+<state value="Sumqayit Sahari" statecode="" stateid="A17_54" countryid="A17">Sumqayit Sahari</state>
+<state value="Susa Rayonu" statecode="" stateid="A17_55" countryid="A17">Susa Rayonu</state>
+<state value="Susa Sahari" statecode="" stateid="A17_56" countryid="A17">Susa Sahari</state>
+<state value="Tartar Rayonu" statecode="" stateid="A17_57" countryid="A17">Tartar Rayonu</state>
+<state value="Tovuz Rayonu" statecode="" stateid="A17_58" countryid="A17">Tovuz Rayonu</state>
+<state value="Ucar Rayonu" statecode="" stateid="A17_59" countryid="A17">Ucar Rayonu</state>
+<state value="Xacmaz Rayonu" statecode="" stateid="A17_60" countryid="A17">Xacmaz Rayonu</state>
+<state value="Xankandi Sahari" statecode="" stateid="A17_61" countryid="A17">Xankandi Sahari</state>
+<state value="Xanlar Rayonu" statecode="" stateid="A17_62" countryid="A17">Xanlar Rayonu</state>
+<state value="Xizi Rayonu" statecode="" stateid="A17_63" countryid="A17">Xizi Rayonu</state>
+<state value="Xocali Rayonu" statecode="" stateid="A17_64" countryid="A17">Xocali Rayonu</state>
+<state value="Xocavand Rayonu" statecode="" stateid="A17_65" countryid="A17">Xocavand Rayonu</state>
+<state value="Yardimli Rayonu" statecode="" stateid="A17_66" countryid="A17">Yardimli Rayonu</state>
+<state value="Yevlax Rayonu" statecode="" stateid="A17_67" countryid="A17">Yevlax Rayonu</state>
+<state value="Yevlax Sahari" statecode="" stateid="A17_68" countryid="A17">Yevlax Sahari</state>
+<state value="Zangilan Rayonu" statecode="" stateid="A17_69" countryid="A17">Zangilan Rayonu</state>
+<state value="Zaqatala Rayonu" statecode="" stateid="A17_70" countryid="A17">Zaqatala Rayonu</state>
+<state value="Zardab Rayonu" statecode="" stateid="A17_71" countryid="A17">Zardab Rayonu</state>
+<state value="Acklins and Crooked Islands" statecode="" stateid="B1_1" countryid="B1">Acklins and Crooked Islands</state>
+<state value="Bimini" statecode="" stateid="B1_2" countryid="B1">Bimini</state>
+<state value="Cat Island" statecode="" stateid="B1_3" countryid="B1">Cat Island</state>
+<state value="Exuma" statecode="" stateid="B1_4" countryid="B1">Exuma</state>
+<state value="Freeport" statecode="" stateid="B1_5" countryid="B1">Freeport</state>
+<state value="Fresh Creek" statecode="" stateid="B1_6" countryid="B1">Fresh Creek</state>
+<state value="Governor's Harbour" statecode="" stateid="B1_7" countryid="B1">Governor's Harbour</state>
+<state value="Green Turtle Cay" statecode="" stateid="B1_8" countryid="B1">Green Turtle Cay</state>
+<state value="Harbour Island" statecode="" stateid="B1_9" countryid="B1">Harbour Island</state>
+<state value="High Rock" statecode="" stateid="B1_10" countryid="B1">High Rock</state>
+<state value="Inagua" statecode="" stateid="B1_11" countryid="B1">Inagua</state>
+<state value="Kemps Bay" statecode="" stateid="B1_12" countryid="B1">Kemps Bay</state>
+<state value="Long Island" statecode="" stateid="B1_13" countryid="B1">Long Island</state>
+<state value="Marsh Harbour" statecode="" stateid="B1_14" countryid="B1">Marsh Harbour</state>
+<state value="Mayaguana" statecode="" stateid="B1_15" countryid="B1">Mayaguana</state>
+<state value="New Providence" statecode="" stateid="B1_16" countryid="B1">New Providence</state>
+<state value="Nicholls Town and Berry Islands" statecode="" stateid="B1_17" countryid="B1">Nicholls Town and Berry Islands</state>
+<state value="Ragged Island" statecode="" stateid="B1_18" countryid="B1">Ragged Island</state>
+<state value="Rock Sound" statecode="" stateid="B1_19" countryid="B1">Rock Sound</state>
+<state value="San Salvador and Rum Cay" statecode="" stateid="B1_20" countryid="B1">San Salvador and Rum Cay</state>
+<state value="Sandy Point" statecode="" stateid="B1_21" countryid="B1">Sandy Point</state>
+<state value="Al Hadd" statecode="" stateid="B2_1" countryid="B2">Al Hadd</state>
+<state value="Al Manamah" statecode="" stateid="B2_2" countryid="B2">Al Manamah</state>
+<state value="Al Mintaqah al Gharbiyah" statecode="" stateid="B2_3" countryid="B2">Al Mintaqah al Gharbiyah</state>
+<state value="Al Mintaqah al Wusta" statecode="" stateid="B2_4" countryid="B2">Al Mintaqah al Wusta</state>
+<state value="Al Mintaqah ash Shamaliyah" statecode="" stateid="B2_5" countryid="B2">Al Mintaqah ash Shamaliyah</state>
+<state value="Al Muharraq" statecode="" stateid="B2_6" countryid="B2">Al Muharraq</state>
+<state value="Ar Rifa' wa al Mintaqah al Janubiyah" statecode="" stateid="B2_7" countryid="B2">Ar Rifa' wa al Mintaqah al Janubiyah</state>
+<state value="A'ali" statecode="" stateid="B2_13" countryid="B2">A'ali</state>
+<state value="Abu Baham" statecode="" stateid="B2_14" countryid="B2">Abu Baham</state>
+<state value="Adliya" statecode="" stateid="B2_15" countryid="B2">Adliya</state>
+<state value="Al Dur" statecode="" stateid="B2_16" countryid="B2">Al Dur</state>
+<state value="Al Eker" statecode="" stateid="B2_17" countryid="B2">Al Eker</state>
+<state value="Al Hajar" statecode="" stateid="B2_18" countryid="B2">Al Hajar</state>
+<state value="Al Musalla" statecode="" stateid="B2_19" countryid="B2">Al Musalla</state>
+<state value="Al Qadam" statecode="" stateid="B2_20" countryid="B2">Al Qadam</state>
+<state value="Al Qala" statecode="" stateid="B2_21" countryid="B2">Al Qala</state>
+<state value="Aldair" statecode="" stateid="B2_22" countryid="B2">Aldair</state>
+<state value="Al-Malikiyah" statecode="" stateid="B2_23" countryid="B2">Al-Malikiyah</state>
+<state value="Amwaj Island" statecode="" stateid="B2_24" countryid="B2">Amwaj Island</state>
+<state value="Arad" statecode="" stateid="B2_25" countryid="B2">Arad</state>
+<state value="Bahrain Bay" statecode="" stateid="B2_26" countryid="B2">Bahrain Bay</state>
+<state value="Barbar" statecode="" stateid="B2_27" countryid="B2">Barbar</state>
+<state value="Boori" statecode="" stateid="B2_28" countryid="B2">Boori</state>
+<state value="Budaiya" statecode="" stateid="B2_29" countryid="B2">Budaiya</state>
+<state value="Buquwa" statecode="" stateid="B2_30" countryid="B2">Buquwa</state>
+<state value="Busaiteen" statecode="" stateid="B2_31" countryid="B2">Busaiteen</state>
+<state value="Dair" statecode="" stateid="B2_32" countryid="B2">Dair</state>
+<state value="Dar Kulaib" statecode="" stateid="B2_33" countryid="B2">Dar Kulaib</state>
+<state value="Diraz" statecode="" stateid="B2_34" countryid="B2">Diraz</state>
+<state value="Diyar Al Muharraq" statecode="" stateid="B2_35" countryid="B2">Diyar Al Muharraq</state>
+<state value="Dumistan" statecode="" stateid="B2_36" countryid="B2">Dumistan</state>
+<state value="Durrat Al Bahrain" statecode="" stateid="B2_76" countryid="B2">Durrat Al Bahrain</state>
+<state value="Edit" statecode="" stateid="B2_37" countryid="B2">Edit</state>
+<state value="Hamad Town" statecode="" stateid="B2_38" countryid="B2">Hamad Town</state>
+<state value="Hamala" statecode="" stateid="B2_39" countryid="B2">Hamala</state>
+<state value="Hidd" statecode="" stateid="B2_40" countryid="B2">Hidd</state>
+<state value="Hillat Abdul Saleh" statecode="" stateid="B2_41" countryid="B2">Hillat Abdul Saleh</state>
+<state value="Isa Town" statecode="" stateid="B2_42" countryid="B2">Isa Town</state>
+<state value="Jidd Hafs" statecode="" stateid="B2_8" countryid="B2">Jidd Hafs</state>
+<state value="Juzur Hawar" statecode="" stateid="B2_9" countryid="B2">Juzur Hawar</state>
+<state value="Madinat 'Isa" statecode="" stateid="B2_10" countryid="B2">Madinat 'Isa</state>
+<state value="Madinat Hamad" statecode="" stateid="B2_11" countryid="B2">Madinat Hamad</state>
+<state value="Sitrah" statecode="" stateid="B2_12" countryid="B2">Sitrah</state>
+<state value="Janabiya" statecode="" stateid="B2_43" countryid="B2">Janabiya</state>
+<state value="Janabiyah" statecode="" stateid="B2_44" countryid="B2">Janabiyah</state>
+<state value="Jannusan" statecode="" stateid="B2_45" countryid="B2">Jannusan</state>
+<state value="Jasra" statecode="" stateid="B2_46" countryid="B2">Jasra</state>
+<state value="Jid Ali" statecode="" stateid="B2_47" countryid="B2">Jid Ali</state>
+<state value="Jidhafs" statecode="" stateid="B2_48" countryid="B2">Jidhafs</state>
+<state value="Juffair" statecode="" stateid="B2_49" countryid="B2">Juffair</state>
+<state value="Jurdab" statecode="" stateid="B2_50" countryid="B2">Jurdab</state>
+<state value="Karrana" statecode="" stateid="B2_51" countryid="B2">Karrana</state>
+<state value="Karzakan" statecode="" stateid="B2_52" countryid="B2">Karzakan</state>
+<state value="Khamis" statecode="" stateid="B2_53" countryid="B2">Khamis</state>
+<state value="Mahoos" statecode="" stateid="B2_54" countryid="B2">Mahoos</state>
+<state value="Malikiya" statecode="" stateid="B2_55" countryid="B2">Malikiya</state>
+<state value="Meqsha" statecode="" stateid="B2_56" countryid="B2">Meqsha</state>
+<state value="Muharraq" statecode="" stateid="B2_57" countryid="B2">Muharraq</state>
+<state value="North Sehla" statecode="" stateid="B2_58" countryid="B2">North Sehla</state>
+<state value="Qalali" statecode="" stateid="B2_59" countryid="B2">Qalali</state>
+<state value="Qudaibiya" statecode="" stateid="B2_60" countryid="B2">Qudaibiya</state>
+<state value="Riffa" statecode="" stateid="B2_61" countryid="B2">Riffa</state>
+<state value="Saar" statecode="" stateid="B2_62" countryid="B2">Saar</state>
+<state value="Sadad" statecode="" stateid="B2_63" countryid="B2">Sadad</state>
+<state value="Salmabad" statecode="" stateid="B2_64" countryid="B2">Salmabad</state>
+<state value="Salmaniya" statecode="" stateid="B2_65" countryid="B2">Salmaniya</state>
+<state value="Samaheej" statecode="" stateid="B2_66" countryid="B2">Samaheej</state>
+<state value="Samaheej" statecode="" stateid="B2_67" countryid="B2">Samaheej</state>
+<state value="Shahrakan" statecode="" stateid="B2_68" countryid="B2">Shahrakan</state>
+<state value="Sitra" statecode="" stateid="B2_69" countryid="B2">Sitra</state>
+<state value="South Sehla" statecode="" stateid="B2_70" countryid="B2">South Sehla</state>
+<state value="Tashan" statecode="" stateid="B2_71" countryid="B2">Tashan</state>
+<state value="Tubli" statecode="" stateid="B2_72" countryid="B2">Tubli</state>
+<state value="Um Al Hasssam" statecode="" stateid="B2_73" countryid="B2">Um Al Hasssam</state>
+<state value="Zallaq" statecode="" stateid="B2_74" countryid="B2">Zallaq</state>
+<state value="Zinj" statecode="" stateid="B2_75" countryid="B2">Zinj</state>
+<state value="Barguna" statecode="" stateid="B3_1" countryid="B3">Barguna</state>
+<state value="Barisal" statecode="" stateid="B3_2" countryid="B3">Barisal</state>
+<state value="Bhola" statecode="" stateid="B3_3" countryid="B3">Bhola</state>
+<state value="Jhalokati" statecode="" stateid="B3_4" countryid="B3">Jhalokati</state>
+<state value="Patuakhali" statecode="" stateid="B3_5" countryid="B3">Patuakhali</state>
+<state value="Pirojpur" statecode="" stateid="B3_6" countryid="B3">Pirojpur</state>
+<state value="Bandarban" statecode="" stateid="B3_7" countryid="B3">Bandarban</state>
+<state value="Brahmanbaria" statecode="" stateid="B3_8" countryid="B3">Brahmanbaria</state>
+<state value="Chandpur" statecode="" stateid="B3_9" countryid="B3">Chandpur</state>
+<state value="Chittagong" statecode="" stateid="B3_10" countryid="B3">Chittagong</state>
+<state value="Comilla" statecode="" stateid="B3_11" countryid="B3">Comilla</state>
+<state value="Cox's Bazar" statecode="" stateid="B3_12" countryid="B3">Cox's Bazar</state>
+<state value="Feni" statecode="" stateid="B3_13" countryid="B3">Feni</state>
+<state value="Khagrachari" statecode="" stateid="B3_14" countryid="B3">Khagrachari</state>
+<state value="Lakshmipur" statecode="" stateid="B3_15" countryid="B3">Lakshmipur</state>
+<state value="Noakhali" statecode="" stateid="B3_16" countryid="B3">Noakhali</state>
+<state value="Rangamati" statecode="" stateid="B3_17" countryid="B3">Rangamati</state>
+<state value="Dhaka" statecode="" stateid="B3_18" countryid="B3">Dhaka</state>
+<state value="Faridpur" statecode="" stateid="B3_19" countryid="B3">Faridpur</state>
+<state value="Gazipur" statecode="" stateid="B3_20" countryid="B3">Gazipur</state>
+<state value="Gopalganj" statecode="" stateid="B3_21" countryid="B3">Gopalganj</state>
+<state value="Jamalpur" statecode="" stateid="B3_22" countryid="B3">Jamalpur</state>
+<state value="Kishoreganj" statecode="" stateid="B3_23" countryid="B3">Kishoreganj</state>
+<state value="Madaripur" statecode="" stateid="B3_24" countryid="B3">Madaripur</state>
+<state value="Manikganj" statecode="" stateid="B3_25" countryid="B3">Manikganj</state>
+<state value="Munshiganj" statecode="" stateid="B3_26" countryid="B3">Munshiganj</state>
+<state value="Mymensingh" statecode="" stateid="B3_27" countryid="B3">Mymensingh</state>
+<state value="Narayanganj" statecode="" stateid="B3_28" countryid="B3">Narayanganj</state>
+<state value="Narsingdi" statecode="" stateid="B3_29" countryid="B3">Narsingdi</state>
+<state value="Netrokona" statecode="" stateid="B3_30" countryid="B3">Netrokona</state>
+<state value="Rajbari" statecode="" stateid="B3_31" countryid="B3">Rajbari</state>
+<state value="Shariatpur" statecode="" stateid="B3_32" countryid="B3">Shariatpur</state>
+<state value="Sherpur" statecode="" stateid="B3_33" countryid="B3">Sherpur</state>
+<state value="Tangail" statecode="" stateid="B3_34" countryid="B3">Tangail</state>
+<state value="Bagerhat" statecode="" stateid="B3_35" countryid="B3">Bagerhat</state>
+<state value="Chuadanga" statecode="" stateid="B3_36" countryid="B3">Chuadanga</state>
+<state value="Jessore" statecode="" stateid="B3_37" countryid="B3">Jessore</state>
+<state value="Jhenaidah" statecode="" stateid="B3_38" countryid="B3">Jhenaidah</state>
+<state value="Khulna" statecode="" stateid="B3_39" countryid="B3">Khulna</state>
+<state value="Kushtia" statecode="" stateid="B3_40" countryid="B3">Kushtia</state>
+<state value="Magura" statecode="" stateid="B3_41" countryid="B3">Magura</state>
+<state value="Meherpur" statecode="" stateid="B3_42" countryid="B3">Meherpur</state>
+<state value="Narail" statecode="" stateid="B3_43" countryid="B3">Narail</state>
+<state value="Satkhira" statecode="" stateid="B3_44" countryid="B3">Satkhira</state>
+<state value="Bogra" statecode="" stateid="B3_45" countryid="B3">Bogra</state>
+<state value="Dinajpur" statecode="" stateid="B3_46" countryid="B3">Dinajpur</state>
+<state value="Gaibandha" statecode="" stateid="B3_47" countryid="B3">Gaibandha</state>
+<state value="Jaipurhat" statecode="" stateid="B3_48" countryid="B3">Jaipurhat</state>
+<state value="Kurigram" statecode="" stateid="B3_49" countryid="B3">Kurigram</state>
+<state value="Lalmonirhat" statecode="" stateid="B3_50" countryid="B3">Lalmonirhat</state>
+<state value="Naogaon" statecode="" stateid="B3_51" countryid="B3">Naogaon</state>
+<state value="Natore" statecode="" stateid="B3_52" countryid="B3">Natore</state>
+<state value="Nawabganj" statecode="" stateid="B3_53" countryid="B3">Nawabganj</state>
+<state value="Nilphamari" statecode="" stateid="B3_54" countryid="B3">Nilphamari</state>
+<state value="Pabna" statecode="" stateid="B3_55" countryid="B3">Pabna</state>
+<state value="Panchagarh" statecode="" stateid="B3_56" countryid="B3">Panchagarh</state>
+<state value="Rajshahi" statecode="" stateid="B3_57" countryid="B3">Rajshahi</state>
+<state value="Rangpur" statecode="" stateid="B3_58" countryid="B3">Rangpur</state>
+<state value="Sirajganj" statecode="" stateid="B3_59" countryid="B3">Sirajganj</state>
+<state value="Thakurgaon" statecode="" stateid="B3_60" countryid="B3">Thakurgaon</state>
+<state value="Habiganj" statecode="" stateid="B3_61" countryid="B3">Habiganj</state>
+<state value="Maulvi bazar" statecode="" stateid="B3_62" countryid="B3">Maulvi bazar</state>
+<state value="Sunamganj" statecode="" stateid="B3_63" countryid="B3">Sunamganj</state>
+<state value="Sylhet" statecode="" stateid="B3_64" countryid="B3">Sylhet</state>
+<state value="Bridgetown" statecode="" stateid="B4_1" countryid="B4">Bridgetown</state>
+<state value="Christ Church" statecode="" stateid="B4_2" countryid="B4">Christ Church</state>
+<state value="Saint Andrew" statecode="" stateid="B4_3" countryid="B4">Saint Andrew</state>
+<state value="Saint George" statecode="" stateid="B4_4" countryid="B4">Saint George</state>
+<state value="Saint James" statecode="" stateid="B4_5" countryid="B4">Saint James</state>
+<state value="Saint John" statecode="" stateid="B4_6" countryid="B4">Saint John</state>
+<state value="Saint Joseph" statecode="" stateid="B4_7" countryid="B4">Saint Joseph</state>
+<state value="Saint Lucy" statecode="" stateid="B4_8" countryid="B4">Saint Lucy</state>
+<state value="Saint Michael" statecode="" stateid="B4_9" countryid="B4">Saint Michael</state>
+<state value="Saint Peter" statecode="" stateid="B4_10" countryid="B4">Saint Peter</state>
+<state value="Saint Philip" statecode="" stateid="B4_11" countryid="B4">Saint Philip</state>
+<state value="Saint Thomas" statecode="" stateid="B4_12" countryid="B4">Saint Thomas</state>
+<state value="Brestskaya (Brest)" statecode="" stateid="B5_1" countryid="B5">Brestskaya (Brest)</state>
+<state value="Homyel'skaya (Homyel')" statecode="" stateid="B5_2" countryid="B5">Homyel'skaya (Homyel')</state>
+<state value="Horad Minsk" statecode="" stateid="B5_3" countryid="B5">Horad Minsk</state>
+<state value="Hrodzyenskaya (Hrodna)" statecode="" stateid="B5_4" countryid="B5">Hrodzyenskaya (Hrodna)</state>
+<state value="Mahilyowskaya (Mahilyow)" statecode="" stateid="B5_5" countryid="B5">Mahilyowskaya (Mahilyow)</state>
+<state value="Minskaya" statecode="" stateid="B5_6" countryid="B5">Minskaya</state>
+<state value="Vitsyebskaya (Vitsyebsk)" statecode="" stateid="B5_7" countryid="B5">Vitsyebskaya (Vitsyebsk)</state>
+<state value="Antwerpen" statecode="" stateid="B6_1" countryid="B6">Antwerpen</state>
+<state value="Brabant Wallon" statecode="" stateid="B6_2" countryid="B6">Brabant Wallon</state>
+<state value="Brussels Capitol Region" statecode="" stateid="B6_3" countryid="B6">Brussels Capitol Region</state>
+<state value="Hainaut" statecode="" stateid="B6_4" countryid="B6">Hainaut</state>
+<state value="Liege" statecode="" stateid="B6_5" countryid="B6">Liege</state>
+<state value="Limburg" statecode="" stateid="B6_6" countryid="B6">Limburg</state>
+<state value="Luxembourg" statecode="" stateid="B6_7" countryid="B6">Luxembourg</state>
+<state value="Namur" statecode="" stateid="B6_8" countryid="B6">Namur</state>
+<state value="Oost-Vlaanderen" statecode="" stateid="B6_9" countryid="B6">Oost-Vlaanderen</state>
+<state value="Vlaams Brabant" statecode="" stateid="B6_10" countryid="B6">Vlaams Brabant</state>
+<state value="West-Vlaanderen" statecode="" stateid="B6_11" countryid="B6">West-Vlaanderen</state>
+<state value="Belize" statecode="" stateid="B7_1" countryid="B7">Belize</state>
+<state value="Cayo" statecode="" stateid="B7_2" countryid="B7">Cayo</state>
+<state value="Corozal" statecode="" stateid="B7_3" countryid="B7">Corozal</state>
+<state value="Orange Walk" statecode="" stateid="B7_4" countryid="B7">Orange Walk</state>
+<state value="Stann Creek" statecode="" stateid="B7_5" countryid="B7">Stann Creek</state>
+<state value="Toledo" statecode="" stateid="B7_6" countryid="B7">Toledo</state>
+<state value="Alibori" statecode="" stateid="B8_1" countryid="B8">Alibori</state>
+<state value="Atakora" statecode="" stateid="B8_2" countryid="B8">Atakora</state>
+<state value="Atlantique" statecode="" stateid="B8_3" countryid="B8">Atlantique</state>
+<state value="Borgou" statecode="" stateid="B8_4" countryid="B8">Borgou</state>
+<state value="Collines" statecode="" stateid="B8_5" countryid="B8">Collines</state>
+<state value="Couffo" statecode="" stateid="B8_6" countryid="B8">Couffo</state>
+<state value="Donga" statecode="" stateid="B8_7" countryid="B8">Donga</state>
+<state value="Littoral" statecode="" stateid="B8_8" countryid="B8">Littoral</state>
+<state value="Mono" statecode="" stateid="B8_9" countryid="B8">Mono</state>
+<state value="Oueme" statecode="" stateid="B8_10" countryid="B8">Oueme</state>
+<state value="Plateau" statecode="" stateid="B8_11" countryid="B8">Plateau</state>
+<state value="Zou" statecode="" stateid="B8_12" countryid="B8">Zou</state>
+<state value="Devonshire" statecode="" stateid="B9_1" countryid="B9">Devonshire</state>
+<state value="Hamilton" statecode="" stateid="B9_2" countryid="B9">Hamilton</state>
+<state value="Paget" statecode="" stateid="B9_3" countryid="B9">Paget</state>
+<state value="Pembroke" statecode="" stateid="B9_4" countryid="B9">Pembroke</state>
+<state value="Saint George" statecode="" stateid="B9_5" countryid="B9">Saint George</state>
+<state value="Saint Georges" statecode="" stateid="B9_6" countryid="B9">Saint Georges</state>
+<state value="Sandys" statecode="" stateid="B9_7" countryid="B9">Sandys</state>
+<state value="Smiths" statecode="" stateid="B9_8" countryid="B9">Smiths</state>
+<state value="Southampton" statecode="" stateid="B9_9" countryid="B9">Southampton</state>
+<state value="Warwick" statecode="" stateid="B9_10" countryid="B9">Warwick</state>
+<state value="Bumthang" statecode="" stateid="B10_1" countryid="B10">Bumthang</state>
+<state value="Chhukha" statecode="" stateid="B10_2" countryid="B10">Chhukha</state>
+<state value="Chirang" statecode="" stateid="B10_3" countryid="B10">Chirang</state>
+<state value="Daga" statecode="" stateid="B10_4" countryid="B10">Daga</state>
+<state value="Geylegphug" statecode="" stateid="B10_5" countryid="B10">Geylegphug</state>
+<state value="Ha" statecode="" stateid="B10_6" countryid="B10">Ha</state>
+<state value="Lhuntshi" statecode="" stateid="B10_7" countryid="B10">Lhuntshi</state>
+<state value="Mongar" statecode="" stateid="B10_8" countryid="B10">Mongar</state>
+<state value="Paro" statecode="" stateid="B10_9" countryid="B10">Paro</state>
+<state value="Pemagatsel" statecode="" stateid="B10_10" countryid="B10">Pemagatsel</state>
+<state value="Punakha" statecode="" stateid="B10_11" countryid="B10">Punakha</state>
+<state value="Samchi" statecode="" stateid="B10_12" countryid="B10">Samchi</state>
+<state value="Samdrup Jongkhar" statecode="" stateid="B10_13" countryid="B10">Samdrup Jongkhar</state>
+<state value="Shemgang" statecode="" stateid="B10_14" countryid="B10">Shemgang</state>
+<state value="Tashigang" statecode="" stateid="B10_15" countryid="B10">Tashigang</state>
+<state value="Thimphu" statecode="" stateid="B10_16" countryid="B10">Thimphu</state>
+<state value="Tongsa" statecode="" stateid="B10_17" countryid="B10">Tongsa</state>
+<state value="Wangdi Phodrang" statecode="" stateid="B10_18" countryid="B10">Wangdi Phodrang</state>
+<state value="Beni" statecode="" stateid="B11_1" countryid="B11">Beni</state>
+<state value="Chuquisaca" statecode="" stateid="B11_2" countryid="B11">Chuquisaca</state>
+<state value="Cochabamba" statecode="" stateid="B11_3" countryid="B11">Cochabamba</state>
+<state value="La Paz" statecode="" stateid="B11_4" countryid="B11">La Paz</state>
+<state value="Oruro" statecode="" stateid="B11_5" countryid="B11">Oruro</state>
+<state value="Pando" statecode="" stateid="B11_6" countryid="B11">Pando</state>
+<state value="Potosi" statecode="" stateid="B11_7" countryid="B11">Potosi</state>
+<state value="Santa Cruz" statecode="" stateid="B11_8" countryid="B11">Santa Cruz</state>
+<state value="Tarija" statecode="" stateid="B11_9" countryid="B11">Tarija</state>
+<state value="Federation of Bosnia and Herzegovina" statecode="" stateid="B13_1" countryid="B13">Federation of Bosnia and Herzegovina</state>
+<state value="Republika Srpska" statecode="" stateid="B13_2" countryid="B13">Republika Srpska</state>
+<state value="Central" statecode="" stateid="B14_1" countryid="B14">Central</state>
+<state value="Chobe" statecode="" stateid="B14_2" countryid="B14">Chobe</state>
+<state value="Francistown" statecode="" stateid="B14_3" countryid="B14">Francistown</state>
+<state value="Gaborone" statecode="" stateid="B14_4" countryid="B14">Gaborone</state>
+<state value="Ghanzi" statecode="" stateid="B14_5" countryid="B14">Ghanzi</state>
+<state value="Kgalagadi" statecode="" stateid="B14_6" countryid="B14">Kgalagadi</state>
+<state value="Kgatleng" statecode="" stateid="B14_7" countryid="B14">Kgatleng</state>
+<state value="Kweneng" statecode="" stateid="B14_8" countryid="B14">Kweneng</state>
+<state value="Lobatse" statecode="" stateid="B14_9" countryid="B14">Lobatse</state>
+<state value="Ngamiland" statecode="" stateid="B14_10" countryid="B14">Ngamiland</state>
+<state value="North-East" statecode="" stateid="B14_11" countryid="B14">North-East</state>
+<state value="Selebi-Pikwe" statecode="" stateid="B14_12" countryid="B14">Selebi-Pikwe</state>
+<state value="South-East" statecode="" stateid="B14_13" countryid="B14">South-East</state>
+<state value="Southern" statecode="" stateid="B14_14" countryid="B14">Southern</state>
+<state value="Acre" statecode="" stateid="B15_1" countryid="B15">Acre</state>
+<state value="Alagoas" statecode="" stateid="B15_2" countryid="B15">Alagoas</state>
+<state value="Amapa" statecode="" stateid="B15_3" countryid="B15">Amapa</state>
+<state value="Amazonas" statecode="" stateid="B15_4" countryid="B15">Amazonas</state>
+<state value="Bahia" statecode="" stateid="B15_5" countryid="B15">Bahia</state>
+<state value="Ceara" statecode="" stateid="B15_6" countryid="B15">Ceara</state>
+<state value="Distrito Federal" statecode="" stateid="B15_7" countryid="B15">Distrito Federal</state>
+<state value="Espirito Santo" statecode="" stateid="B15_8" countryid="B15">Espirito Santo</state>
+<state value="Goias" statecode="" stateid="B15_9" countryid="B15">Goias</state>
+<state value="Maranhao" statecode="" stateid="B15_10" countryid="B15">Maranhao</state>
+<state value="Mato Grosso" statecode="" stateid="B15_11" countryid="B15">Mato Grosso</state>
+<state value="Mato Grosso do Sul" statecode="" stateid="B15_12" countryid="B15">Mato Grosso do Sul</state>
+<state value="Minas Gerais" statecode="" stateid="B15_13" countryid="B15">Minas Gerais</state>
+<state value="Para" statecode="" stateid="B15_14" countryid="B15">Para</state>
+<state value="Paraiba" statecode="" stateid="B15_15" countryid="B15">Paraiba</state>
+<state value="Parana" statecode="" stateid="B15_16" countryid="B15">Parana</state>
+<state value="Pernambuco" statecode="" stateid="B15_17" countryid="B15">Pernambuco</state>
+<state value="Piaui" statecode="" stateid="B15_18" countryid="B15">Piaui</state>
+<state value="Rio de Janeiro" statecode="" stateid="B15_19" countryid="B15">Rio de Janeiro</state>
+<state value="Rio Grande do Norte" statecode="" stateid="B15_20" countryid="B15">Rio Grande do Norte</state>
+<state value="Rio Grande do Sul" statecode="" stateid="B15_21" countryid="B15">Rio Grande do Sul</state>
+<state value="Rondonia" statecode="" stateid="B15_22" countryid="B15">Rondonia</state>
+<state value="Roraima" statecode="" stateid="B15_23" countryid="B15">Roraima</state>
+<state value="Santa Catarina" statecode="" stateid="B15_24" countryid="B15">Santa Catarina</state>
+<state value="Sao Paulo" statecode="" stateid="B15_25" countryid="B15">Sao Paulo</state>
+<state value="Sergipe" statecode="" stateid="B15_26" countryid="B15">Sergipe</state>
+<state value="Tocantins" statecode="" stateid="B15_27" countryid="B15">Tocantins</state>
+<state value="Anegada" statecode="" stateid="B17_1" countryid="B17">Anegada</state>
+<state value="Jost Van Dyke" statecode="" stateid="B17_2" countryid="B17">Jost Van Dyke</state>
+<state value="Tortola" statecode="" stateid="B17_3" countryid="B17">Tortola</state>
+<state value="Virgin Gorda" statecode="" stateid="B17_4" countryid="B17">Virgin Gorda</state>
+<state value="Belait" statecode="" stateid="B18_1" countryid="B18">Belait</state>
+<state value="Brunei and Muara" statecode="" stateid="B18_2" countryid="B18">Brunei and Muara</state>
+<state value="Temburong" statecode="" stateid="B18_3" countryid="B18">Temburong</state>
+<state value="Tutong" statecode="" stateid="B18_4" countryid="B18">Tutong</state>
+<state value="Blagoevgrad" statecode="" stateid="B19_1" countryid="B19">Blagoevgrad</state>
+<state value="Burgas" statecode="" stateid="B19_2" countryid="B19">Burgas</state>
+<state value="Dobrich" statecode="" stateid="B19_3" countryid="B19">Dobrich</state>
+<state value="Gabrovo" statecode="" stateid="B19_4" countryid="B19">Gabrovo</state>
+<state value="Khaskovo" statecode="" stateid="B19_5" countryid="B19">Khaskovo</state>
+<state value="Kurdzhali" statecode="" stateid="B19_6" countryid="B19">Kurdzhali</state>
+<state value="Kyustendil" statecode="" stateid="B19_7" countryid="B19">Kyustendil</state>
+<state value="Lovech" statecode="" stateid="B19_8" countryid="B19">Lovech</state>
+<state value="Montana" statecode="" stateid="B19_9" countryid="B19">Montana</state>
+<state value="Pazardzhik" statecode="" stateid="B19_10" countryid="B19">Pazardzhik</state>
+<state value="Pernik" statecode="" stateid="B19_11" countryid="B19">Pernik</state>
+<state value="Pleven" statecode="" stateid="B19_12" countryid="B19">Pleven</state>
+<state value="Plovdiv" statecode="" stateid="B19_13" countryid="B19">Plovdiv</state>
+<state value="Razgrad" statecode="" stateid="B19_14" countryid="B19">Razgrad</state>
+<state value="Ruse" statecode="" stateid="B19_15" countryid="B19">Ruse</state>
+<state value="Shumen" statecode="" stateid="B19_16" countryid="B19">Shumen</state>
+<state value="Silistra" statecode="" stateid="B19_17" countryid="B19">Silistra</state>
+<state value="Sliven" statecode="" stateid="B19_18" countryid="B19">Sliven</state>
+<state value="Smolyan" statecode="" stateid="B19_19" countryid="B19">Smolyan</state>
+<state value="Sofiya" statecode="" stateid="B19_20" countryid="B19">Sofiya</state>
+<state value="Sofiya-Grad" statecode="" stateid="B19_21" countryid="B19">Sofiya-Grad</state>
+<state value="Stara Zagora" statecode="" stateid="B19_22" countryid="B19">Stara Zagora</state>
+<state value="Turgovishte" statecode="" stateid="B19_23" countryid="B19">Turgovishte</state>
+<state value="Varna" statecode="" stateid="B19_24" countryid="B19">Varna</state>
+<state value="Veliko Turnovo" statecode="" stateid="B19_25" countryid="B19">Veliko Turnovo</state>
+<state value="Vidin" statecode="" stateid="B19_26" countryid="B19">Vidin</state>
+<state value="Vratsa" statecode="" stateid="B19_27" countryid="B19">Vratsa</state>
+<state value="Yambol" statecode="" stateid="B19_28" countryid="B19">Yambol</state>
+<state value="Bale" statecode="" stateid="B20_1" countryid="B20">Bale</state>
+<state value="Bam" statecode="" stateid="B20_2" countryid="B20">Bam</state>
+<state value="Banwa" statecode="" stateid="B20_3" countryid="B20">Banwa</state>
+<state value="Bazega" statecode="" stateid="B20_4" countryid="B20">Bazega</state>
+<state value="Bougouriba" statecode="" stateid="B20_5" countryid="B20">Bougouriba</state>
+<state value="Boulgou" statecode="" stateid="B20_6" countryid="B20">Boulgou</state>
+<state value="Boulkiemde" statecode="" stateid="B20_7" countryid="B20">Boulkiemde</state>
+<state value="Comoe" statecode="" stateid="B20_8" countryid="B20">Comoe</state>
+<state value="Ganzourgou" statecode="" stateid="B20_9" countryid="B20">Ganzourgou</state>
+<state value="Gnagna" statecode="" stateid="B20_10" countryid="B20">Gnagna</state>
+<state value="Gourma" statecode="" stateid="B20_11" countryid="B20">Gourma</state>
+<state value="Houet" statecode="" stateid="B20_12" countryid="B20">Houet</state>
+<state value="Ioba" statecode="" stateid="B20_13" countryid="B20">Ioba</state>
+<state value="Kadiogo" statecode="" stateid="B20_14" countryid="B20">Kadiogo</state>
+<state value="Kenedougou" statecode="" stateid="B20_15" countryid="B20">Kenedougou</state>
+<state value="Komandjari" statecode="" stateid="B20_16" countryid="B20">Komandjari</state>
+<state value="Kompienga" statecode="" stateid="B20_17" countryid="B20">Kompienga</state>
+<state value="Kossi" statecode="" stateid="B20_18" countryid="B20">Kossi</state>
+<state value="Koupelogo" statecode="" stateid="B20_19" countryid="B20">Koupelogo</state>
+<state value="Kouritenga" statecode="" stateid="B20_20" countryid="B20">Kouritenga</state>
+<state value="Kourweogo" statecode="" stateid="B20_21" countryid="B20">Kourweogo</state>
+<state value="Leraba" statecode="" stateid="B20_22" countryid="B20">Leraba</state>
+<state value="Loroum" statecode="" stateid="B20_23" countryid="B20">Loroum</state>
+<state value="Mouhoun" statecode="" stateid="B20_24" countryid="B20">Mouhoun</state>
+<state value="Nahouri" statecode="" stateid="B20_25" countryid="B20">Nahouri</state>
+<state value="Namentenga" statecode="" stateid="B20_26" countryid="B20">Namentenga</state>
+<state value="Naumbiel" statecode="" stateid="B20_27" countryid="B20">Naumbiel</state>
+<state value="Nayala" statecode="" stateid="B20_28" countryid="B20">Nayala</state>
+<state value="Oubritenga" statecode="" stateid="B20_29" countryid="B20">Oubritenga</state>
+<state value="Oudalan" statecode="" stateid="B20_30" countryid="B20">Oudalan</state>
+<state value="Passore" statecode="" stateid="B20_31" countryid="B20">Passore</state>
+<state value="Poni" statecode="" stateid="B20_32" countryid="B20">Poni</state>
+<state value="Samentenga" statecode="" stateid="B20_33" countryid="B20">Samentenga</state>
+<state value="Sanguie" statecode="" stateid="B20_34" countryid="B20">Sanguie</state>
+<state value="Seno" statecode="" stateid="B20_35" countryid="B20">Seno</state>
+<state value="Sissili" statecode="" stateid="B20_36" countryid="B20">Sissili</state>
+<state value="Soum" statecode="" stateid="B20_37" countryid="B20">Soum</state>
+<state value="Sourou" statecode="" stateid="B20_38" countryid="B20">Sourou</state>
+<state value="Tapoa" statecode="" stateid="B20_39" countryid="B20">Tapoa</state>
+<state value="Tuy" statecode="" stateid="B20_40" countryid="B20">Tuy</state>
+<state value="Yagha" statecode="" stateid="B20_41" countryid="B20">Yagha</state>
+<state value="Yatenga" statecode="" stateid="B20_42" countryid="B20">Yatenga</state>
+<state value="Ziro" statecode="" stateid="B20_43" countryid="B20">Ziro</state>
+<state value="Zondomo" statecode="" stateid="B20_44" countryid="B20">Zondomo</state>
+<state value="Zoundweogo" statecode="" stateid="B20_45" countryid="B20">Zoundweogo</state>
+<state value="Bubanza" statecode="" stateid="B21_1" countryid="B21">Bubanza</state>
+<state value="Bujumbura" statecode="" stateid="B21_2" countryid="B21">Bujumbura</state>
+<state value="Bururi" statecode="" stateid="B21_3" countryid="B21">Bururi</state>
+<state value="Cankuzo" statecode="" stateid="B21_4" countryid="B21">Cankuzo</state>
+<state value="Cibitoke" statecode="" stateid="B21_5" countryid="B21">Cibitoke</state>
+<state value="Gitega" statecode="" stateid="B21_6" countryid="B21">Gitega</state>
+<state value="Karuzi" statecode="" stateid="B21_7" countryid="B21">Karuzi</state>
+<state value="Kayanza" statecode="" stateid="B21_8" countryid="B21">Kayanza</state>
+<state value="Kirundo" statecode="" stateid="B21_9" countryid="B21">Kirundo</state>
+<state value="Makamba" statecode="" stateid="B21_10" countryid="B21">Makamba</state>
+<state value="Muramvya" statecode="" stateid="B21_11" countryid="B21">Muramvya</state>
+<state value="Muyinga" statecode="" stateid="B21_12" countryid="B21">Muyinga</state>
+<state value="Mwaro" statecode="" stateid="B21_13" countryid="B21">Mwaro</state>
+<state value="Ngozi" statecode="" stateid="B21_14" countryid="B21">Ngozi</state>
+<state value="Rutana" statecode="" stateid="B21_15" countryid="B21">Rutana</state>
+<state value="Ruyigi" statecode="" stateid="B21_16" countryid="B21">Ruyigi</state>
+<state value="Boa Vista" statecode="" stateid="C1_1" countryid="C1">Boa Vista</state>
+<state value="Brava" statecode="" stateid="C1_2" countryid="C1">Brava</state>
+<state value="Maio" statecode="" stateid="C1_3" countryid="C1">Maio</state>
+<state value="Mosteiros" statecode="" stateid="C1_4" countryid="C1">Mosteiros</state>
+<state value="Paul" statecode="" stateid="C1_5" countryid="C1">Paul</state>
+<state value="Porto Novo" statecode="" stateid="C1_6" countryid="C1">Porto Novo</state>
+<state value="Praia" statecode="" stateid="C1_7" countryid="C1">Praia</state>
+<state value="Ribeira Grande" statecode="" stateid="C1_8" countryid="C1">Ribeira Grande</state>
+<state value="Sal" statecode="" stateid="C1_9" countryid="C1">Sal</state>
+<state value="Santa Catarina" statecode="" stateid="C1_10" countryid="C1">Santa Catarina</state>
+<state value="Santa Cruz" statecode="" stateid="C1_11" countryid="C1">Santa Cruz</state>
+<state value="Sao Domingos" statecode="" stateid="C1_12" countryid="C1">Sao Domingos</state>
+<state value="Sao Filipe" statecode="" stateid="C1_13" countryid="C1">Sao Filipe</state>
+<state value="Sao Nicolau" statecode="" stateid="C1_14" countryid="C1">Sao Nicolau</state>
+<state value="Sao Vicente" statecode="" stateid="C1_15" countryid="C1">Sao Vicente</state>
+<state value="Tarrafal" statecode="" stateid="C1_16" countryid="C1">Tarrafal</state>
+<state value="Creek" statecode="" stateid="C4_1" countryid="C4">Creek</state>
+<state value="Eastern" statecode="" stateid="C4_2" countryid="C4">Eastern</state>
+<state value="Midland" statecode="" stateid="C4_3" countryid="C4">Midland</state>
+<state value="South Town" statecode="" stateid="C4_4" countryid="C4">South Town</state>
+<state value="Spot Bay" statecode="" stateid="C4_5" countryid="C4">Spot Bay</state>
+<state value="Stake Bay" statecode="" stateid="C4_6" countryid="C4">Stake Bay</state>
+<state value="West End" statecode="" stateid="C4_7" countryid="C4">West End</state>
+<state value="Western" statecode="" stateid="C4_8" countryid="C4">Western</state>
+<state value="Bamingui-Bangoran" statecode="" stateid="C5_1" countryid="C5">Bamingui-Bangoran</state>
+<state value="Bangui" statecode="" stateid="C5_2" countryid="C5">Bangui</state>
+<state value="Basse-Kotto" statecode="" stateid="C5_3" countryid="C5">Basse-Kotto</state>
+<state value="Gribingui" statecode="" stateid="C5_4" countryid="C5">Gribingui</state>
+<state value="Haut-Mbomou" statecode="" stateid="C5_5" countryid="C5">Haut-Mbomou</state>
+<state value="Haute-Kotto" statecode="" stateid="C5_6" countryid="C5">Haute-Kotto</state>
+<state value="Haute-Sangha" statecode="" stateid="C5_7" countryid="C5">Haute-Sangha</state>
+<state value="Kemo-Gribingui" statecode="" stateid="C5_8" countryid="C5">Kemo-Gribingui</state>
+<state value="Lobaye" statecode="" stateid="C5_9" countryid="C5">Lobaye</state>
+<state value="Mbomou" statecode="" stateid="C5_10" countryid="C5">Mbomou</state>
+<state value="Nana-Mambere" statecode="" stateid="C5_11" countryid="C5">Nana-Mambere</state>
+<state value="Ombella-Mpoko" statecode="" stateid="C5_12" countryid="C5">Ombella-Mpoko</state>
+<state value="Ouaka" statecode="" stateid="C5_13" countryid="C5">Ouaka</state>
+<state value="Ouham" statecode="" stateid="C5_14" countryid="C5">Ouham</state>
+<state value="Ouham-Pende" statecode="" stateid="C5_15" countryid="C5">Ouham-Pende</state>
+<state value="Sangha" statecode="" stateid="C5_16" countryid="C5">Sangha</state>
+<state value="Vakaga" statecode="" stateid="C5_17" countryid="C5">Vakaga</state>
+<state value="Batha" statecode="" stateid="C6_1" countryid="C6">Batha</state>
+<state value="Biltine" statecode="" stateid="C6_2" countryid="C6">Biltine</state>
+<state value="Borkou-Ennedi-Tibesti" statecode="" stateid="C6_3" countryid="C6">Borkou-Ennedi-Tibesti</state>
+<state value="Chari-Baguirmi" statecode="" stateid="C6_4" countryid="C6">Chari-Baguirmi</state>
+<state value="Guera" statecode="" stateid="C6_5" countryid="C6">Guera</state>
+<state value="Kanem" statecode="" stateid="C6_6" countryid="C6">Kanem</state>
+<state value="Lac" statecode="" stateid="C6_7" countryid="C6">Lac</state>
+<state value="Logone Occidental" statecode="" stateid="C6_8" countryid="C6">Logone Occidental</state>
+<state value="Logone Oriental" statecode="" stateid="C6_9" countryid="C6">Logone Oriental</state>
+<state value="Mayo-Kebbi" statecode="" stateid="C6_10" countryid="C6">Mayo-Kebbi</state>
+<state value="Moyen-Chari" statecode="" stateid="C6_11" countryid="C6">Moyen-Chari</state>
+<state value="Ouaddai" statecode="" stateid="C6_12" countryid="C6">Ouaddai</state>
+<state value="Salamat" statecode="" stateid="C6_13" countryid="C6">Salamat</state>
+<state value="Tandjile" statecode="" stateid="C6_14" countryid="C6">Tandjile</state>
+<state value="Aisen del General Carlos Ibanez del Campo" statecode="" stateid="C7_1" countryid="C7">Aisen del General Carlos Ibanez del Campo</state>
+<state value="Antofagasta" statecode="" stateid="C7_2" countryid="C7">Antofagasta</state>
+<state value="Araucania" statecode="" stateid="C7_3" countryid="C7">Araucania</state>
+<state value="Atacama" statecode="" stateid="C7_4" countryid="C7">Atacama</state>
+<state value="Bio-Bio" statecode="" stateid="C7_5" countryid="C7">Bio-Bio</state>
+<state value="Coquimbo" statecode="" stateid="C7_6" countryid="C7">Coquimbo</state>
+<state value="Libertador General Bernardo O'Higgins" statecode="" stateid="C7_7" countryid="C7">Libertador General Bernardo O'Higgins</state>
+<state value="Los Lagos" statecode="" stateid="C7_8" countryid="C7">Los Lagos</state>
+<state value="Magallanes y de la Antartica Chilena" statecode="" stateid="C7_9" countryid="C7">Magallanes y de la Antartica Chilena</state>
+<state value="Maule" statecode="" stateid="C7_10" countryid="C7">Maule</state>
+<state value="Region Metropolitana (Santiago)" statecode="" stateid="C7_11" countryid="C7">Region Metropolitana (Santiago)</state>
+<state value="Tarapaca" statecode="" stateid="C7_12" countryid="C7">Tarapaca</state>
+<state value="Valparaiso" statecode="" stateid="C7_13" countryid="C7">Valparaiso</state>
+<state value="Anhui" statecode="" stateid="C8_1" countryid="C8">Anhui</state>
+<state value="Beijing" statecode="" stateid="C8_2" countryid="C8">Beijing</state>
+<state value="Chongqing" statecode="" stateid="C8_3" countryid="C8">Chongqing</state>
+<state value="Fujian" statecode="" stateid="C8_4" countryid="C8">Fujian</state>
+<state value="Gansu" statecode="" stateid="C8_5" countryid="C8">Gansu</state>
+<state value="Guangdong" statecode="" stateid="C8_6" countryid="C8">Guangdong</state>
+<state value="Guangxi" statecode="" stateid="C8_7" countryid="C8">Guangxi</state>
+<state value="Guizhou" statecode="" stateid="C8_8" countryid="C8">Guizhou</state>
+<state value="Hainan" statecode="" stateid="C8_9" countryid="C8">Hainan</state>
+<state value="Hebei" statecode="" stateid="C8_10" countryid="C8">Hebei</state>
+<state value="Heilongjiang" statecode="" stateid="C8_11" countryid="C8">Heilongjiang</state>
+<state value="Henan" statecode="" stateid="C8_12" countryid="C8">Henan</state>
+<state value="Hubei" statecode="" stateid="C8_13" countryid="C8">Hubei</state>
+<state value="Hunan" statecode="" stateid="C8_14" countryid="C8">Hunan</state>
+<state value="Jiangsu" statecode="" stateid="C8_15" countryid="C8">Jiangsu</state>
+<state value="Jiangxi" statecode="" stateid="C8_16" countryid="C8">Jiangxi</state>
+<state value="Jilin" statecode="" stateid="C8_17" countryid="C8">Jilin</state>
+<state value="Liaoning" statecode="" stateid="C8_18" countryid="C8">Liaoning</state>
+<state value="Nei Mongol" statecode="" stateid="C8_19" countryid="C8">Nei Mongol</state>
+<state value="Ningxia" statecode="" stateid="C8_20" countryid="C8">Ningxia</state>
+<state value="Qinghai" statecode="" stateid="C8_21" countryid="C8">Qinghai</state>
+<state value="Shaanxi" statecode="" stateid="C8_22" countryid="C8">Shaanxi</state>
+<state value="Shandong" statecode="" stateid="C8_23" countryid="C8">Shandong</state>
+<state value="Shanghai" statecode="" stateid="C8_24" countryid="C8">Shanghai</state>
+<state value="Shanxi" statecode="" stateid="C8_25" countryid="C8">Shanxi</state>
+<state value="Sichuan" statecode="" stateid="C8_26" countryid="C8">Sichuan</state>
+<state value="Tianjin" statecode="" stateid="C8_27" countryid="C8">Tianjin</state>
+<state value="Xinjiang" statecode="" stateid="C8_28" countryid="C8">Xinjiang</state>
+<state value="Xizang (Tibet)" statecode="" stateid="C8_29" countryid="C8">Xizang (Tibet)</state>
+<state value="Yunnan" statecode="" stateid="C8_30" countryid="C8">Yunnan</state>
+<state value="Zhejiang" statecode="" stateid="C8_31" countryid="C8">Zhejiang</state>
+<state value="Christmas Island" statecode="" stateid="C9_1" countryid="C9">Christmas Island</state>
+<state value="Direction Island" statecode="" stateid="C10_1" countryid="C10">Direction Island</state>
+<state value="Home Island" statecode="" stateid="C10_2" countryid="C10">Home Island</state>
+<state value="Horsburgh Island" statecode="" stateid="C10_3" countryid="C10">Horsburgh Island</state>
+<state value="North Keeling Island" statecode="" stateid="C10_4" countryid="C10">North Keeling Island</state>
+<state value="South Island" statecode="" stateid="C10_5" countryid="C10">South Island</state>
+<state value="West Island" statecode="" stateid="C10_6" countryid="C10">West Island</state>
+<state value="Amazonas" statecode="" stateid="C11_1" countryid="C11">Amazonas</state>
+<state value="Antioquia" statecode="" stateid="C11_2" countryid="C11">Antioquia</state>
+<state value="Arauca" statecode="" stateid="C11_3" countryid="C11">Arauca</state>
+<state value="Atlantico" statecode="" stateid="C11_4" countryid="C11">Atlantico</state>
+<state value="Bolivar" statecode="" stateid="C11_5" countryid="C11">Bolivar</state>
+<state value="Boyaca" statecode="" stateid="C11_6" countryid="C11">Boyaca</state>
+<state value="Caldas" statecode="" stateid="C11_7" countryid="C11">Caldas</state>
+<state value="Caqueta" statecode="" stateid="C11_8" countryid="C11">Caqueta</state>
+<state value="Casanare" statecode="" stateid="C11_9" countryid="C11">Casanare</state>
+<state value="Cauca" statecode="" stateid="C11_10" countryid="C11">Cauca</state>
+<state value="Cesar" statecode="" stateid="C11_11" countryid="C11">Cesar</state>
+<state value="Choco" statecode="" stateid="C11_12" countryid="C11">Choco</state>
+<state value="Cordoba" statecode="" stateid="C11_13" countryid="C11">Cordoba</state>
+<state value="Cundinamarca" statecode="" stateid="C11_14" countryid="C11">Cundinamarca</state>
+<state value="Distrito Capital de Santa Fe de Bogota" statecode="" stateid="C11_15" countryid="C11">Distrito Capital de Santa Fe de Bogota</state>
+<state value="Guainia" statecode="" stateid="C11_16" countryid="C11">Guainia</state>
+<state value="Guaviare" statecode="" stateid="C11_17" countryid="C11">Guaviare</state>
+<state value="Huila" statecode="" stateid="C11_18" countryid="C11">Huila</state>
+<state value="La Guajira" statecode="" stateid="C11_19" countryid="C11">La Guajira</state>
+<state value="Magdalena" statecode="" stateid="C11_20" countryid="C11">Magdalena</state>
+<state value="Meta" statecode="" stateid="C11_21" countryid="C11">Meta</state>
+<state value="Narino" statecode="" stateid="C11_22" countryid="C11">Narino</state>
+<state value="Norte de Santander" statecode="" stateid="C11_23" countryid="C11">Norte de Santander</state>
+<state value="Putumayo" statecode="" stateid="C11_24" countryid="C11">Putumayo</state>
+<state value="Quindio" statecode="" stateid="C11_25" countryid="C11">Quindio</state>
+<state value="Risaralda" statecode="" stateid="C11_26" countryid="C11">Risaralda</state>
+<state value="San Andres y Providencia" statecode="" stateid="C11_27" countryid="C11">San Andres y Providencia</state>
+<state value="Santander" statecode="" stateid="C11_28" countryid="C11">Santander</state>
+<state value="Sucre" statecode="" stateid="C11_29" countryid="C11">Sucre</state>
+<state value="Tolima" statecode="" stateid="C11_30" countryid="C11">Tolima</state>
+<state value="Valle del Cauca" statecode="" stateid="C11_31" countryid="C11">Valle del Cauca</state>
+<state value="Vaupes" statecode="" stateid="C11_32" countryid="C11">Vaupes</state>
+<state value="Vichada" statecode="" stateid="C11_33" countryid="C11">Vichada</state>
+<state value="Anjouan (Nzwani)" statecode="" stateid="C12_1" countryid="C12">Anjouan (Nzwani)</state>
+<state value="Domoni" statecode="" stateid="C12_2" countryid="C12">Domoni</state>
+<state value="Fomboni" statecode="" stateid="C12_3" countryid="C12">Fomboni</state>
+<state value="Grande Comore (Njazidja)" statecode="" stateid="C12_4" countryid="C12">Grande Comore (Njazidja)</state>
+<state value="Moheli (Mwali)" statecode="" stateid="C12_5" countryid="C12">Moheli (Mwali)</state>
+<state value="Moroni" statecode="" stateid="C12_6" countryid="C12">Moroni</state>
+<state value="Moutsamoudou" statecode="" stateid="C12_7" countryid="C12">Moutsamoudou</state>
+<state value="Bouenza" statecode="" stateid="C13_1" countryid="C13">Bouenza</state>
+<state value="Brazzaville" statecode="" stateid="C13_2" countryid="C13">Brazzaville</state>
+<state value="Cuvette" statecode="" stateid="C13_3" countryid="C13">Cuvette</state>
+<state value="Kouilou" statecode="" stateid="C13_4" countryid="C13">Kouilou</state>
+<state value="Lekoumou" statecode="" stateid="C13_5" countryid="C13">Lekoumou</state>
+<state value="Likouala" statecode="" stateid="C13_6" countryid="C13">Likouala</state>
+<state value="Niari" statecode="" stateid="C13_7" countryid="C13">Niari</state>
+<state value="Plateaux" statecode="" stateid="C13_8" countryid="C13">Plateaux</state>
+<state value="Pool" statecode="" stateid="C13_9" countryid="C13">Pool</state>
+<state value="Sangha" statecode="" stateid="C13_10" countryid="C13">Sangha</state>
+<state value="Bandundu" statecode="" stateid="C14_1" countryid="C14">Bandundu</state>
+<state value="Bas-Congo" statecode="" stateid="C14_2" countryid="C14">Bas-Congo</state>
+<state value="Equateur" statecode="" stateid="C14_3" countryid="C14">Equateur</state>
+<state value="Kasai-Occidental" statecode="" stateid="C14_4" countryid="C14">Kasai-Occidental</state>
+<state value="Kasai-Oriental" statecode="" stateid="C14_5" countryid="C14">Kasai-Oriental</state>
+<state value="Katanga" statecode="" stateid="C14_6" countryid="C14">Katanga</state>
+<state value="Kinshasa" statecode="" stateid="C14_7" countryid="C14">Kinshasa</state>
+<state value="Maniema" statecode="" stateid="C14_8" countryid="C14">Maniema</state>
+<state value="Nord-Kivu" statecode="" stateid="C14_9" countryid="C14">Nord-Kivu</state>
+<state value="Orientale" statecode="" stateid="C14_10" countryid="C14">Orientale</state>
+<state value="Sud-Kivu" statecode="" stateid="C14_11" countryid="C14">Sud-Kivu</state>
+<state value="Aitutaki" statecode="" stateid="C15_1" countryid="C15">Aitutaki</state>
+<state value="Atiu" statecode="" stateid="C15_2" countryid="C15">Atiu</state>
+<state value="Avarua" statecode="" stateid="C15_3" countryid="C15">Avarua</state>
+<state value="Mangaia" statecode="" stateid="C15_4" countryid="C15">Mangaia</state>
+<state value="Manihiki" statecode="" stateid="C15_5" countryid="C15">Manihiki</state>
+<state value="Manuae" statecode="" stateid="C15_6" countryid="C15">Manuae</state>
+<state value="Mauke" statecode="" stateid="C15_7" countryid="C15">Mauke</state>
+<state value="Mitiaro" statecode="" stateid="C15_8" countryid="C15">Mitiaro</state>
+<state value="Nassau Island" statecode="" stateid="C15_9" countryid="C15">Nassau Island</state>
+<state value="Palmerston" statecode="" stateid="C15_10" countryid="C15">Palmerston</state>
+<state value="Penrhyn" statecode="" stateid="C15_11" countryid="C15">Penrhyn</state>
+<state value="Pukapuka" statecode="" stateid="C15_12" countryid="C15">Pukapuka</state>
+<state value="Rakahanga" statecode="" stateid="C15_13" countryid="C15">Rakahanga</state>
+<state value="Rarotonga" statecode="" stateid="C15_14" countryid="C15">Rarotonga</state>
+<state value="Suwarrow" statecode="" stateid="C15_15" countryid="C15">Suwarrow</state>
+<state value="Takutea" statecode="" stateid="C15_16" countryid="C15">Takutea</state>
+<state value="Alajuela" statecode="" stateid="C16_1" countryid="C16">Alajuela</state>
+<state value="Cartago" statecode="" stateid="C16_2" countryid="C16">Cartago</state>
+<state value="Guanacaste" statecode="" stateid="C16_3" countryid="C16">Guanacaste</state>
+<state value="Heredia" statecode="" stateid="C16_4" countryid="C16">Heredia</state>
+<state value="Limon" statecode="" stateid="C16_5" countryid="C16">Limon</state>
+<state value="Puntarenas" statecode="" stateid="C16_6" countryid="C16">Puntarenas</state>
+<state value="San Jose" statecode="" stateid="C16_7" countryid="C16">San Jose</state>
+<state value="Abengourou" statecode="" stateid="C17_1" countryid="C17">Abengourou</state>
+<state value="Abidjan" statecode="" stateid="C17_2" countryid="C17">Abidjan</state>
+<state value="Aboisso" statecode="" stateid="C17_3" countryid="C17">Aboisso</state>
+<state value="Adiake" statecode="" stateid="C17_4" countryid="C17">Adiake'</state>
+<state value="Adzope" statecode="" stateid="C17_5" countryid="C17">Adzope</state>
+<state value="Agboville" statecode="" stateid="C17_6" countryid="C17">Agboville</state>
+<state value="Agnibilekrou" statecode="" stateid="C17_7" countryid="C17">Agnibilekrou</state>
+<state value="Ale'pe'" statecode="" stateid="C17_8" countryid="C17">Ale'pe'</state>
+<state value="Bangolo" statecode="" stateid="C17_9" countryid="C17">Bangolo</state>
+<state value="Beoumi" statecode="" stateid="C17_10" countryid="C17">Beoumi</state>
+<state value="Biankouma" statecode="" stateid="C17_11" countryid="C17">Biankouma</state>
+<state value="Bocanda" statecode="" stateid="C17_12" countryid="C17">Bocanda</state>
+<state value="Bondoukou" statecode="" stateid="C17_13" countryid="C17">Bondoukou</state>
+<state value="Bongouanou" statecode="" stateid="C17_14" countryid="C17">Bongouanou</state>
+<state value="Bouafle" statecode="" stateid="C17_15" countryid="C17">Bouafle</state>
+<state value="Bouake" statecode="" stateid="C17_16" countryid="C17">Bouake</state>
+<state value="Bouna" statecode="" stateid="C17_17" countryid="C17">Bouna</state>
+<state value="Boundiali" statecode="" stateid="C17_18" countryid="C17">Boundiali</state>
+<state value="Dabakala" statecode="" stateid="C17_19" countryid="C17">Dabakala</state>
+<state value="Dabon" statecode="" stateid="C17_20" countryid="C17">Dabon</state>
+<state value="Daloa" statecode="" stateid="C17_21" countryid="C17">Daloa</state>
+<state value="Danane" statecode="" stateid="C17_22" countryid="C17">Danane</state>
+<state value="Daoukro" statecode="" stateid="C17_23" countryid="C17">Daoukro</state>
+<state value="Dimbokro" statecode="" stateid="C17_24" countryid="C17">Dimbokro</state>
+<state value="Divo" statecode="" stateid="C17_25" countryid="C17">Divo</state>
+<state value="Duekoue" statecode="" stateid="C17_26" countryid="C17">Duekoue</state>
+<state value="Ferkessedougou" statecode="" stateid="C17_27" countryid="C17">Ferkessedougou</state>
+<state value="Gagnoa" statecode="" stateid="C17_28" countryid="C17">Gagnoa</state>
+<state value="Grand Bassam" statecode="" stateid="C17_29" countryid="C17">Grand Bassam</state>
+<state value="Grand-Lahou" statecode="" stateid="C17_30" countryid="C17">Grand-Lahou</state>
+<state value="Guiglo" statecode="" stateid="C17_31" countryid="C17">Guiglo</state>
+<state value="Issia" statecode="" stateid="C17_32" countryid="C17">Issia</state>
+<state value="Jacqueville" statecode="" stateid="C17_33" countryid="C17">Jacqueville</state>
+<state value="Katiola" statecode="" stateid="C17_34" countryid="C17">Katiola</state>
+<state value="Korhogo" statecode="" stateid="C17_35" countryid="C17">Korhogo</state>
+<state value="Lakota" statecode="" stateid="C17_36" countryid="C17">Lakota</state>
+<state value="Man" statecode="" stateid="C17_37" countryid="C17">Man</state>
+<state value="Mankono" statecode="" stateid="C17_38" countryid="C17">Mankono</state>
+<state value="Mbahiakro" statecode="" stateid="C17_39" countryid="C17">Mbahiakro</state>
+<state value="Odienne" statecode="" stateid="C17_40" countryid="C17">Odienne</state>
+<state value="Oume" statecode="" stateid="C17_41" countryid="C17">Oume</state>
+<state value="Sakassou" statecode="" stateid="C17_42" countryid="C17">Sakassou</state>
+<state value="San-Pedro" statecode="" stateid="C17_43" countryid="C17">San-Pedro</state>
+<state value="Sassandra" statecode="" stateid="C17_44" countryid="C17">Sassandra</state>
+<state value="Seguela" statecode="" stateid="C17_45" countryid="C17">Seguela</state>
+<state value="Sinfra" statecode="" stateid="C17_46" countryid="C17">Sinfra</state>
+<state value="Soubre" statecode="" stateid="C17_47" countryid="C17">Soubre</state>
+<state value="Tabou" statecode="" stateid="C17_48" countryid="C17">Tabou</state>
+<state value="Tanda" statecode="" stateid="C17_49" countryid="C17">Tanda</state>
+<state value="Tiassale" statecode="" stateid="C17_50" countryid="C17">Tiassale</state>
+<state value="Tiebissou" statecode="" stateid="C17_51" countryid="C17">Tiebissou</state>
+<state value="Tingrela" statecode="" stateid="C17_52" countryid="C17">Tingrela</state>
+<state value="Touba" statecode="" stateid="C17_53" countryid="C17">Touba</state>
+<state value="Toulepleu" statecode="" stateid="C17_54" countryid="C17">Toulepleu</state>
+<state value="Toumodi" statecode="" stateid="C17_55" countryid="C17">Toumodi</state>
+<state value="Vavoua" statecode="" stateid="C17_56" countryid="C17">Vavoua</state>
+<state value="Yamoussoukro" statecode="" stateid="C17_57" countryid="C17">Yamoussoukro</state>
+<state value="Zuenoula" statecode="" stateid="C17_58" countryid="C17">Zuenoula</state>
+<state value="Bjelovarsko-Bilogorska Zupanija" statecode="" stateid="C18_1" countryid="C18">Bjelovarsko-Bilogorska Zupanija</state>
+<state value="Brodsko-Posavska Zupanija" statecode="" stateid="C18_2" countryid="C18">Brodsko-Posavska Zupanija</state>
+<state value="Dubrovacko-Neretvanska Zupanija" statecode="" stateid="C18_3" countryid="C18">Dubrovacko-Neretvanska Zupanija</state>
+<state value="Istarska Zupanija" statecode="" stateid="C18_4" countryid="C18">Istarska Zupanija</state>
+<state value="Karlovacka Zupanija" statecode="" stateid="C18_5" countryid="C18">Karlovacka Zupanija</state>
+<state value="Koprivnicko-Krizevacka Zupanija" statecode="" stateid="C18_6" countryid="C18">Koprivnicko-Krizevacka Zupanija</state>
+<state value="Krapinsko-Zagorska Zupanija" statecode="" stateid="C18_7" countryid="C18">Krapinsko-Zagorska Zupanija</state>
+<state value="Licko-Senjska Zupanija" statecode="" stateid="C18_8" countryid="C18">Licko-Senjska Zupanija</state>
+<state value="Medimurska Zupanija" statecode="" stateid="C18_9" countryid="C18">Medimurska Zupanija</state>
+<state value="Osjecko-Baranjska Zupanija" statecode="" stateid="C18_10" countryid="C18">Osjecko-Baranjska Zupanija</state>
+<state value="Pozesko-Slavonska Zupanija" statecode="" stateid="C18_11" countryid="C18">Pozesko-Slavonska Zupanija</state>
+<state value="Primorsko-Goranska Zupanija" statecode="" stateid="C18_12" countryid="C18">Primorsko-Goranska Zupanija</state>
+<state value="Sibensko-Kninska Zupanija" statecode="" stateid="C18_13" countryid="C18">Sibensko-Kninska Zupanija</state>
+<state value="Sisacko-Moslavacka Zupanija" statecode="" stateid="C18_14" countryid="C18">Sisacko-Moslavacka Zupanija</state>
+<state value="Splitsko-Dalmatinska Zupanija" statecode="" stateid="C18_15" countryid="C18">Splitsko-Dalmatinska Zupanija</state>
+<state value="Varazdinska Zupanija" statecode="" stateid="C18_16" countryid="C18">Varazdinska Zupanija</state>
+<state value="Viroviticko-Podravska Zupanija" statecode="" stateid="C18_17" countryid="C18">Viroviticko-Podravska Zupanija</state>
+<state value="Vukovarsko-Srijemska Zupanija" statecode="" stateid="C18_18" countryid="C18">Vukovarsko-Srijemska Zupanija</state>
+<state value="Zadarska Zupanija" statecode="" stateid="C18_19" countryid="C18">Zadarska Zupanija</state>
+<state value="Zagreb" statecode="" stateid="C18_20" countryid="C18">Zagreb</state>
+<state value="Zagrebacka Zupanija" statecode="" stateid="C18_21" countryid="C18">Zagrebacka Zupanija</state>
+<state value="Camaguey" statecode="" stateid="C19_1" countryid="C19">Camaguey</state>
+<state value="Ciego de Avila" statecode="" stateid="C19_2" countryid="C19">Ciego de Avila</state>
+<state value="Cienfuegos" statecode="" stateid="C19_3" countryid="C19">Cienfuegos</state>
+<state value="Ciudad de La Habana" statecode="" stateid="C19_4" countryid="C19">Ciudad de La Habana</state>
+<state value="Granma" statecode="" stateid="C19_5" countryid="C19">Granma</state>
+<state value="Guantanamo" statecode="" stateid="C19_6" countryid="C19">Guantanamo</state>
+<state value="Holguin" statecode="" stateid="C19_7" countryid="C19">Holguin</state>
+<state value="Isla de la Juventud" statecode="" stateid="C19_8" countryid="C19">Isla de la Juventud</state>
+<state value="La Habana" statecode="" stateid="C19_9" countryid="C19">La Habana</state>
+<state value="Las Tunas" statecode="" stateid="C19_10" countryid="C19">Las Tunas</state>
+<state value="Matanzas" statecode="" stateid="C19_11" countryid="C19">Matanzas</state>
+<state value="Pinar del Rio" statecode="" stateid="C19_12" countryid="C19">Pinar del Rio</state>
+<state value="Sancti Spiritus" statecode="" stateid="C19_13" countryid="C19">Sancti Spiritus</state>
+<state value="Santiago de Cuba" statecode="" stateid="C19_14" countryid="C19">Santiago de Cuba</state>
+<state value="Villa Clara" statecode="" stateid="C19_15" countryid="C19">Villa Clara</state>
+<state value="Famagusta" statecode="" stateid="C21_1" countryid="C21">Famagusta</state>
+<state value="Kyrenia" statecode="" stateid="C21_2" countryid="C21">Kyrenia</state>
+<state value="Larnaca" statecode="" stateid="C21_3" countryid="C21">Larnaca</state>
+<state value="Limassol" statecode="" stateid="C21_4" countryid="C21">Limassol</state>
+<state value="Nicosia" statecode="" stateid="C21_5" countryid="C21">Nicosia</state>
+<state value="Paphos" statecode="" stateid="C21_6" countryid="C21">Paphos</state>
+<state value="Brnensky" statecode="" stateid="C22_1" countryid="C22">Brnensky</state>
+<state value="Budejovicky" statecode="" stateid="C22_2" countryid="C22">Budejovicky</state>
+<state value="Jihlavsky" statecode="" stateid="C22_3" countryid="C22">Jihlavsky</state>
+<state value="Karlovarsky" statecode="" stateid="C22_4" countryid="C22">Karlovarsky</state>
+<state value="Kralovehradecky" statecode="" stateid="C22_5" countryid="C22">Kralovehradecky</state>
+<state value="Liberecky" statecode="" stateid="C22_6" countryid="C22">Liberecky</state>
+<state value="Olomoucky" statecode="" stateid="C22_7" countryid="C22">Olomoucky</state>
+<state value="Ostravsky" statecode="" stateid="C22_8" countryid="C22">Ostravsky</state>
+<state value="Pardubicky" statecode="" stateid="C22_9" countryid="C22">Pardubicky</state>
+<state value="Plzensky" statecode="" stateid="C22_10" countryid="C22">Plzensky</state>
+<state value="Praha" statecode="" stateid="C22_11" countryid="C22">Praha</state>
+<state value="Stredocesky" statecode="" stateid="C22_12" countryid="C22">Stredocesky</state>
+<state value="Ustecky" statecode="" stateid="C22_13" countryid="C22">Ustecky</state>
+<state value="Zlinsky" statecode="" stateid="C22_14" countryid="C22">Zlinsky</state>
+<state value="Prague" statecode="" stateid="C22_15" countryid="C22">Prague</state>
+<state value="Banteay Mean Cheay" statecode="" stateid="C23_1" countryid="C23">Banteay Mean Cheay</state>
+<state value="Batdambang" statecode="" stateid="C23_2" countryid="C23">Batdambang</state>
+<state value="Kampong Cham" statecode="" stateid="C23_3" countryid="C23">Kampong Cham</state>
+<state value="Kampong Chhnang" statecode="" stateid="C23_4" countryid="C23">Kampong Chhnang</state>
+<state value="Kampong Spoe" statecode="" stateid="C23_5" countryid="C23">Kampong Spoe</state>
+<state value="Kampong Thum" statecode="" stateid="C23_6" countryid="C23">Kampong Thum</state>
+<state value="Kampot" statecode="" stateid="C23_7" countryid="C23">Kampot</state>
+<state value="Kandal" statecode="" stateid="C23_8" countryid="C23">Kandal</state>
+<state value="Kaoh Kong" statecode="" stateid="C23_9" countryid="C23">Kaoh Kong</state>
+<state value="Keb" statecode="" stateid="C23_10" countryid="C23">Keb</state>
+<state value="Kracheh" statecode="" stateid="C23_11" countryid="C23">Kracheh</state>
+<state value="Mondol Kiri" statecode="" stateid="C23_12" countryid="C23">Mondol Kiri</state>
+<state value="Otdar Mean Cheay" statecode="" stateid="C23_13" countryid="C23">Otdar Mean Cheay</state>
+<state value="Pailin" statecode="" stateid="C23_14" countryid="C23">Pailin</state>
+<state value="Phnum Penh" statecode="" stateid="C23_15" countryid="C23">Phnum Penh</state>
+<state value="Pouthisat" statecode="" stateid="C23_16" countryid="C23">Pouthisat</state>
+<state value="Preah Seihanu (Sihanoukville)" statecode="" stateid="C23_17" countryid="C23">Preah Seihanu (Sihanoukville)</state>
+<state value="Preah Vihear" statecode="" stateid="C23_18" countryid="C23">Preah Vihear</state>
+<state value="Prey Veng" statecode="" stateid="C23_19" countryid="C23">Prey Veng</state>
+<state value="Rotanah Kiri" statecode="" stateid="C23_20" countryid="C23">Rotanah Kiri</state>
+<state value="Siem Reab" statecode="" stateid="C23_21" countryid="C23">Siem Reab</state>
+<state value="Stoeng Treng" statecode="" stateid="C23_22" countryid="C23">Stoeng Treng</state>
+<state value="Svay Rieng" statecode="" stateid="C23_23" countryid="C23">Svay Rieng</state>
+<state value="Takev" statecode="" stateid="C23_24" countryid="C23">Takev</state>
+<state value="Adamaoua" statecode="" stateid="C24_1" countryid="C24">Adamaoua</state>
+<state value="Centre" statecode="" stateid="C24_2" countryid="C24">Centre</state>
+<state value="Est" statecode="" stateid="C24_3" countryid="C24">Est</state>
+<state value="Extreme-Nord" statecode="" stateid="C24_4" countryid="C24">Extreme-Nord</state>
+<state value="Littoral" statecode="" stateid="C24_5" countryid="C24">Littoral</state>
+<state value="Nord" statecode="" stateid="C24_6" countryid="C24">Nord</state>
+<state value="Nord-Ouest" statecode="" stateid="C24_7" countryid="C24">Nord-Ouest</state>
+<state value="Ouest" statecode="" stateid="C24_8" countryid="C24">Ouest</state>
+<state value="Sud" statecode="" stateid="C24_9" countryid="C24">Sud</state>
+<state value="Sud-Ouest" statecode="" stateid="C24_10" countryid="C24">Sud-Ouest</state>
+<state value="Arhus" statecode="" stateid="D1_1" countryid="D1">Arhus</state>
+<state value="Bornholm" statecode="" stateid="D1_2" countryid="D1">Bornholm</state>
+<state value="Fredericksberg" statecode="" stateid="D1_3" countryid="D1">Fredericksberg</state>
+<state value="Frederiksborg" statecode="" stateid="D1_4" countryid="D1">Frederiksborg</state>
+<state value="Fyn" statecode="" stateid="D1_5" countryid="D1">Fyn</state>
+<state value="Kobenhavn" statecode="" stateid="D1_6" countryid="D1">Kobenhavn</state>
+<state value="Kobenhavns" statecode="" stateid="D1_7" countryid="D1">Kobenhavns</state>
+<state value="Nordjylland" statecode="" stateid="D1_8" countryid="D1">Nordjylland</state>
+<state value="Ribe" statecode="" stateid="D1_9" countryid="D1">Ribe</state>
+<state value="Ringkobing" statecode="" stateid="D1_10" countryid="D1">Ringkobing</state>
+<state value="Roskilde" statecode="" stateid="D1_11" countryid="D1">Roskilde</state>
+<state value="Sonderjylland" statecode="" stateid="D1_12" countryid="D1">Sonderjylland</state>
+<state value="Storstrom" statecode="" stateid="D1_13" countryid="D1">Storstrom</state>
+<state value="Vejle" statecode="" stateid="D1_14" countryid="D1">Vejle</state>
+<state value="Vestsjalland" statecode="" stateid="D1_15" countryid="D1">Vestsjalland</state>
+<state value="Viborg" statecode="" stateid="D1_16" countryid="D1">Viborg</state>
+<state value="'Ali Sabih" statecode="" stateid="D2_1" countryid="D2">'Ali Sabih</state>
+<state value="Dikhil" statecode="" stateid="D2_2" countryid="D2">Dikhil</state>
+<state value="Djibouti" statecode="" stateid="D2_3" countryid="D2">Djibouti</state>
+<state value="Obock" statecode="" stateid="D2_4" countryid="D2">Obock</state>
+<state value="Tadjoura" statecode="" stateid="D2_5" countryid="D2">Tadjoura</state>
+<state value="Saint Andrew" statecode="" stateid="D3_1" countryid="D3">Saint Andrew</state>
+<state value="Saint David" statecode="" stateid="D3_2" countryid="D3">Saint David</state>
+<state value="Saint George" statecode="" stateid="D3_3" countryid="D3">Saint George</state>
+<state value="Saint John" statecode="" stateid="D3_4" countryid="D3">Saint John</state>
+<state value="Saint Joseph" statecode="" stateid="D3_5" countryid="D3">Saint Joseph</state>
+<state value="Saint Luke" statecode="" stateid="D3_6" countryid="D3">Saint Luke</state>
+<state value="Saint Mark" statecode="" stateid="D3_7" countryid="D3">Saint Mark</state>
+<state value="Saint Patrick" statecode="" stateid="D3_8" countryid="D3">Saint Patrick</state>
+<state value="Saint Paul" statecode="" stateid="D3_9" countryid="D3">Saint Paul</state>
+<state value="Saint Peter" statecode="" stateid="D3_10" countryid="D3">Saint Peter</state>
+<state value="Azua" statecode="" stateid="D4_1" countryid="D4">Azua</state>
+<state value="Baoruco" statecode="" stateid="D4_2" countryid="D4">Baoruco</state>
+<state value="Barahona" statecode="" stateid="D4_3" countryid="D4">Barahona</state>
+<state value="Dajabon" statecode="" stateid="D4_4" countryid="D4">Dajabon</state>
+<state value="Distrito Nacional" statecode="" stateid="D4_5" countryid="D4">Distrito Nacional</state>
+<state value="Duarte" statecode="" stateid="D4_6" countryid="D4">Duarte</state>
+<state value="El Seibo" statecode="" stateid="D4_7" countryid="D4">El Seibo</state>
+<state value="Elias Pina" statecode="" stateid="D4_8" countryid="D4">Elias Pina</state>
+<state value="Espaillat" statecode="" stateid="D4_9" countryid="D4">Espaillat</state>
+<state value="Hato Mayor" statecode="" stateid="D4_10" countryid="D4">Hato Mayor</state>
+<state value="Independencia" statecode="" stateid="D4_11" countryid="D4">Independencia</state>
+<state value="La Altagracia" statecode="" stateid="D4_12" countryid="D4">La Altagracia</state>
+<state value="La Romana" statecode="" stateid="D4_13" countryid="D4">La Romana</state>
+<state value="La Vega" statecode="" stateid="D4_14" countryid="D4">La Vega</state>
+<state value="Maria Trinidad Sanchez" statecode="" stateid="D4_15" countryid="D4">Maria Trinidad Sanchez</state>
+<state value="Monsenor Nouel" statecode="" stateid="D4_16" countryid="D4">Monsenor Nouel</state>
+<state value="Monte Cristi" statecode="" stateid="D4_17" countryid="D4">Monte Cristi</state>
+<state value="Monte Plata" statecode="" stateid="D4_18" countryid="D4">Monte Plata</state>
+<state value="Pedernales" statecode="" stateid="D4_19" countryid="D4">Pedernales</state>
+<state value="Peravia" statecode="" stateid="D4_20" countryid="D4">Peravia</state>
+<state value="Puerto Plata" statecode="" stateid="D4_21" countryid="D4">Puerto Plata</state>
+<state value="Salcedo" statecode="" stateid="D4_22" countryid="D4">Salcedo</state>
+<state value="Samana" statecode="" stateid="D4_23" countryid="D4">Samana</state>
+<state value="San Cristobal" statecode="" stateid="D4_24" countryid="D4">San Cristobal</state>
+<state value="San Juan" statecode="" stateid="D4_25" countryid="D4">San Juan</state>
+<state value="San Pedro de Macoris" statecode="" stateid="D4_26" countryid="D4">San Pedro de Macoris</state>
+<state value="Sanchez Ramirez" statecode="" stateid="D4_27" countryid="D4">Sanchez Ramirez</state>
+<state value="Santiago" statecode="" stateid="D4_28" countryid="D4">Santiago</state>
+<state value="Santiago Rodriguez" statecode="" stateid="D4_29" countryid="D4">Santiago Rodriguez</state>
+<state value="Valverde" statecode="" stateid="D4_30" countryid="D4">Valverde</state>
+<state value="Azuay" statecode="" stateid="E1_1" countryid="E1">Azuay</state>
+<state value="Bolivar" statecode="" stateid="E1_2" countryid="E1">Bolivar</state>
+<state value="Canar" statecode="" stateid="E1_3" countryid="E1">Canar</state>
+<state value="Carchi" statecode="" stateid="E1_4" countryid="E1">Carchi</state>
+<state value="Chimborazo" statecode="" stateid="E1_5" countryid="E1">Chimborazo</state>
+<state value="Cotopaxi" statecode="" stateid="E1_6" countryid="E1">Cotopaxi</state>
+<state value="El Oro" statecode="" stateid="E1_7" countryid="E1">El Oro</state>
+<state value="Esmeraldas" statecode="" stateid="E1_8" countryid="E1">Esmeraldas</state>
+<state value="Galapagos" statecode="" stateid="E1_9" countryid="E1">Galapagos</state>
+<state value="Guayas" statecode="" stateid="E1_10" countryid="E1">Guayas</state>
+<state value="Imbabura" statecode="" stateid="E1_11" countryid="E1">Imbabura</state>
+<state value="Loja" statecode="" stateid="E1_12" countryid="E1">Loja</state>
+<state value="Los Rios" statecode="" stateid="E1_13" countryid="E1">Los Rios</state>
+<state value="Manabi" statecode="" stateid="E1_14" countryid="E1">Manabi</state>
+<state value="Morona-Santiago" statecode="" stateid="E1_15" countryid="E1">Morona-Santiago</state>
+<state value="Napo" statecode="" stateid="E1_16" countryid="E1">Napo</state>
+<state value="Orellana" statecode="" stateid="E1_17" countryid="E1">Orellana</state>
+<state value="Pastaza" statecode="" stateid="E1_18" countryid="E1">Pastaza</state>
+<state value="Pichincha" statecode="" stateid="E1_19" countryid="E1">Pichincha</state>
+<state value="Sucumbios" statecode="" stateid="E1_20" countryid="E1">Sucumbios</state>
+<state value="Tungurahua" statecode="" stateid="E1_21" countryid="E1">Tungurahua</state>
+<state value="Zamora-Chinchipe" statecode="" stateid="E1_22" countryid="E1">Zamora-Chinchipe</state>
+<state value="Ad Daqahliyah" statecode="" stateid="E2_1" countryid="E2">Ad Daqahliyah</state>
+<state value="Al Bahr al Ahmar" statecode="" stateid="E2_2" countryid="E2">Al Bahr al Ahmar</state>
+<state value="Al Buhayrah" statecode="" stateid="E2_3" countryid="E2">Al Buhayrah</state>
+<state value="Al Fayyum" statecode="" stateid="E2_4" countryid="E2">Al Fayyum</state>
+<state value="Al Gharbiyah" statecode="" stateid="E2_5" countryid="E2">Al Gharbiyah</state>
+<state value="Al Iskandariyah" statecode="" stateid="E2_6" countryid="E2">Al Iskandariyah</state>
+<state value="Al Isma'iliyah" statecode="" stateid="E2_7" countryid="E2">Al Isma'iliyah</state>
+<state value="Al Jizah" statecode="" stateid="E2_8" countryid="E2">Al Jizah</state>
+<state value="Al Minufiyah" statecode="" stateid="E2_9" countryid="E2">Al Minufiyah</state>
+<state value="Al Minya" statecode="" stateid="E2_10" countryid="E2">Al Minya</state>
+<state value="Al Qahirah" statecode="" stateid="E2_11" countryid="E2">Al Qahirah</state>
+<state value="Al Qalyubiyah" statecode="" stateid="E2_12" countryid="E2">Al Qalyubiyah</state>
+<state value="Al Wadi al Jadid" statecode="" stateid="E2_13" countryid="E2">Al Wadi al Jadid</state>
+<state value="As Suways" statecode="" stateid="E2_14" countryid="E2">As Suways</state>
+<state value="Ash Sharqiyah" statecode="" stateid="E2_15" countryid="E2">Ash Sharqiyah</state>
+<state value="Aswan" statecode="" stateid="E2_16" countryid="E2">Aswan</state>
+<state value="Asyut" statecode="" stateid="E2_17" countryid="E2">Asyut</state>
+<state value="Bani Suwayf" statecode="" stateid="E2_18" countryid="E2">Bani Suwayf</state>
+<state value="Bur Sa'id" statecode="" stateid="E2_19" countryid="E2">Bur Sa'id</state>
+<state value="Dumyat" statecode="" stateid="E2_20" countryid="E2">Dumyat</state>
+<state value="Janub Sina'" statecode="" stateid="E2_21" countryid="E2">Janub Sina'</state>
+<state value="Kafr ash Shaykh" statecode="" stateid="E2_22" countryid="E2">Kafr ash Shaykh</state>
+<state value="Matruh" statecode="" stateid="E2_23" countryid="E2">Matruh</state>
+<state value="Qina" statecode="" stateid="E2_24" countryid="E2">Qina</state>
+<state value="Shamal Sina'" statecode="" stateid="E2_25" countryid="E2">Shamal Sina'</state>
+<state value="Suhaj" statecode="" stateid="E2_26" countryid="E2">Suhaj</state>
+<state value="Cairo" statecode="" stateid="E2_27" countryid="E2">Cairo</state>
+<state value="Ahuachapan" statecode="" stateid="E3_1" countryid="E3">Ahuachapan</state>
+<state value="Cabanas" statecode="" stateid="E3_2" countryid="E3">Cabanas</state>
+<state value="Chalatenango" statecode="" stateid="E3_3" countryid="E3">Chalatenango</state>
+<state value="Cuscatlan" statecode="" stateid="E3_4" countryid="E3">Cuscatlan</state>
+<state value="La Libertad" statecode="" stateid="E3_5" countryid="E3">La Libertad</state>
+<state value="La Paz" statecode="" stateid="E3_6" countryid="E3">La Paz</state>
+<state value="La Union" statecode="" stateid="E3_7" countryid="E3">La Union</state>
+<state value="Morazan" statecode="" stateid="E3_8" countryid="E3">Morazan</state>
+<state value="San Miguel" statecode="" stateid="E3_9" countryid="E3">San Miguel</state>
+<state value="San Salvador" statecode="" stateid="E3_10" countryid="E3">San Salvador</state>
+<state value="San Vicente" statecode="" stateid="E3_11" countryid="E3">San Vicente</state>
+<state value="Santa Ana" statecode="" stateid="E3_12" countryid="E3">Santa Ana</state>
+<state value="Sonsonate" statecode="" stateid="E3_13" countryid="E3">Sonsonate</state>
+<state value="Usulutan" statecode="" stateid="E3_14" countryid="E3">Usulutan</state>
+<state value="Annobon" statecode="" stateid="E4_1" countryid="E4">Annobon</state>
+<state value="Bioko Norte" statecode="" stateid="E4_2" countryid="E4">Bioko Norte</state>
+<state value="Bioko Sur" statecode="" stateid="E4_3" countryid="E4">Bioko Sur</state>
+<state value="Centro Sur" statecode="" stateid="E4_4" countryid="E4">Centro Sur</state>
+<state value="Kie-Ntem" statecode="" stateid="E4_5" countryid="E4">Kie-Ntem</state>
+<state value="Litoral" statecode="" stateid="E4_6" countryid="E4">Litoral</state>
+<state value="Wele-Nzas" statecode="" stateid="E4_7" countryid="E4">Wele-Nzas</state>
+<state value="Akale Guzay" statecode="" stateid="E5_1" countryid="E5">Akale Guzay</state>
+<state value="Barka" statecode="" stateid="E5_2" countryid="E5">Barka</state>
+<state value="Denkel" statecode="" stateid="E5_3" countryid="E5">Denkel</state>
+<state value="Hamasen" statecode="" stateid="E5_4" countryid="E5">Hamasen</state>
+<state value="Sahil" statecode="" stateid="E5_5" countryid="E5">Sahil</state>
+<state value="Semhar" statecode="" stateid="E5_6" countryid="E5">Semhar</state>
+<state value="Senhit" statecode="" stateid="E5_7" countryid="E5">Senhit</state>
+<state value="Seraye" statecode="" stateid="E5_8" countryid="E5">Seraye</state>
+<state value="Harjumaa (Tallinn)" statecode="" stateid="E6_1" countryid="E6">Harjumaa (Tallinn)</state>
+<state value="Hiiumaa (Kardla)" statecode="" stateid="E6_2" countryid="E6">Hiiumaa (Kardla)</state>
+<state value="Ida-Virumaa (Johvi)" statecode="" stateid="E6_3" countryid="E6">Ida-Virumaa (Johvi)</state>
+<state value="Jarvamaa (Paide)" statecode="" stateid="E6_4" countryid="E6">Jarvamaa (Paide)</state>
+<state value="Jogevamaa (Jogeva)" statecode="" stateid="E6_5" countryid="E6">Jogevamaa (Jogeva)</state>
+<state value="Laane-Virumaa (Rakvere)" statecode="" stateid="E6_6" countryid="E6">Laane-Virumaa (Rakvere)</state>
+<state value="Laanemaa (Haapsalu)" statecode="" stateid="E6_7" countryid="E6">Laanemaa (Haapsalu)</state>
+<state value="Parnumaa (Parnu)" statecode="" stateid="E6_8" countryid="E6">Parnumaa (Parnu)</state>
+<state value="Polvamaa (Polva)" statecode="" stateid="E6_9" countryid="E6">Polvamaa (Polva)</state>
+<state value="Raplamaa (Rapla)" statecode="" stateid="E6_10" countryid="E6">Raplamaa (Rapla)</state>
+<state value="Saaremaa (Kuessaare)" statecode="" stateid="E6_11" countryid="E6">Saaremaa (Kuessaare)</state>
+<state value="Tartumaa (Tartu)" statecode="" stateid="E6_12" countryid="E6">Tartumaa (Tartu)</state>
+<state value="Valgamaa (Valga)" statecode="" stateid="E6_13" countryid="E6">Valgamaa (Valga)</state>
+<state value="Viljandimaa (Viljandi)" statecode="" stateid="E6_14" countryid="E6">Viljandimaa (Viljandi)</state>
+<state value="Vorumaa (Voru)" statecode="" stateid="E6_15" countryid="E6">Vorumaa (Voru)</state>
+<state value="Adis Abeba (Addis Ababa)" statecode="" stateid="E7_1" countryid="E7">Adis Abeba (Addis Ababa)</state>
+<state value="Afar" statecode="" stateid="E7_2" countryid="E7">Afar</state>
+<state value="Amara" statecode="" stateid="E7_3" countryid="E7">Amara</state>
+<state value="Dire Dawa" statecode="" stateid="E7_4" countryid="E7">Dire Dawa</state>
+<state value="Gambela Hizboch" statecode="" stateid="E7_5" countryid="E7">Gambela Hizboch</state>
+<state value="Hareri Hizb" statecode="" stateid="E7_6" countryid="E7">Hareri Hizb</state>
+<state value="Oromiya" statecode="" stateid="E7_7" countryid="E7">Oromiya</state>
+<state value="Sumale" statecode="" stateid="E7_8" countryid="E7">Sumale</state>
+<state value="Tigray" statecode="" stateid="E7_9" countryid="E7">Tigray</state>
+<state value="YeDebub Biheroch Bihereseboch na Hizboch" statecode="" stateid="E7_10" countryid="E7">YeDebub Biheroch Bihereseboch na Hizboch</state>
+<state value="Falkland Islands (Islas Malvinas)" statecode="" stateid="F1_1" countryid="F1">Falkland Islands (Islas Malvinas)</state>
+<state value="Bordoy" statecode="" stateid="F2_1" countryid="F2">Bordoy</state>
+<state value="Eysturoy" statecode="" stateid="F2_2" countryid="F2">Eysturoy</state>
+<state value="Mykines" statecode="" stateid="F2_3" countryid="F2">Mykines</state>
+<state value="Sandoy" statecode="" stateid="F2_4" countryid="F2">Sandoy</state>
+<state value="Skuvoy" statecode="" stateid="F2_5" countryid="F2">Skuvoy</state>
+<state value="Streymoy" statecode="" stateid="F2_6" countryid="F2">Streymoy</state>
+<state value="Suduroy" statecode="" stateid="F2_7" countryid="F2">Suduroy</state>
+<state value="Tvoroyri" statecode="" stateid="F2_8" countryid="F2">Tvoroyri</state>
+<state value="Vagar" statecode="" stateid="F2_9" countryid="F2">Vagar</state>
+<state value="Central" statecode="" stateid="F3_1" countryid="F3">Central</state>
+<state value="Eastern" statecode="" stateid="F3_2" countryid="F3">Eastern</state>
+<state value="Northern" statecode="" stateid="F3_3" countryid="F3">Northern</state>
+<state value="Rotuma" statecode="" stateid="F3_4" countryid="F3">Rotuma</state>
+<state value="Western" statecode="" stateid="F3_5" countryid="F3">Western</state>
+<state value="Aland" statecode="" stateid="F4_1" countryid="F4">Aland</state>
+<state value="Etela-Suomen Laani" statecode="" stateid="F4_2" countryid="F4">Etela-Suomen Laani</state>
+<state value="Ita-Suomen Laani" statecode="" stateid="F4_3" countryid="F4">Ita-Suomen Laani</state>
+<state value="Lansi-Suomen Laani" statecode="" stateid="F4_4" countryid="F4">Lansi-Suomen Laani</state>
+<state value="Lappi" statecode="" stateid="F4_5" countryid="F4">Lappi</state>
+<state value="Oulun Laani" statecode="" stateid="F4_6" countryid="F4">Oulun Laani</state>
+<state value="Alsace" statecode="" stateid="F5_1" countryid="F5">Alsace</state>
+<state value="Aquitaine" statecode="" stateid="F5_2" countryid="F5">Aquitaine</state>
+<state value="Auvergne" statecode="" stateid="F5_3" countryid="F5">Auvergne</state>
+<state value="Basse-Normandie" statecode="" stateid="F5_4" countryid="F5">Basse-Normandie</state>
+<state value="Bourgogne" statecode="" stateid="F5_5" countryid="F5">Bourgogne</state>
+<state value="Bretagne" statecode="" stateid="F5_6" countryid="F5">Bretagne</state>
+<state value="Centre" statecode="" stateid="F5_7" countryid="F5">Centre</state>
+<state value="Champagne-Ardenne" statecode="" stateid="F5_8" countryid="F5">Champagne-Ardenne</state>
+<state value="Corse" statecode="" stateid="F5_9" countryid="F5">Corse</state>
+<state value="Franche-Comte" statecode="" stateid="F5_10" countryid="F5">Franche-Comte</state>
+<state value="Haute-Normandie" statecode="" stateid="F5_11" countryid="F5">Haute-Normandie</state>
+<state value="Ile-de-France" statecode="" stateid="F5_12" countryid="F5">Ile-de-France</state>
+<state value="Languedoc-Roussillon" statecode="" stateid="F5_13" countryid="F5">Languedoc-Roussillon</state>
+<state value="Limousin" statecode="" stateid="F5_14" countryid="F5">Limousin</state>
+<state value="Lorraine" statecode="" stateid="F5_15" countryid="F5">Lorraine</state>
+<state value="Midi-Pyrenees" statecode="" stateid="F5_16" countryid="F5">Midi-Pyrenees</state>
+<state value="Nord-Pas-de-Calais" statecode="" stateid="F5_17" countryid="F5">Nord-Pas-de-Calais</state>
+<state value="Pays de la Loire" statecode="" stateid="F5_18" countryid="F5">Pays de la Loire</state>
+<state value="Picardie" statecode="" stateid="F5_19" countryid="F5">Picardie</state>
+<state value="Poitou-Charentes" statecode="" stateid="F5_20" countryid="F5">Poitou-Charentes</state>
+<state value="Provence-Alpes-Cote d'Azur" statecode="" stateid="F5_21" countryid="F5">Provence-Alpes-Cote d'Azur</state>
+<state value="Rhone-Alpes" statecode="" stateid="F5_22" countryid="F5">Rhone-Alpes</state>
+<state value="Paris" statecode="" stateid="F5_23" countryid="F5">Paris</state>
+<state value="French Guiana" statecode="" stateid="F6_1" countryid="F6">French Guiana</state>
+<state value="Archipel des Marquises" statecode="" stateid="F7_1" countryid="F7">Archipel des Marquises</state>
+<state value="Archipel des Tuamotu" statecode="" stateid="F7_2" countryid="F7">Archipel des Tuamotu</state>
+<state value="Archipel des Tubuai" statecode="" stateid="F7_3" countryid="F7">Archipel des Tubuai</state>
+<state value="Iles du Vent" statecode="" stateid="F7_4" countryid="F7">Iles du Vent</state>
+<state value="Iles Sous-le-Vent" statecode="" stateid="F7_5" countryid="F7">Iles Sous-le-Vent</state>
+<state value="Estuaire" statecode="" stateid="G1_1" countryid="G1">Estuaire</state>
+<state value="Haut-Ogooue" statecode="" stateid="G1_2" countryid="G1">Haut-Ogooue</state>
+<state value="Moyen-Ogooue" statecode="" stateid="G1_3" countryid="G1">Moyen-Ogooue</state>
+<state value="Ngounie" statecode="" stateid="G1_4" countryid="G1">Ngounie</state>
+<state value="Nyanga" statecode="" stateid="G1_5" countryid="G1">Nyanga</state>
+<state value="Ogooue-Ivindo" statecode="" stateid="G1_6" countryid="G1">Ogooue-Ivindo</state>
+<state value="Ogooue-Lolo" statecode="" stateid="G1_7" countryid="G1">Ogooue-Lolo</state>
+<state value="Ogooue-Maritime" statecode="" stateid="G1_8" countryid="G1">Ogooue-Maritime</state>
+<state value="Woleu-Ntem" statecode="" stateid="G1_9" countryid="G1">Woleu-Ntem</state>
+<state value="Banjul" statecode="" stateid="G2_1" countryid="G2">Banjul</state>
+<state value="Central River" statecode="" stateid="G2_2" countryid="G2">Central River</state>
+<state value="Lower River" statecode="" stateid="G2_3" countryid="G2">Lower River</state>
+<state value="North Bank" statecode="" stateid="G2_4" countryid="G2">North Bank</state>
+<state value="Upper River" statecode="" stateid="G2_5" countryid="G2">Upper River</state>
+<state value="Western" statecode="" stateid="G2_6" countryid="G2">Western</state>
+<state value="Abashis" statecode="" stateid="G3_1" countryid="G3">Abashis</state>
+<state value="Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)" statecode="" stateid="G3_2" countryid="G3">Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)</state>
+<state value="Adigenis" statecode="" stateid="G3_3" countryid="G3">Adigenis</state>
+<state value="Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)" statecode="" stateid="G3_4" countryid="G3">Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</state>
+<state value="Akhalgoris" statecode="" stateid="G3_5" countryid="G3">Akhalgoris</state>
+<state value="Akhalk'alak'is" statecode="" stateid="G3_6" countryid="G3">Akhalk'alak'is</state>
+<state value="Akhalts'ikhis" statecode="" stateid="G3_7" countryid="G3">Akhalts'ikhis</state>
+<state value="Akhmetis" statecode="" stateid="G3_8" countryid="G3">Akhmetis</state>
+<state value="Ambrolauris" statecode="" stateid="G3_9" countryid="G3">Ambrolauris</state>
+<state value="Aspindzis" statecode="" stateid="G3_10" countryid="G3">Aspindzis</state>
+<state value="Baghdat'is" statecode="" stateid="G3_11" countryid="G3">Baghdat'is</state>
+<state value="Bolnisis" statecode="" stateid="G3_12" countryid="G3">Bolnisis</state>
+<state value="Borjomis" statecode="" stateid="G3_13" countryid="G3">Borjomis</state>
+<state value="Ch'khorotsqus" statecode="" stateid="G3_14" countryid="G3">Ch'khorotsqus</state>
+<state value="Ch'okhatauris" statecode="" stateid="G3_15" countryid="G3">Ch'okhatauris</state>
+<state value="Chiat'ura" statecode="" stateid="G3_16" countryid="G3">Chiat'ura</state>
+<state value="Dedop'listsqaros" statecode="" stateid="G3_17" countryid="G3">Dedop'listsqaros</state>
+<state value="Dmanisis" statecode="" stateid="G3_18" countryid="G3">Dmanisis</state>
+<state value="Dushet'is" statecode="" stateid="G3_19" countryid="G3">Dushet'is</state>
+<state value="Gardabanis" statecode="" stateid="G3_20" countryid="G3">Gardabanis</state>
+<state value="Gori" statecode="" stateid="G3_21" countryid="G3">Gori</state>
+<state value="Goris" statecode="" stateid="G3_22" countryid="G3">Goris</state>
+<state value="Gurjaanis" statecode="" stateid="G3_23" countryid="G3">Gurjaanis</state>
+<state value="Javis" statecode="" stateid="G3_24" countryid="G3">Javis</state>
+<state value="K'arelis" statecode="" stateid="G3_25" countryid="G3">K'arelis</state>
+<state value="K'ut'aisi" statecode="" stateid="G3_26" countryid="G3">K'ut'aisi</state>
+<state value="Kaspis" statecode="" stateid="G3_27" countryid="G3">Kaspis</state>
+<state value="Kharagaulis" statecode="" stateid="G3_28" countryid="G3">Kharagaulis</state>
+<state value="Khashuris" statecode="" stateid="G3_29" countryid="G3">Khashuris</state>
+<state value="Khobis" statecode="" stateid="G3_30" countryid="G3">Khobis</state>
+<state value="Khonis" statecode="" stateid="G3_31" countryid="G3">Khonis</state>
+<state value="Lagodekhis" statecode="" stateid="G3_32" countryid="G3">Lagodekhis</state>
+<state value="Lanch'khut'is" statecode="" stateid="G3_33" countryid="G3">Lanch'khut'is</state>
+<state value="Lentekhis" statecode="" stateid="G3_34" countryid="G3">Lentekhis</state>
+<state value="Marneulis" statecode="" stateid="G3_35" countryid="G3">Marneulis</state>
+<state value="Martvilis" statecode="" stateid="G3_36" countryid="G3">Martvilis</state>
+<state value="Mestiis" statecode="" stateid="G3_37" countryid="G3">Mestiis</state>
+<state value="Mts'khet'is" statecode="" stateid="G3_38" countryid="G3">Mts'khet'is</state>
+<state value="Ninotsmindis" statecode="" stateid="G3_39" countryid="G3">Ninotsmindis</state>
+<state value="Onis" statecode="" stateid="G3_40" countryid="G3">Onis</state>
+<state value="Ozurget'is" statecode="" stateid="G3_41" countryid="G3">Ozurget'is</state>
+<state value="P'ot'i" statecode="" stateid="G3_42" countryid="G3">P'ot'i</state>
+<state value="Qazbegis" statecode="" stateid="G3_43" countryid="G3">Qazbegis</state>
+<state value="Qvarlis" statecode="" stateid="G3_44" countryid="G3">Qvarlis</state>
+<state value="Rust'avi" statecode="" stateid="G3_45" countryid="G3">Rust'avi</state>
+<state value="Sach'kheris" statecode="" stateid="G3_46" countryid="G3">Sach'kheris</state>
+<state value="Sagarejos" statecode="" stateid="G3_47" countryid="G3">Sagarejos</state>
+<state value="Samtrediis" statecode="" stateid="G3_48" countryid="G3">Samtrediis</state>
+<state value="Senakis" statecode="" stateid="G3_49" countryid="G3">Senakis</state>
+<state value="Sighnaghis" statecode="" stateid="G3_50" countryid="G3">Sighnaghis</state>
+<state value="T'bilisi" statecode="" stateid="G3_51" countryid="G3">T'bilisi</state>
+<state value="T'elavis" statecode="" stateid="G3_52" countryid="G3">T'elavis</state>
+<state value="T'erjolis" statecode="" stateid="G3_53" countryid="G3">T'erjolis</state>
+<state value="T'et'ritsqaros" statecode="" stateid="G3_54" countryid="G3">T'et'ritsqaros</state>
+<state value="T'ianet'is" statecode="" stateid="G3_55" countryid="G3">T'ianet'is</state>
+<state value="Tqibuli" statecode="" stateid="G3_56" countryid="G3">Tqibuli</state>
+<state value="Ts'ageris" statecode="" stateid="G3_57" countryid="G3">Ts'ageris</state>
+<state value="Tsalenjikhis" statecode="" stateid="G3_58" countryid="G3">Tsalenjikhis</state>
+<state value="Tsalkis" statecode="" stateid="G3_59" countryid="G3">Tsalkis</state>
+<state value="Tsqaltubo" statecode="" stateid="G3_60" countryid="G3">Tsqaltubo</state>
+<state value="Vanis" statecode="" stateid="G3_61" countryid="G3">Vanis</state>
+<state value="Zestap'onis" statecode="" stateid="G3_62" countryid="G3">Zestap'onis</state>
+<state value="Zugdidi" statecode="" stateid="G3_63" countryid="G3">Zugdidi</state>
+<state value="Zugdidis" statecode="" stateid="G3_64" countryid="G3">Zugdidis</state>
+<state value="Baden-Wuerttemberg" statecode="" stateid="G4_1" countryid="G4">Baden-Wuerttemberg</state>
+<state value="Bayern" statecode="" stateid="G4_2" countryid="G4">Bayern</state>
+<state value="Berlin" statecode="" stateid="G4_3" countryid="G4">Berlin</state>
+<state value="Brandenburg" statecode="" stateid="G4_4" countryid="G4">Brandenburg</state>
+<state value="Bremen" statecode="" stateid="G4_5" countryid="G4">Bremen</state>
+<state value="Hamburg" statecode="" stateid="G4_6" countryid="G4">Hamburg</state>
+<state value="Hessen" statecode="" stateid="G4_7" countryid="G4">Hessen</state>
+<state value="Mecklenburg-Vorpommern" statecode="" stateid="G4_8" countryid="G4">Mecklenburg-Vorpommern</state>
+<state value="Niedersachsen" statecode="" stateid="G4_9" countryid="G4">Niedersachsen</state>
+<state value="Nordrhein-Westfalen" statecode="" stateid="G4_10" countryid="G4">Nordrhein-Westfalen</state>
+<state value="Rheinland-Pfalz" statecode="" stateid="G4_11" countryid="G4">Rheinland-Pfalz</state>
+<state value="Saarland" statecode="" stateid="G4_12" countryid="G4">Saarland</state>
+<state value="Sachsen" statecode="" stateid="G4_13" countryid="G4">Sachsen</state>
+<state value="Sachsen-Anhalt" statecode="" stateid="G4_14" countryid="G4">Sachsen-Anhalt</state>
+<state value="Schleswig-Holstein" statecode="" stateid="G4_15" countryid="G4">Schleswig-Holstein</state>
+<state value="Thueringen" statecode="" stateid="G4_16" countryid="G4">Thueringen</state>
+<state value="Frankfurt" statecode="" stateid="G4_17" countryid="G4">Frankfurt</state>
+<state value="Petersberg" statecode="" stateid="G4_18" countryid="G4">Petersberg</state>
+<state value="Cologne" statecode="" stateid="G4_19" countryid="G4">Cologne</state>
+<state value="Ashanti" statecode="" stateid="G5_1" countryid="G5">Ashanti</state>
+<state value="Brong-Ahafo" statecode="" stateid="G5_2" countryid="G5">Brong-Ahafo</state>
+<state value="Central" statecode="" stateid="G5_3" countryid="G5">Central</state>
+<state value="Eastern" statecode="" stateid="G5_4" countryid="G5">Eastern</state>
+<state value="Greater Accra" statecode="" stateid="G5_5" countryid="G5">Greater Accra</state>
+<state value="Northern" statecode="" stateid="G5_6" countryid="G5">Northern</state>
+<state value="Upper East" statecode="" stateid="G5_7" countryid="G5">Upper East</state>
+<state value="Upper West" statecode="" stateid="G5_8" countryid="G5">Upper West</state>
+<state value="Volta" statecode="" stateid="G5_9" countryid="G5">Volta</state>
+<state value="Western" statecode="" stateid="G5_10" countryid="G5">Western</state>
+<state value="Accra" statecode="" stateid="G5_11" countryid="G5">Accra</state>
+<state value="Gibraltar" statecode="" stateid="G6_1" countryid="G6">Gibraltar</state>
+<state value="Aitolia kai Akarnania" statecode="" stateid="G7_1" countryid="G7">Aitolia kai Akarnania</state>
+<state value="Akhaia" statecode="" stateid="G7_2" countryid="G7">Akhaia</state>
+<state value="Argolis" statecode="" stateid="G7_3" countryid="G7">Argolis</state>
+<state value="Arkadhia" statecode="" stateid="G7_4" countryid="G7">Arkadhia</state>
+<state value="Arta" statecode="" stateid="G7_5" countryid="G7">Arta</state>
+<state value="Attiki" statecode="" stateid="G7_6" countryid="G7">Attiki</state>
+<state value="Ayion Oros (Mt. Athos)" statecode="" stateid="G7_7" countryid="G7">Ayion Oros (Mt. Athos)</state>
+<state value="Dhodhekanisos" statecode="" stateid="G7_8" countryid="G7">Dhodhekanisos</state>
+<state value="Drama" statecode="" stateid="G7_9" countryid="G7">Drama</state>
+<state value="Evritania" statecode="" stateid="G7_10" countryid="G7">Evritania</state>
+<state value="Evros" statecode="" stateid="G7_11" countryid="G7">Evros</state>
+<state value="Evvoia" statecode="" stateid="G7_12" countryid="G7">Evvoia</state>
+<state value="Florina" statecode="" stateid="G7_13" countryid="G7">Florina</state>
+<state value="Fokis" statecode="" stateid="G7_14" countryid="G7">Fokis</state>
+<state value="Fthiotis" statecode="" stateid="G7_15" countryid="G7">Fthiotis</state>
+<state value="Grevena" statecode="" stateid="G7_16" countryid="G7">Grevena</state>
+<state value="Ilia" statecode="" stateid="G7_17" countryid="G7">Ilia</state>
+<state value="Imathia" statecode="" stateid="G7_18" countryid="G7">Imathia</state>
+<state value="Ioannina" statecode="" stateid="G7_19" countryid="G7">Ioannina</state>
+<state value="Irakleion" statecode="" stateid="G7_20" countryid="G7">Irakleion</state>
+<state value="Kardhitsa" statecode="" stateid="G7_21" countryid="G7">Kardhitsa</state>
+<state value="Kastoria" statecode="" stateid="G7_22" countryid="G7">Kastoria</state>
+<state value="Kavala" statecode="" stateid="G7_23" countryid="G7">Kavala</state>
+<state value="Kefallinia" statecode="" stateid="G7_24" countryid="G7">Kefallinia</state>
+<state value="Kerkyra" statecode="" stateid="G7_25" countryid="G7">Kerkyra</state>
+<state value="Khalkidhiki" statecode="" stateid="G7_26" countryid="G7">Khalkidhiki</state>
+<state value="Khania" statecode="" stateid="G7_27" countryid="G7">Khania</state>
+<state value="Khios" statecode="" stateid="G7_28" countryid="G7">Khios</state>
+<state value="Kikladhes" statecode="" stateid="G7_29" countryid="G7">Kikladhes</state>
+<state value="Kilkis" statecode="" stateid="G7_30" countryid="G7">Kilkis</state>
+<state value="Korinthia" statecode="" stateid="G7_31" countryid="G7">Korinthia</state>
+<state value="Kozani" statecode="" stateid="G7_32" countryid="G7">Kozani</state>
+<state value="Lakonia" statecode="" stateid="G7_33" countryid="G7">Lakonia</state>
+<state value="Larisa" statecode="" stateid="G7_34" countryid="G7">Larisa</state>
+<state value="Lasithi" statecode="" stateid="G7_35" countryid="G7">Lasithi</state>
+<state value="Lesvos" statecode="" stateid="G7_36" countryid="G7">Lesvos</state>
+<state value="Levkas" statecode="" stateid="G7_37" countryid="G7">Levkas</state>
+<state value="Magnisia" statecode="" stateid="G7_38" countryid="G7">Magnisia</state>
+<state value="Messinia" statecode="" stateid="G7_39" countryid="G7">Messinia</state>
+<state value="Pella" statecode="" stateid="G7_40" countryid="G7">Pella</state>
+<state value="Pieria" statecode="" stateid="G7_41" countryid="G7">Pieria</state>
+<state value="Preveza" statecode="" stateid="G7_42" countryid="G7">Preveza</state>
+<state value="Rethimni" statecode="" stateid="G7_43" countryid="G7">Rethimni</state>
+<state value="Rodhopi" statecode="" stateid="G7_44" countryid="G7">Rodhopi</state>
+<state value="Samos" statecode="" stateid="G7_45" countryid="G7">Samos</state>
+<state value="Serrai" statecode="" stateid="G7_46" countryid="G7">Serrai</state>
+<state value="Thesprotia" statecode="" stateid="G7_47" countryid="G7">Thesprotia</state>
+<state value="Thessaloniki" statecode="" stateid="G7_48" countryid="G7">Thessaloniki</state>
+<state value="Trikala" statecode="" stateid="G7_49" countryid="G7">Trikala</state>
+<state value="Voiotia" statecode="" stateid="G7_50" countryid="G7">Voiotia</state>
+<state value="Xanthi" statecode="" stateid="G7_51" countryid="G7">Xanthi</state>
+<state value="Zakinthos" statecode="" stateid="G7_52" countryid="G7">Zakinthos</state>
+<state value="Avannaa (Nordgronland)" statecode="" stateid="G8_1" countryid="G8">Avannaa (Nordgronland)</state>
+<state value="Kitaa (Vestgronland)" statecode="" stateid="G8_2" countryid="G8">Kitaa (Vestgronland)</state>
+<state value="Tunu (Ostgronland)" statecode="" stateid="G8_3" countryid="G8">Tunu (Ostgronland)</state>
+<state value="Carriacou and Petit Martinique" statecode="" stateid="G9_1" countryid="G9">Carriacou and Petit Martinique</state>
+<state value="Saint Andrew" statecode="" stateid="G9_2" countryid="G9">Saint Andrew</state>
+<state value="Saint David" statecode="" stateid="G9_3" countryid="G9">Saint David</state>
+<state value="Saint George" statecode="" stateid="G9_4" countryid="G9">Saint George</state>
+<state value="Saint John" statecode="" stateid="G9_5" countryid="G9">Saint John</state>
+<state value="Saint Mark" statecode="" stateid="G9_6" countryid="G9">Saint Mark</state>
+<state value="Saint Patrick" statecode="" stateid="G9_7" countryid="G9">Saint Patrick</state>
+<state value="Basse-Terre" statecode="" stateid="G10_1" countryid="G10">Basse-Terre</state>
+<state value="Grande-Terre" statecode="" stateid="G10_2" countryid="G10">Grande-Terre</state>
+<state value="Iles de la Petite Terre" statecode="" stateid="G10_3" countryid="G10">Iles de la Petite Terre</state>
+<state value="Iles des Saintes" statecode="" stateid="G10_4" countryid="G10">Iles des Saintes</state>
+<state value="Marie-Galante" statecode="" stateid="G10_5" countryid="G10">Marie-Galante</state>
+<state value="Guam" statecode="" stateid="G11_1" countryid="G11">Guam</state>
+<state value="Alta Verapaz" statecode="" stateid="G12_1" countryid="G12">Alta Verapaz</state>
+<state value="Baja Verapaz" statecode="" stateid="G12_2" countryid="G12">Baja Verapaz</state>
+<state value="Chimaltenango" statecode="" stateid="G12_3" countryid="G12">Chimaltenango</state>
+<state value="Chiquimula" statecode="" stateid="G12_4" countryid="G12">Chiquimula</state>
+<state value="El Progreso" statecode="" stateid="G12_5" countryid="G12">El Progreso</state>
+<state value="Escuintla" statecode="" stateid="G12_6" countryid="G12">Escuintla</state>
+<state value="Guatemala" statecode="" stateid="G12_7" countryid="G12">Guatemala</state>
+<state value="Huehuetenango" statecode="" stateid="G12_8" countryid="G12">Huehuetenango</state>
+<state value="Izabal" statecode="" stateid="G12_9" countryid="G12">Izabal</state>
+<state value="Jalapa" statecode="" stateid="G12_10" countryid="G12">Jalapa</state>
+<state value="Jutiapa" statecode="" stateid="G12_11" countryid="G12">Jutiapa</state>
+<state value="Peten" statecode="" stateid="G12_12" countryid="G12">Peten</state>
+<state value="Quetzaltenango" statecode="" stateid="G12_13" countryid="G12">Quetzaltenango</state>
+<state value="Quiche" statecode="" stateid="G12_14" countryid="G12">Quiche</state>
+<state value="Retalhuleu" statecode="" stateid="G12_15" countryid="G12">Retalhuleu</state>
+<state value="Sacatepequez" statecode="" stateid="G12_16" countryid="G12">Sacatepequez</state>
+<state value="San Marcos" statecode="" stateid="G12_17" countryid="G12">San Marcos</state>
+<state value="Santa Rosa" statecode="" stateid="G12_18" countryid="G12">Santa Rosa</state>
+<state value="Solola" statecode="" stateid="G12_19" countryid="G12">Solola</state>
+<state value="Suchitepequez" statecode="" stateid="G12_20" countryid="G12">Suchitepequez</state>
+<state value="Totonicapan" statecode="" stateid="G12_21" countryid="G12">Totonicapan</state>
+<state value="Zacapa" statecode="" stateid="G12_22" countryid="G12">Zacapa</state>
+<state value="Castel" statecode="" stateid="G13_1" countryid="G13">Castel</state>
+<state value="Forest" statecode="" stateid="G13_2" countryid="G13">Forest</state>
+<state value="St. Andrew" statecode="" stateid="G13_3" countryid="G13">St. Andrew</state>
+<state value="St. Martin" statecode="" stateid="G13_4" countryid="G13">St. Martin</state>
+<state value="St. Peter Port" statecode="" stateid="G13_5" countryid="G13">St. Peter Port</state>
+<state value="St. Pierre du Bois" statecode="" stateid="G13_6" countryid="G13">St. Pierre du Bois</state>
+<state value="St. Sampson" statecode="" stateid="G13_7" countryid="G13">St. Sampson</state>
+<state value="St. Saviour" statecode="" stateid="G13_8" countryid="G13">St. Saviour</state>
+<state value="Torteval" statecode="" stateid="G13_9" countryid="G13">Torteval</state>
+<state value="Vale" statecode="" stateid="G13_10" countryid="G13">Vale</state>
+<state value="Beyla" statecode="" stateid="G14_1" countryid="G14">Beyla</state>
+<state value="Boffa" statecode="" stateid="G14_2" countryid="G14">Boffa</state>
+<state value="Boke" statecode="" stateid="G14_3" countryid="G14">Boke</state>
+<state value="Conakry" statecode="" stateid="G14_4" countryid="G14">Conakry</state>
+<state value="Coyah" statecode="" stateid="G14_5" countryid="G14">Coyah</state>
+<state value="Dabola" statecode="" stateid="G14_6" countryid="G14">Dabola</state>
+<state value="Dalaba" statecode="" stateid="G14_7" countryid="G14">Dalaba</state>
+<state value="Dinguiraye" statecode="" stateid="G14_8" countryid="G14">Dinguiraye</state>
+<state value="Dubreka" statecode="" stateid="G14_9" countryid="G14">Dubreka</state>
+<state value="Faranah" statecode="" stateid="G14_10" countryid="G14">Faranah</state>
+<state value="Forecariah" statecode="" stateid="G14_11" countryid="G14">Forecariah</state>
+<state value="Fria" statecode="" stateid="G14_12" countryid="G14">Fria</state>
+<state value="Gaoual" statecode="" stateid="G14_13" countryid="G14">Gaoual</state>
+<state value="Gueckedou" statecode="" stateid="G14_14" countryid="G14">Gueckedou</state>
+<state value="Kankan" statecode="" stateid="G14_15" countryid="G14">Kankan</state>
+<state value="Kerouane" statecode="" stateid="G14_16" countryid="G14">Kerouane</state>
+<state value="Kindia" statecode="" stateid="G14_17" countryid="G14">Kindia</state>
+<state value="Kissidougou" statecode="" stateid="G14_18" countryid="G14">Kissidougou</state>
+<state value="Koubia" statecode="" stateid="G14_19" countryid="G14">Koubia</state>
+<state value="Koundara" statecode="" stateid="G14_20" countryid="G14">Koundara</state>
+<state value="Kouroussa" statecode="" stateid="G14_21" countryid="G14">Kouroussa</state>
+<state value="Labe" statecode="" stateid="G14_22" countryid="G14">Labe</state>
+<state value="Lelouma" statecode="" stateid="G14_23" countryid="G14">Lelouma</state>
+<state value="Lola" statecode="" stateid="G14_24" countryid="G14">Lola</state>
+<state value="Macenta" statecode="" stateid="G14_25" countryid="G14">Macenta</state>
+<state value="Mali" statecode="" stateid="G14_26" countryid="G14">Mali</state>
+<state value="Mamou" statecode="" stateid="G14_27" countryid="G14">Mamou</state>
+<state value="Mandiana" statecode="" stateid="G14_28" countryid="G14">Mandiana</state>
+<state value="Nzerekore" statecode="" stateid="G14_29" countryid="G14">Nzerekore</state>
+<state value="Pita" statecode="" stateid="G14_30" countryid="G14">Pita</state>
+<state value="Siguiri" statecode="" stateid="G14_31" countryid="G14">Siguiri</state>
+<state value="Telimele" statecode="" stateid="G14_32" countryid="G14">Telimele</state>
+<state value="Tougue" statecode="" stateid="G14_33" countryid="G14">Tougue</state>
+<state value="Yomou" statecode="" stateid="G14_34" countryid="G14">Yomou</state>
+<state value="Bafata" statecode="" stateid="G15_1" countryid="G15">Bafata</state>
+<state value="Biombo" statecode="" stateid="G15_2" countryid="G15">Biombo</state>
+<state value="Bissau" statecode="" stateid="G15_3" countryid="G15">Bissau</state>
+<state value="Bolama-Bijagos" statecode="" stateid="G15_4" countryid="G15">Bolama-Bijagos</state>
+<state value="Cacheu" statecode="" stateid="G15_5" countryid="G15">Cacheu</state>
+<state value="Gabu" statecode="" stateid="G15_6" countryid="G15">Gabu</state>
+<state value="Oio" statecode="" stateid="G15_7" countryid="G15">Oio</state>
+<state value="Quinara" statecode="" stateid="G15_8" countryid="G15">Quinara</state>
+<state value="Tombali" statecode="" stateid="G15_9" countryid="G15">Tombali</state>
+<state value="Barima-Waini" statecode="" stateid="G16_1" countryid="G16">Barima-Waini</state>
+<state value="Cuyuni-Mazaruni" statecode="" stateid="G16_2" countryid="G16">Cuyuni-Mazaruni</state>
+<state value="Demerara-Mahaica" statecode="" stateid="G16_3" countryid="G16">Demerara-Mahaica</state>
+<state value="East Berbice-Corentyne" statecode="" stateid="G16_4" countryid="G16">East Berbice-Corentyne</state>
+<state value="Essequibo Islands-West Demerara" statecode="" stateid="G16_5" countryid="G16">Essequibo Islands-West Demerara</state>
+<state value="Mahaica-Berbice" statecode="" stateid="G16_6" countryid="G16">Mahaica-Berbice</state>
+<state value="Pomeroon-Supenaam" statecode="" stateid="G16_7" countryid="G16">Pomeroon-Supenaam</state>
+<state value="Potaro-Siparuni" statecode="" stateid="G16_8" countryid="G16">Potaro-Siparuni</state>
+<state value="Upper Demerara-Berbice" statecode="" stateid="G16_9" countryid="G16">Upper Demerara-Berbice</state>
+<state value="Upper Takutu-Upper Essequibo" statecode="" stateid="G16_10" countryid="G16">Upper Takutu-Upper Essequibo</state>
+<state value="Artibonite" statecode="" stateid="H1_1" countryid="H1">Artibonite</state>
+<state value="Centre" statecode="" stateid="H1_2" countryid="H1">Centre</state>
+<state value="Grand'Anse" statecode="" stateid="H1_3" countryid="H1">Grand'Anse</state>
+<state value="Nord" statecode="" stateid="H1_4" countryid="H1">Nord</state>
+<state value="Nord-Est" statecode="" stateid="H1_5" countryid="H1">Nord-Est</state>
+<state value="Nord-Ouest" statecode="" stateid="H1_6" countryid="H1">Nord-Ouest</state>
+<state value="Ouest" statecode="" stateid="H1_7" countryid="H1">Ouest</state>
+<state value="Sud" statecode="" stateid="H1_8" countryid="H1">Sud</state>
+<state value="Sud-Est" statecode="" stateid="H1_9" countryid="H1">Sud-Est</state>
+<state value="Atlantida" statecode="" stateid="H2_1" countryid="H2">Atlantida</state>
+<state value="Choluteca" statecode="" stateid="H2_2" countryid="H2">Choluteca</state>
+<state value="Colon" statecode="" stateid="H2_3" countryid="H2">Colon</state>
+<state value="Comayagua" statecode="" stateid="H2_4" countryid="H2">Comayagua</state>
+<state value="Copan" statecode="" stateid="H2_5" countryid="H2">Copan</state>
+<state value="Cortes" statecode="" stateid="H2_6" countryid="H2">Cortes</state>
+<state value="El Paraiso" statecode="" stateid="H2_7" countryid="H2">El Paraiso</state>
+<state value="Francisco Morazan" statecode="" stateid="H2_8" countryid="H2">Francisco Morazan</state>
+<state value="Gracias a Dios" statecode="" stateid="H2_9" countryid="H2">Gracias a Dios</state>
+<state value="Intibuca" statecode="" stateid="H2_10" countryid="H2">Intibuca</state>
+<state value="Islas de la Bahia" statecode="" stateid="H2_11" countryid="H2">Islas de la Bahia</state>
+<state value="La Paz" statecode="" stateid="H2_12" countryid="H2">La Paz</state>
+<state value="Lempira" statecode="" stateid="H2_13" countryid="H2">Lempira</state>
+<state value="Ocotepeque" statecode="" stateid="H2_14" countryid="H2">Ocotepeque</state>
+<state value="Olancho" statecode="" stateid="H2_15" countryid="H2">Olancho</state>
+<state value="Santa Barbara" statecode="" stateid="H2_16" countryid="H2">Santa Barbara</state>
+<state value="Valle" statecode="" stateid="H2_17" countryid="H2">Valle</state>
+<state value="Yoro" statecode="" stateid="H2_18" countryid="H2">Yoro</state>
+<state value="Hong Kong" statecode="" stateid="H3_1" countryid="H3">Hong Kong</state>
+<state value="Bacs-Kiskun" statecode="" stateid="H4_1" countryid="H4">Bacs-Kiskun</state>
+<state value="Baranya" statecode="" stateid="H4_2" countryid="H4">Baranya</state>
+<state value="Bekes" statecode="" stateid="H4_3" countryid="H4">Bekes</state>
+<state value="Bekescsaba" statecode="" stateid="H4_4" countryid="H4">Bekescsaba</state>
+<state value="Borsod-Abauj-Zemplen" statecode="" stateid="H4_5" countryid="H4">Borsod-Abauj-Zemplen</state>
+<state value="Budapest" statecode="" stateid="H4_6" countryid="H4">Budapest</state>
+<state value="Csongrad" statecode="" stateid="H4_7" countryid="H4">Csongrad</state>
+<state value="Debrecen" statecode="" stateid="H4_8" countryid="H4">Debrecen</state>
+<state value="Dunaujvaros" statecode="" stateid="H4_9" countryid="H4">Dunaujvaros</state>
+<state value="Eger" statecode="" stateid="H4_10" countryid="H4">Eger</state>
+<state value="Fejer" statecode="" stateid="H4_11" countryid="H4">Fejer</state>
+<state value="Gyor" statecode="" stateid="H4_12" countryid="H4">Gyor</state>
+<state value="Gyor-Moson-Sopron" statecode="" stateid="H4_13" countryid="H4">Gyor-Moson-Sopron</state>
+<state value="Hajdu-Bihar" statecode="" stateid="H4_14" countryid="H4">Hajdu-Bihar</state>
+<state value="Heves" statecode="" stateid="H4_15" countryid="H4">Heves</state>
+<state value="Hodmezovasarhely" statecode="" stateid="H4_16" countryid="H4">Hodmezovasarhely</state>
+<state value="Jasz-Nagykun-Szolnok" statecode="" stateid="H4_17" countryid="H4">Jasz-Nagykun-Szolnok</state>
+<state value="Kaposvar" statecode="" stateid="H4_18" countryid="H4">Kaposvar</state>
+<state value="Kecskemet" statecode="" stateid="H4_19" countryid="H4">Kecskemet</state>
+<state value="Komarom-Esztergom" statecode="" stateid="H4_20" countryid="H4">Komarom-Esztergom</state>
+<state value="Miskolc" statecode="" stateid="H4_21" countryid="H4">Miskolc</state>
+<state value="Nagykanizsa" statecode="" stateid="H4_22" countryid="H4">Nagykanizsa</state>
+<state value="Nograd" statecode="" stateid="H4_23" countryid="H4">Nograd</state>
+<state value="Nyiregyhaza" statecode="" stateid="H4_24" countryid="H4">Nyiregyhaza</state>
+<state value="Pecs" statecode="" stateid="H4_25" countryid="H4">Pecs</state>
+<state value="Pest" statecode="" stateid="H4_26" countryid="H4">Pest</state>
+<state value="Somogy" statecode="" stateid="H4_27" countryid="H4">Somogy</state>
+<state value="Sopron" statecode="" stateid="H4_28" countryid="H4">Sopron</state>
+<state value="Szabolcs-Szatmar-Bereg" statecode="" stateid="H4_29" countryid="H4">Szabolcs-Szatmar-Bereg</state>
+<state value="Szeged" statecode="" stateid="H4_30" countryid="H4">Szeged</state>
+<state value="Szekesfehervar" statecode="" stateid="H4_31" countryid="H4">Szekesfehervar</state>
+<state value="Szolnok" statecode="" stateid="H4_32" countryid="H4">Szolnok</state>
+<state value="Szombathely" statecode="" stateid="H4_33" countryid="H4">Szombathely</state>
+<state value="Tatabanya" statecode="" stateid="H4_34" countryid="H4">Tatabanya</state>
+<state value="Tolna" statecode="" stateid="H4_35" countryid="H4">Tolna</state>
+<state value="Vas" statecode="" stateid="H4_36" countryid="H4">Vas</state>
+<state value="Veszprem" statecode="" stateid="H4_37" countryid="H4">Veszprem</state>
+<state value="Zala" statecode="" stateid="H4_38" countryid="H4">Zala</state>
+<state value="Zalaegerszeg" statecode="" stateid="H4_39" countryid="H4">Zalaegerszeg</state>
+<state value="Akranes" statecode="" stateid="I1_1" countryid="I1">Akranes</state>
+<state value="Akureyri" statecode="" stateid="I1_2" countryid="I1">Akureyri</state>
+<state value="Arnessysla" statecode="" stateid="I1_3" countryid="I1">Arnessysla</state>
+<state value="Austur-Bardhastrandarsysla" statecode="" stateid="I1_4" countryid="I1">Austur-Bardhastrandarsysla</state>
+<state value="Austur-Hunavatnssysla" statecode="" stateid="I1_5" countryid="I1">Austur-Hunavatnssysla</state>
+<state value="Austur-Skaftafellssysla" statecode="" stateid="I1_6" countryid="I1">Austur-Skaftafellssysla</state>
+<state value="Borgarfjardharsysla" statecode="" stateid="I1_7" countryid="I1">Borgarfjardharsysla</state>
+<state value="Dalasysla" statecode="" stateid="I1_8" countryid="I1">Dalasysla</state>
+<state value="Eyjafjardharsysla" statecode="" stateid="I1_9" countryid="I1">Eyjafjardharsysla</state>
+<state value="Gullbringusysla" statecode="" stateid="I1_10" countryid="I1">Gullbringusysla</state>
+<state value="Hafnarfjordhur" statecode="" stateid="I1_11" countryid="I1">Hafnarfjordhur</state>
+<state value="Husavik" statecode="" stateid="I1_12" countryid="I1">Husavik</state>
+<state value="Isafjordhur" statecode="" stateid="I1_13" countryid="I1">Isafjordhur</state>
+<state value="Keflavik" statecode="" stateid="I1_14" countryid="I1">Keflavik</state>
+<state value="Kjosarsysla" statecode="" stateid="I1_15" countryid="I1">Kjosarsysla</state>
+<state value="Kopavogur" statecode="" stateid="I1_16" countryid="I1">Kopavogur</state>
+<state value="Myrasysla" statecode="" stateid="I1_17" countryid="I1">Myrasysla</state>
+<state value="Neskaupstadhur" statecode="" stateid="I1_18" countryid="I1">Neskaupstadhur</state>
+<state value="Nordhur-Isafjardharsysla" statecode="" stateid="I1_19" countryid="I1">Nordhur-Isafjardharsysla</state>
+<state value="Nordhur-Mulasys-la" statecode="" stateid="I1_20" countryid="I1">Nordhur-Mulasys-la</state>
+<state value="Nordhur-Thingeyjarsysla" statecode="" stateid="I1_21" countryid="I1">Nordhur-Thingeyjarsysla</state>
+<state value="Olafsfjordhur" statecode="" stateid="I1_22" countryid="I1">Olafsfjordhur</state>
+<state value="Rangarvallasysla" statecode="" stateid="I1_23" countryid="I1">Rangarvallasysla</state>
+<state value="Reykjavik" statecode="" stateid="I1_24" countryid="I1">Reykjavik</state>
+<state value="Saudharkrokur" statecode="" stateid="I1_25" countryid="I1">Saudharkrokur</state>
+<state value="Seydhisfjordhur" statecode="" stateid="I1_26" countryid="I1">Seydhisfjordhur</state>
+<state value="Siglufjordhur" statecode="" stateid="I1_27" countryid="I1">Siglufjordhur</state>
+<state value="Skagafjardharsysla" statecode="" stateid="I1_28" countryid="I1">Skagafjardharsysla</state>
+<state value="Snaefellsnes-og Hnappadalssysla" statecode="" stateid="I1_29" countryid="I1">Snaefellsnes-og Hnappadalssysla</state>
+<state value="Strandasysla" statecode="" stateid="I1_30" countryid="I1">Strandasysla</state>
+<state value="Sudhur-Mulasysla" statecode="" stateid="I1_31" countryid="I1">Sudhur-Mulasysla</state>
+<state value="Sudhur-Thingeyjarsysla" statecode="" stateid="I1_32" countryid="I1">Sudhur-Thingeyjarsysla</state>
+<state value="Vesttmannaeyjar" statecode="" stateid="I1_33" countryid="I1">Vesttmannaeyjar</state>
+<state value="Vestur-Bardhastrandarsysla" statecode="" stateid="I1_34" countryid="I1">Vestur-Bardhastrandarsysla</state>
+<state value="Vestur-Hunavatnssysla" statecode="" stateid="I1_35" countryid="I1">Vestur-Hunavatnssysla</state>
+<state value="Vestur-Isafjardharsysla" statecode="" stateid="I1_36" countryid="I1">Vestur-Isafjardharsysla</state>
+<state value="Vestur-Skaftafellssysla" statecode="" stateid="I1_37" countryid="I1">Vestur-Skaftafellssysla</state>
+<state value="Jammu & Kashmir" statecode="01" stateid="I2_01" countryid="I2">Jammu & Kashmir</state>
+<state value="Himachal Pradesh" statecode="02" stateid="I2_02" countryid="I2">Himachal Pradesh</state>
+<state value="Punjab" statecode="03" stateid="I2_03" countryid="I2">Punjab</state>
+<state value="Chandigarh" statecode="04" stateid="I2_04" countryid="I2">Chandigarh</state>
+<state value="Uttarakhand" statecode="05" stateid="I2_05" countryid="I2">Uttarakhand</state>
+<state value="Haryana" statecode="06" stateid="I2_06" countryid="I2">Haryana</state>
+<state value="Delhi" statecode="07" stateid="I2_07" countryid="I2">Delhi</state>
+<state value="Rajasthan" statecode="08" stateid="I2_08" countryid="I2">Rajasthan</state>
+<state value="Uttar Pradesh" statecode="09" stateid="I2_09" countryid="I2">Uttar Pradesh</state>
+<state value="Bihar" statecode="10" stateid="I2_10" countryid="I2">Bihar</state>
+<state value="Sikkim" statecode="11" stateid="I2_11" countryid="I2">Sikkim</state>
+<state value="Arunachal Pradesh" statecode="12" stateid="I2_12" countryid="I2">Arunachal Pradesh</state>
+<state value="Nagaland" statecode="13" stateid="I2_13" countryid="I2">Nagaland</state>
+<state value="Manipur" statecode="14" stateid="I2_14" countryid="I2">Manipur</state>
+<state value="Mizoram" statecode="15" stateid="I2_15" countryid="I2">Mizoram</state>
+<state value="Tripura" statecode="16" stateid="I2_16" countryid="I2">Tripura</state>
+<state value="Meghalaya" statecode="17" stateid="I2_17" countryid="I2">Meghalaya</state>
+<state value="Assam" statecode="18" stateid="I2_18" countryid="I2">Assam</state>
+<state value="West Bengal" statecode="19" stateid="I2_19" countryid="I2">West Bengal</state>
+<state value="Jharkhand" statecode="20" stateid="I2_20" countryid="I2">Jharkhand</state>
+<state value="Odisha" statecode="21" stateid="I2_21" countryid="I2">Odisha</state>
+<state value="Chhattisgarh" statecode="22" stateid="I2_22" countryid="I2">Chhattisgarh</state>
+<state value="Madhya Pradesh" statecode="23" stateid="I2_23" countryid="I2">Madhya Pradesh</state>
+<state value="Gujarat" statecode="24" stateid="I2_24" countryid="I2">Gujarat</state>
+<state value="Daman & Diu" statecode="25" stateid="I2_25" countryid="I2">Daman & Diu</state>
+<state value="Dadra & Nagar Haveli" statecode="26" stateid="I2_26" countryid="I2">Dadra & Nagar Haveli</state>
+<state value="Maharashtra" statecode="27" stateid="I2_27" countryid="I2">Maharashtra</state>
+<state value="Andhra Pradesh(Old)" statecode="28" stateid="I2_28" countryid="I2">Andhra Pradesh(Before Division)</state>
+<state value="Karnataka" statecode="29" stateid="I2_29" countryid="I2">Karnataka</state>
+<state value="Goa" statecode="30" stateid="I2_30" countryid="I2">Goa</state>
+<state value="Lakshadweep" statecode="31" stateid="I2_31" countryid="I2">Lakshadweep</state>
+<state value="Kerala" statecode="32" stateid="I2_32" countryid="I2">Kerala</state>
+<state value="Tamil Nadu" statecode="33" stateid="I2_33" countryid="I2">Tamil Nadu</state>
+<state value="Pondicherry" statecode="34" stateid="I2_34" countryid="I2">Pondicherry</state>
+<state value="Andaman & Nicobar Islands" statecode="35" stateid="I2_35" countryid="I2">Andaman & Nicobar Islands</state>
+<state value="Telangana" statecode="36" stateid="I2_36" countryid="I2">Telangana</state>
+<state value="Andhra Pradesh" statecode="37" stateid="I2_37" countryid="I2">Andhra Pradesh</state>
+<state value="Ladakh" statecode="38" stateid="I2_38" countryid="I2">Ladakh</state>
+<state value="Aceh" statecode="" stateid="I3_1" countryid="I3">Aceh</state>
+<state value="Bali" statecode="" stateid="I3_2" countryid="I3">Bali</state>
+<state value="Banten" statecode="" stateid="I3_3" countryid="I3">Banten</state>
+<state value="Bengkulu" statecode="" stateid="I3_4" countryid="I3">Bengkulu</state>
+<state value="East Timor" statecode="" stateid="I3_5" countryid="I3">East Timor</state>
+<state value="Gorontalo" statecode="" stateid="I3_6" countryid="I3">Gorontalo</state>
+<state value="Irian Jaya" statecode="" stateid="I3_7" countryid="I3">Irian Jaya</state>
+<state value="Jakarta Raya" statecode="" stateid="I3_8" countryid="I3">Jakarta Raya</state>
+<state value="Jambi" statecode="" stateid="I3_9" countryid="I3">Jambi</state>
+<state value="Jawa Barat" statecode="" stateid="I3_10" countryid="I3">Jawa Barat</state>
+<state value="Jawa Tengah" statecode="" stateid="I3_11" countryid="I3">Jawa Tengah</state>
+<state value="Jawa Timur" statecode="" stateid="I3_12" countryid="I3">Jawa Timur</state>
+<state value="Kalimantan Barat" statecode="" stateid="I3_13" countryid="I3">Kalimantan Barat</state>
+<state value="Kalimantan Selatan" statecode="" stateid="I3_14" countryid="I3">Kalimantan Selatan</state>
+<state value="Kalimantan Tengah" statecode="" stateid="I3_15" countryid="I3">Kalimantan Tengah</state>
+<state value="Kalimantan Timur" statecode="" stateid="I3_16" countryid="I3">Kalimantan Timur</state>
+<state value="Kepulauan Bangka Belitung" statecode="" stateid="I3_17" countryid="I3">Kepulauan Bangka Belitung</state>
+<state value="Lampung" statecode="" stateid="I3_18" countryid="I3">Lampung</state>
+<state value="Maluku" statecode="" stateid="I3_19" countryid="I3">Maluku</state>
+<state value="Maluku Utara" statecode="" stateid="I3_20" countryid="I3">Maluku Utara</state>
+<state value="Nusa Tenggara Barat" statecode="" stateid="I3_21" countryid="I3">Nusa Tenggara Barat</state>
+<state value="Nusa Tenggara Timur" statecode="" stateid="I3_22" countryid="I3">Nusa Tenggara Timur</state>
+<state value="Riau" statecode="" stateid="I3_23" countryid="I3">Riau</state>
+<state value="Sulawesi Selatan" statecode="" stateid="I3_24" countryid="I3">Sulawesi Selatan</state>
+<state value="Sulawesi Tengah" statecode="" stateid="I3_25" countryid="I3">Sulawesi Tengah</state>
+<state value="Sulawesi Tenggara" statecode="" stateid="I3_26" countryid="I3">Sulawesi Tenggara</state>
+<state value="Sulawesi Utara" statecode="" stateid="I3_27" countryid="I3">Sulawesi Utara</state>
+<state value="Sumatera Barat" statecode="" stateid="I3_28" countryid="I3">Sumatera Barat</state>
+<state value="Sumatera Selatan" statecode="" stateid="I3_29" countryid="I3">Sumatera Selatan</state>
+<state value="Sumatera Utara" statecode="" stateid="I3_30" countryid="I3">Sumatera Utara</state>
+<state value="Yogyakarta" statecode="" stateid="I3_31" countryid="I3">Yogyakarta</state>
+<state value="Ardabil" statecode="" stateid="I5_1" countryid="I5">Ardabil</state>
+<state value="Azarbayjan-e Gharbi" statecode="" stateid="I5_2" countryid="I5">Azarbayjan-e Gharbi</state>
+<state value="Azarbayjan-e Sharqi" statecode="" stateid="I5_3" countryid="I5">Azarbayjan-e Sharqi</state>
+<state value="Bushehr" statecode="" stateid="I5_4" countryid="I5">Bushehr</state>
+<state value="Chahar Mahall va Bakhtiari" statecode="" stateid="I5_5" countryid="I5">Chahar Mahall va Bakhtiari</state>
+<state value="Esfahan" statecode="" stateid="I5_6" countryid="I5">Esfahan</state>
+<state value="Fars" statecode="" stateid="I5_7" countryid="I5">Fars</state>
+<state value="Gilan" statecode="" stateid="I5_8" countryid="I5">Gilan</state>
+<state value="Golestan" statecode="" stateid="I5_9" countryid="I5">Golestan</state>
+<state value="Hamadan" statecode="" stateid="I5_10" countryid="I5">Hamadan</state>
+<state value="Hormozgan" statecode="" stateid="I5_11" countryid="I5">Hormozgan</state>
+<state value="Ilam" statecode="" stateid="I5_12" countryid="I5">Ilam</state>
+<state value="Kerman" statecode="" stateid="I5_13" countryid="I5">Kerman</state>
+<state value="Kermanshah" statecode="" stateid="I5_14" countryid="I5">Kermanshah</state>
+<state value="Khorasan" statecode="" stateid="I5_15" countryid="I5">Khorasan</state>
+<state value="Khuzestan" statecode="" stateid="I5_16" countryid="I5">Khuzestan</state>
+<state value="Kohgiluyeh va Buyer Ahmad" statecode="" stateid="I5_17" countryid="I5">Kohgiluyeh va Buyer Ahmad</state>
+<state value="Kordestan" statecode="" stateid="I5_18" countryid="I5">Kordestan</state>
+<state value="Lorestan" statecode="" stateid="I5_19" countryid="I5">Lorestan</state>
+<state value="Markazi" statecode="" stateid="I5_20" countryid="I5">Markazi</state>
+<state value="Mazandaran" statecode="" stateid="I5_21" countryid="I5">Mazandaran</state>
+<state value="Qazvin" statecode="" stateid="I5_22" countryid="I5">Qazvin</state>
+<state value="Qom" statecode="" stateid="I5_23" countryid="I5">Qom</state>
+<state value="Semnan" statecode="" stateid="I5_24" countryid="I5">Semnan</state>
+<state value="Sistan va Baluchestan" statecode="" stateid="I5_25" countryid="I5">Sistan va Baluchestan</state>
+<state value="Tehran" statecode="" stateid="I5_26" countryid="I5">Tehran</state>
+<state value="Yazd" statecode="" stateid="I5_27" countryid="I5">Yazd</state>
+<state value="Zanjan" statecode="" stateid="I5_28" countryid="I5">Zanjan</state>
+<state value="Al Anbar" statecode="" stateid="I6_1" countryid="I6">Al Anbar</state>
+<state value="Al Basrah" statecode="" stateid="I6_2" countryid="I6">Al Basrah</state>
+<state value="Al Muthanna" statecode="" stateid="I6_3" countryid="I6">Al Muthanna</state>
+<state value="Al Qadisiyah" statecode="" stateid="I6_4" countryid="I6">Al Qadisiyah</state>
+<state value="An Najaf" statecode="" stateid="I6_5" countryid="I6">An Najaf</state>
+<state value="Arbil" statecode="" stateid="I6_6" countryid="I6">Arbil</state>
+<state value="As Sulaymaniyah" statecode="" stateid="I6_7" countryid="I6">As Sulaymaniyah</state>
+<state value="At Ta'mim" statecode="" stateid="I6_8" countryid="I6">At Ta'mim</state>
+<state value="Babil" statecode="" stateid="I6_9" countryid="I6">Babil</state>
+<state value="Baghdad" statecode="" stateid="I6_10" countryid="I6">Baghdad</state>
+<state value="Dahuk" statecode="" stateid="I6_11" countryid="I6">Dahuk</state>
+<state value="Dhi Qar" statecode="" stateid="I6_12" countryid="I6">Dhi Qar</state>
+<state value="Diyala" statecode="" stateid="I6_13" countryid="I6">Diyala</state>
+<state value="Karbala'" statecode="" stateid="I6_14" countryid="I6">Karbala'</state>
+<state value="Maysan" statecode="" stateid="I6_15" countryid="I6">Maysan</state>
+<state value="Ninawa" statecode="" stateid="I6_16" countryid="I6">Ninawa</state>
+<state value="Salah ad Din" statecode="" stateid="I6_17" countryid="I6">Salah ad Din</state>
+<state value="Wasit" statecode="" stateid="I6_18" countryid="I6">Wasit</state>
+<state value="Carlow" statecode="" stateid="I7_1" countryid="I7">Carlow</state>
+<state value="Cavan" statecode="" stateid="I7_2" countryid="I7">Cavan</state>
+<state value="Clare" statecode="" stateid="I7_3" countryid="I7">Clare</state>
+<state value="Cork" statecode="" stateid="I7_4" countryid="I7">Cork</state>
+<state value="Donegal" statecode="" stateid="I7_5" countryid="I7">Donegal</state>
+<state value="Dublin" statecode="" stateid="I7_6" countryid="I7">Dublin</state>
+<state value="Galway" statecode="" stateid="I7_7" countryid="I7">Galway</state>
+<state value="Kerry" statecode="" stateid="I7_8" countryid="I7">Kerry</state>
+<state value="Kildare" statecode="" stateid="I7_9" countryid="I7">Kildare</state>
+<state value="Kilkenny" statecode="" stateid="I7_10" countryid="I7">Kilkenny</state>
+<state value="Laois" statecode="" stateid="I7_11" countryid="I7">Laois</state>
+<state value="Leitrim" statecode="" stateid="I7_12" countryid="I7">Leitrim</state>
+<state value="Limerick" statecode="" stateid="I7_13" countryid="I7">Limerick</state>
+<state value="Longford" statecode="" stateid="I7_14" countryid="I7">Longford</state>
+<state value="Louth" statecode="" stateid="I7_15" countryid="I7">Louth</state>
+<state value="Mayo" statecode="" stateid="I7_16" countryid="I7">Mayo</state>
+<state value="Meath" statecode="" stateid="I7_17" countryid="I7">Meath</state>
+<state value="Monaghan" statecode="" stateid="I7_18" countryid="I7">Monaghan</state>
+<state value="Offaly" statecode="" stateid="I7_19" countryid="I7">Offaly</state>
+<state value="Roscommon" statecode="" stateid="I7_20" countryid="I7">Roscommon</state>
+<state value="Sligo" statecode="" stateid="I7_21" countryid="I7">Sligo</state>
+<state value="Tipperary" statecode="" stateid="I7_22" countryid="I7">Tipperary</state>
+<state value="Waterford" statecode="" stateid="I7_23" countryid="I7">Waterford</state>
+<state value="Westmeath" statecode="" stateid="I7_24" countryid="I7">Westmeath</state>
+<state value="Wexford" statecode="" stateid="I7_25" countryid="I7">Wexford</state>
+<state value="Wicklow" statecode="" stateid="I7_26" countryid="I7">Wicklow</state>
+<state value="Central" statecode="" stateid="I9_1" countryid="I9">Central</state>
+<state value="Haifa" statecode="" stateid="I9_2" countryid="I9">Haifa</state>
+<state value="Jerusalem" statecode="" stateid="I9_3" countryid="I9">Jerusalem</state>
+<state value="Northern" statecode="" stateid="I9_4" countryid="I9">Northern</state>
+<state value="Southern" statecode="" stateid="I9_5" countryid="I9">Southern</state>
+<state value="Tel Aviv" statecode="" stateid="I9_6" countryid="I9">Tel Aviv</state>
+<state value="Abruzzo" statecode="" stateid="I10_1" countryid="I10">Abruzzo</state>
+<state value="Basilicata" statecode="" stateid="I10_2" countryid="I10">Basilicata</state>
+<state value="Calabria" statecode="" stateid="I10_3" countryid="I10">Calabria</state>
+<state value="Campania" statecode="" stateid="I10_4" countryid="I10">Campania</state>
+<state value="Emilia-Romagna" statecode="" stateid="I10_5" countryid="I10">Emilia-Romagna</state>
+<state value="Friuli-Venezia Giulia" statecode="" stateid="I10_6" countryid="I10">Friuli-Venezia Giulia</state>
+<state value="Lazio" statecode="" stateid="I10_7" countryid="I10">Lazio</state>
+<state value="Liguria" statecode="" stateid="I10_8" countryid="I10">Liguria</state>
+<state value="Lombardia" statecode="" stateid="I10_9" countryid="I10">Lombardia</state>
+<state value="Marche" statecode="" stateid="I10_10" countryid="I10">Marche</state>
+<state value="Molise" statecode="" stateid="I10_11" countryid="I10">Molise</state>
+<state value="Piemonte" statecode="" stateid="I10_12" countryid="I10">Piemonte</state>
+<state value="Puglia" statecode="" stateid="I10_13" countryid="I10">Puglia</state>
+<state value="Sardegna" statecode="" stateid="I10_14" countryid="I10">Sardegna</state>
+<state value="Sicilia" statecode="" stateid="I10_15" countryid="I10">Sicilia</state>
+<state value="Toscana" statecode="" stateid="I10_16" countryid="I10">Toscana</state>
+<state value="Trentino-Alto Adige" statecode="" stateid="I10_17" countryid="I10">Trentino-Alto Adige</state>
+<state value="Umbria" statecode="" stateid="I10_18" countryid="I10">Umbria</state>
+<state value="Valle d'Aosta" statecode="" stateid="I10_19" countryid="I10">Valle d'Aosta</state>
+<state value="Veneto" statecode="" stateid="I10_20" countryid="I10">Veneto</state>
+<state value="Milan" statecode="" stateid="I10_21" countryid="I10">Milan</state>
+<state value="Clarendon" statecode="" stateid="J1_1" countryid="J1">Clarendon</state>
+<state value="Hanover" statecode="" stateid="J1_2" countryid="J1">Hanover</state>
+<state value="Kingston" statecode="" stateid="J1_3" countryid="J1">Kingston</state>
+<state value="Manchester" statecode="" stateid="J1_4" countryid="J1">Manchester</state>
+<state value="Portland" statecode="" stateid="J1_5" countryid="J1">Portland</state>
+<state value="Saint Andrew" statecode="" stateid="J1_6" countryid="J1">Saint Andrew</state>
+<state value="Saint Ann" statecode="" stateid="J1_7" countryid="J1">Saint Ann</state>
+<state value="Saint Catherine" statecode="" stateid="J1_8" countryid="J1">Saint Catherine</state>
+<state value="Saint Elizabeth" statecode="" stateid="J1_9" countryid="J1">Saint Elizabeth</state>
+<state value="Saint James" statecode="" stateid="J1_10" countryid="J1">Saint James</state>
+<state value="Saint Mary" statecode="" stateid="J1_11" countryid="J1">Saint Mary</state>
+<state value="Saint Thomas" statecode="" stateid="J1_12" countryid="J1">Saint Thomas</state>
+<state value="Trelawny" statecode="" stateid="J1_13" countryid="J1">Trelawny</state>
+<state value="Westmoreland" statecode="" stateid="J1_14" countryid="J1">Westmoreland</state>
+<state value="Aichi" statecode="" stateid="J2_1" countryid="J2">Aichi</state>
+<state value="Akita" statecode="" stateid="J2_2" countryid="J2">Akita</state>
+<state value="Aomori" statecode="" stateid="J2_3" countryid="J2">Aomori</state>
+<state value="Chiba" statecode="" stateid="J2_4" countryid="J2">Chiba</state>
+<state value="Ehime" statecode="" stateid="J2_5" countryid="J2">Ehime</state>
+<state value="Fukui" statecode="" stateid="J2_6" countryid="J2">Fukui</state>
+<state value="Fukuoka" statecode="" stateid="J2_7" countryid="J2">Fukuoka</state>
+<state value="Fukushima" statecode="" stateid="J2_8" countryid="J2">Fukushima</state>
+<state value="Gifu" statecode="" stateid="J2_9" countryid="J2">Gifu</state>
+<state value="Gumma" statecode="" stateid="J2_10" countryid="J2">Gumma</state>
+<state value="Hiroshima" statecode="" stateid="J2_11" countryid="J2">Hiroshima</state>
+<state value="Hokkaido" statecode="" stateid="J2_12" countryid="J2">Hokkaido</state>
+<state value="Hyogo" statecode="" stateid="J2_13" countryid="J2">Hyogo</state>
+<state value="Ibaraki" statecode="" stateid="J2_14" countryid="J2">Ibaraki</state>
+<state value="Ishikawa" statecode="" stateid="J2_15" countryid="J2">Ishikawa</state>
+<state value="Iwate" statecode="" stateid="J2_16" countryid="J2">Iwate</state>
+<state value="Kagawa" statecode="" stateid="J2_17" countryid="J2">Kagawa</state>
+<state value="Kagoshima" statecode="" stateid="J2_18" countryid="J2">Kagoshima</state>
+<state value="Kanagawa" statecode="" stateid="J2_19" countryid="J2">Kanagawa</state>
+<state value="Kochi" statecode="" stateid="J2_20" countryid="J2">Kochi</state>
+<state value="Kumamoto" statecode="" stateid="J2_21" countryid="J2">Kumamoto</state>
+<state value="Kyoto" statecode="" stateid="J2_22" countryid="J2">Kyoto</state>
+<state value="Mie" statecode="" stateid="J2_23" countryid="J2">Mie</state>
+<state value="Miyagi" statecode="" stateid="J2_24" countryid="J2">Miyagi</state>
+<state value="Miyazaki" statecode="" stateid="J2_25" countryid="J2">Miyazaki</state>
+<state value="Nagano" statecode="" stateid="J2_26" countryid="J2">Nagano</state>
+<state value="Nagasaki" statecode="" stateid="J2_27" countryid="J2">Nagasaki</state>
+<state value="Nara" statecode="" stateid="J2_28" countryid="J2">Nara</state>
+<state value="Niigata" statecode="" stateid="J2_29" countryid="J2">Niigata</state>
+<state value="Oita" statecode="" stateid="J2_30" countryid="J2">Oita</state>
+<state value="Okayama" statecode="" stateid="J2_31" countryid="J2">Okayama</state>
+<state value="Okinawa" statecode="" stateid="J2_32" countryid="J2">Okinawa</state>
+<state value="Osaka" statecode="" stateid="J2_33" countryid="J2">Osaka</state>
+<state value="Saga" statecode="" stateid="J2_34" countryid="J2">Saga</state>
+<state value="Saitama" statecode="" stateid="J2_35" countryid="J2">Saitama</state>
+<state value="Shiga" statecode="" stateid="J2_36" countryid="J2">Shiga</state>
+<state value="Shimane" statecode="" stateid="J2_37" countryid="J2">Shimane</state>
+<state value="Shizuoka" statecode="" stateid="J2_38" countryid="J2">Shizuoka</state>
+<state value="Tochigi" statecode="" stateid="J2_39" countryid="J2">Tochigi</state>
+<state value="Tokushima" statecode="" stateid="J2_40" countryid="J2">Tokushima</state>
+<state value="Tokyo" statecode="" stateid="J2_41" countryid="J2">Tokyo</state>
+<state value="Tottori" statecode="" stateid="J2_42" countryid="J2">Tottori</state>
+<state value="Toyama" statecode="" stateid="J2_43" countryid="J2">Toyama</state>
+<state value="Wakayama" statecode="" stateid="J2_44" countryid="J2">Wakayama</state>
+<state value="Yamagata" statecode="" stateid="J2_45" countryid="J2">Yamagata</state>
+<state value="Yamaguchi" statecode="" stateid="J2_46" countryid="J2">Yamaguchi</state>
+<state value="Yamanashi" statecode="" stateid="J2_47" countryid="J2">Yamanashi</state>
+<state value="Jersey" statecode="" stateid="J3_1" countryid="J3">Jersey</state>
+<state value="'Amman" statecode="" stateid="J4_1" countryid="J4">'Amman</state>
+<state value="Ajlun" statecode="" stateid="J4_2" countryid="J4">Ajlun</state>
+<state value="Al 'Aqabah" statecode="" stateid="J4_3" countryid="J4">Al 'Aqabah</state>
+<state value="Al Balqa'" statecode="" stateid="J4_4" countryid="J4">Al Balqa'</state>
+<state value="Al Karak" statecode="" stateid="J4_5" countryid="J4">Al Karak</state>
+<state value="Al Mafraq" statecode="" stateid="J4_6" countryid="J4">Al Mafraq</state>
+<state value="At Tafilah" statecode="" stateid="J4_7" countryid="J4">At Tafilah</state>
+<state value="Az Zarqa'" statecode="" stateid="J4_8" countryid="J4">Az Zarqa'</state>
+<state value="Irbid" statecode="" stateid="J4_9" countryid="J4">Irbid</state>
+<state value="Jarash" statecode="" stateid="J4_10" countryid="J4">Jarash</state>
+<state value="Ma'an" statecode="" stateid="J4_11" countryid="J4">Ma'an</state>
+<state value="Madaba" statecode="" stateid="J4_12" countryid="J4">Madaba</state>
+<state value="Almaty" statecode="" stateid="K1_1" countryid="K1">Almaty</state>
+<state value="Aqmola" statecode="" stateid="K1_2" countryid="K1">Aqmola</state>
+<state value="Aqtobe" statecode="" stateid="K1_3" countryid="K1">Aqtobe</state>
+<state value="Astana" statecode="" stateid="K1_4" countryid="K1">Astana</state>
+<state value="Atyrau" statecode="" stateid="K1_5" countryid="K1">Atyrau</state>
+<state value="Batys Qazaqstan" statecode="" stateid="K1_6" countryid="K1">Batys Qazaqstan</state>
+<state value="Bayqongyr" statecode="" stateid="K1_7" countryid="K1">Bayqongyr</state>
+<state value="Mangghystau" statecode="" stateid="K1_8" countryid="K1">Mangghystau</state>
+<state value="Ongtustik Qazaqstan" statecode="" stateid="K1_9" countryid="K1">Ongtustik Qazaqstan</state>
+<state value="Pavlodar" statecode="" stateid="K1_10" countryid="K1">Pavlodar</state>
+<state value="Qaraghandy" statecode="" stateid="K1_11" countryid="K1">Qaraghandy</state>
+<state value="Qostanay" statecode="" stateid="K1_12" countryid="K1">Qostanay</state>
+<state value="Qyzylorda" statecode="" stateid="K1_13" countryid="K1">Qyzylorda</state>
+<state value="Shyghys Qazaqstan" statecode="" stateid="K1_14" countryid="K1">Shyghys Qazaqstan</state>
+<state value="Soltustik Qazaqstan" statecode="" stateid="K1_15" countryid="K1">Soltustik Qazaqstan</state>
+<state value="Zhambyl" statecode="" stateid="K1_16" countryid="K1">Zhambyl</state>
+<state value="Central" statecode="" stateid="K2_1" countryid="K2">Central</state>
+<state value="Coast" statecode="" stateid="K2_2" countryid="K2">Coast</state>
+<state value="Eastern" statecode="" stateid="K2_3" countryid="K2">Eastern</state>
+<state value="Nairobi Area" statecode="" stateid="K2_4" countryid="K2">Nairobi Area</state>
+<state value="North Eastern" statecode="" stateid="K2_5" countryid="K2">North Eastern</state>
+<state value="Nyanza" statecode="" stateid="K2_6" countryid="K2">Nyanza</state>
+<state value="Rift Valley" statecode="" stateid="K2_7" countryid="K2">Rift Valley</state>
+<state value="Western" statecode="" stateid="K2_8" countryid="K2">Western</state>
+<state value="Abaiang" statecode="" stateid="K3_1" countryid="K3">Abaiang</state>
+<state value="Abemama" statecode="" stateid="K3_2" countryid="K3">Abemama</state>
+<state value="Aranuka" statecode="" stateid="K3_3" countryid="K3">Aranuka</state>
+<state value="Arorae" statecode="" stateid="K3_4" countryid="K3">Arorae</state>
+<state value="Banaba" statecode="" stateid="K3_5" countryid="K3">Banaba</state>
+<state value="Beru" statecode="" stateid="K3_6" countryid="K3">Beru</state>
+<state value="Butaritari" statecode="" stateid="K3_7" countryid="K3">Butaritari</state>
+<state value="Central Gilberts" statecode="" stateid="K3_8" countryid="K3">Central Gilberts</state>
+<state value="Gilbert Islands" statecode="" stateid="K3_9" countryid="K3">Gilbert Islands</state>
+<state value="Kanton" statecode="" stateid="K3_10" countryid="K3">Kanton</state>
+<state value="Kiritimati" statecode="" stateid="K3_11" countryid="K3">Kiritimati</state>
+<state value="Kuria" statecode="" stateid="K3_12" countryid="K3">Kuria</state>
+<state value="Line Islands" statecode="" stateid="K3_13" countryid="K3">Line Islands</state>
+<state value="Maiana" statecode="" stateid="K3_14" countryid="K3">Maiana</state>
+<state value="Makin" statecode="" stateid="K3_15" countryid="K3">Makin</state>
+<state value="Marakei" statecode="" stateid="K3_16" countryid="K3">Marakei</state>
+<state value="Nikunau" statecode="" stateid="K3_17" countryid="K3">Nikunau</state>
+<state value="Nonouti" statecode="" stateid="K3_18" countryid="K3">Nonouti</state>
+<state value="Northern Gilberts" statecode="" stateid="K3_19" countryid="K3">Northern Gilberts</state>
+<state value="Onotoa" statecode="" stateid="K3_20" countryid="K3">Onotoa</state>
+<state value="Phoenix Islands" statecode="" stateid="K3_21" countryid="K3">Phoenix Islands</state>
+<state value="Southern Gilberts" statecode="" stateid="K3_22" countryid="K3">Southern Gilberts</state>
+<state value="Tabiteuea" statecode="" stateid="K3_23" countryid="K3">Tabiteuea</state>
+<state value="Tabuaeran" statecode="" stateid="K3_24" countryid="K3">Tabuaeran</state>
+<state value="Tamana" statecode="" stateid="K3_25" countryid="K3">Tamana</state>
+<state value="Tarawa" statecode="" stateid="K3_26" countryid="K3">Tarawa</state>
+<state value="Teraina" statecode="" stateid="K3_27" countryid="K3">Teraina</state>
+<state value="Al 'Asimah" statecode="" stateid="K5_1" countryid="K5">Al 'Asimah</state>
+<state value="Al Ahmadi" statecode="" stateid="K5_2" countryid="K5">Al Ahmadi</state>
+<state value="Al Farwaniyah" statecode="" stateid="K5_3" countryid="K5">Al Farwaniyah</state>
+<state value="Al Jahra'" statecode="" stateid="K5_4" countryid="K5">Al Jahra'</state>
+<state value="Hawalli" statecode="" stateid="K5_5" countryid="K5">Hawalli</state>
+<state value="Batken Oblasty" statecode="" stateid="K6_1" countryid="K6">Batken Oblasty</state>
+<state value="Bishkek Shaary" statecode="" stateid="K6_2" countryid="K6">Bishkek Shaary</state>
+<state value="Chuy Oblasty (Bishkek)" statecode="" stateid="K6_3" countryid="K6">Chuy Oblasty (Bishkek)</state>
+<state value="Jalal-Abad Oblasty" statecode="" stateid="K6_4" countryid="K6">Jalal-Abad Oblasty</state>
+<state value="Naryn Oblasty" statecode="" stateid="K6_5" countryid="K6">Naryn Oblasty</state>
+<state value="Osh Oblasty" statecode="" stateid="K6_6" countryid="K6">Osh Oblasty</state>
+<state value="Talas Oblasty" statecode="" stateid="K6_7" countryid="K6">Talas Oblasty</state>
+<state value="Ysyk-Kol Oblasty (Karakol)" statecode="" stateid="K6_8" countryid="K6">Ysyk-Kol Oblasty (Karakol)</state>
+<state value="Attapu" statecode="" stateid="L1_1" countryid="L1">Attapu</state>
+<state value="Bokeo" statecode="" stateid="L1_2" countryid="L1">Bokeo</state>
+<state value="Bolikhamxai" statecode="" stateid="L1_3" countryid="L1">Bolikhamxai</state>
+<state value="Champasak" statecode="" stateid="L1_4" countryid="L1">Champasak</state>
+<state value="Houaphan" statecode="" stateid="L1_5" countryid="L1">Houaphan</state>
+<state value="Khammouan" statecode="" stateid="L1_6" countryid="L1">Khammouan</state>
+<state value="Louangnamtha" statecode="" stateid="L1_7" countryid="L1">Louangnamtha</state>
+<state value="Louangphabang" statecode="" stateid="L1_8" countryid="L1">Louangphabang</state>
+<state value="Oudomxai" statecode="" stateid="L1_9" countryid="L1">Oudomxai</state>
+<state value="Phongsali" statecode="" stateid="L1_10" countryid="L1">Phongsali</state>
+<state value="Salavan" statecode="" stateid="L1_11" countryid="L1">Salavan</state>
+<state value="Savannakhet" statecode="" stateid="L1_12" countryid="L1">Savannakhet</state>
+<state value="Viangchan" statecode="" stateid="L1_13" countryid="L1">Viangchan</state>
+<state value="Xaignabouli" statecode="" stateid="L1_14" countryid="L1">Xaignabouli</state>
+<state value="Xaisomboun" statecode="" stateid="L1_15" countryid="L1">Xaisomboun</state>
+<state value="Xekong" statecode="" stateid="L1_16" countryid="L1">Xekong</state>
+<state value="Xiangkhoang" statecode="" stateid="L1_17" countryid="L1">Xiangkhoang</state>
+<state value="Aizkraukles Rajons" statecode="" stateid="L2_1" countryid="L2">Aizkraukles Rajons</state>
+<state value="Aluksnes Rajons" statecode="" stateid="L2_2" countryid="L2">Aluksnes Rajons</state>
+<state value="Balvu Rajons" statecode="" stateid="L2_3" countryid="L2">Balvu Rajons</state>
+<state value="Bauskas Rajons" statecode="" stateid="L2_4" countryid="L2">Bauskas Rajons</state>
+<state value="Cesu Rajons" statecode="" stateid="L2_5" countryid="L2">Cesu Rajons</state>
+<state value="Daugavpils" statecode="" stateid="L2_6" countryid="L2">Daugavpils</state>
+<state value="Daugavpils Rajons" statecode="" stateid="L2_7" countryid="L2">Daugavpils Rajons</state>
+<state value="Dobeles Rajons" statecode="" stateid="L2_8" countryid="L2">Dobeles Rajons</state>
+<state value="Gulbenes Rajons" statecode="" stateid="L2_9" countryid="L2">Gulbenes Rajons</state>
+<state value="Jekabpils Rajons" statecode="" stateid="L2_10" countryid="L2">Jekabpils Rajons</state>
+<state value="Jelgava" statecode="" stateid="L2_11" countryid="L2">Jelgava</state>
+<state value="Jelgavas Rajons" statecode="" stateid="L2_12" countryid="L2">Jelgavas Rajons</state>
+<state value="Jurmala" statecode="" stateid="L2_13" countryid="L2">Jurmala</state>
+<state value="Kraslavas Rajons" statecode="" stateid="L2_14" countryid="L2">Kraslavas Rajons</state>
+<state value="Kuldigas Rajons" statecode="" stateid="L2_15" countryid="L2">Kuldigas Rajons</state>
+<state value="Leipaja" statecode="" stateid="L2_16" countryid="L2">Leipaja</state>
+<state value="Liepajas Rajons" statecode="" stateid="L2_17" countryid="L2">Liepajas Rajons</state>
+<state value="Limbazu Rajons" statecode="" stateid="L2_18" countryid="L2">Limbazu Rajons</state>
+<state value="Ludzas Rajons" statecode="" stateid="L2_19" countryid="L2">Ludzas Rajons</state>
+<state value="Madonas Rajons" statecode="" stateid="L2_20" countryid="L2">Madonas Rajons</state>
+<state value="Ogres Rajons" statecode="" stateid="L2_21" countryid="L2">Ogres Rajons</state>
+<state value="Preilu Rajons" statecode="" stateid="L2_22" countryid="L2">Preilu Rajons</state>
+<state value="Rezekne" statecode="" stateid="L2_23" countryid="L2">Rezekne</state>
+<state value="Rezeknes Rajons" statecode="" stateid="L2_24" countryid="L2">Rezeknes Rajons</state>
+<state value="Riga" statecode="" stateid="L2_25" countryid="L2">Riga</state>
+<state value="Rigas Rajons" statecode="" stateid="L2_26" countryid="L2">Rigas Rajons</state>
+<state value="Saldus Rajons" statecode="" stateid="L2_27" countryid="L2">Saldus Rajons</state>
+<state value="Talsu Rajons" statecode="" stateid="L2_28" countryid="L2">Talsu Rajons</state>
+<state value="Tukuma Rajons" statecode="" stateid="L2_29" countryid="L2">Tukuma Rajons</state>
+<state value="Valkas Rajons" statecode="" stateid="L2_30" countryid="L2">Valkas Rajons</state>
+<state value="Valmieras Rajons" statecode="" stateid="L2_31" countryid="L2">Valmieras Rajons</state>
+<state value="Ventspils" statecode="" stateid="L2_32" countryid="L2">Ventspils</state>
+<state value="Ventspils Rajons" statecode="" stateid="L2_33" countryid="L2">Ventspils Rajons</state>
+<state value="Beyrouth" statecode="" stateid="L3_1" countryid="L3">Beyrouth</state>
+<state value="Ech Chimal" statecode="" stateid="L3_2" countryid="L3">Ech Chimal</state>
+<state value="Ej Jnoub" statecode="" stateid="L3_3" countryid="L3">Ej Jnoub</state>
+<state value="El Bekaa" statecode="" stateid="L3_4" countryid="L3">El Bekaa</state>
+<state value="Jabal Loubnane" statecode="" stateid="L3_5" countryid="L3">Jabal Loubnane</state>
+<state value="Maldives" statecode="" stateid="M6_1" countryid="M6">Maldives</state>
+<state value="Jalisco" statecode="" stateid="M14_1" countryid="M14">Jalisco</state>
+<state value="Amsterdam" statecode="" stateid="N4_1" countryid="N4">Amsterdam</state>
+<state value="Kathmandu" statecode="" stateid="N3_1" countryid="N3">Kathmandu</state>
+<state value="Province 1" statecode="" stateid="N3_2" countryid="N3">Province 1</state>
+<state value="Madhesh" statecode="" stateid="N3_3" countryid="N3">Madhesh</state>
+<state value="Bagmati" statecode="" stateid="N3_4" countryid="N3">Bagmati</state>
+<state value="Gandaki" statecode="" stateid="N3_5" countryid="N3">Gandaki</state>
+<state value="Lumbini" statecode="" stateid="N3_6" countryid="N3">Lumbini</state>
+<state value="Karnali" statecode="" stateid="N3_7" countryid="N3">Karnali</state>
+<state value="Sudurpashchim" statecode="" stateid="N3_8" countryid="N3">Sudurpashchim</state>
+<state value="Lagos" statecode="" stateid="N9_1" countryid="N9">Lagos</state>
+<state value="Ad Dakhiliyah" statecode="" stateid="O1_1" countryid="O1">Ad Dakhiliyah</state>
+<state value="Al Batinah" statecode="" stateid="O1_2" countryid="O1">Al Batinah</state>
+<state value="Al Wusta" statecode="" stateid="O1_3" countryid="O1">Al Wusta</state>
+<state value="Ash Sharqiyah" statecode="" stateid="O1_4" countryid="O1">Ash Sharqiyah</state>
+<state value="Az Zahirah" statecode="" stateid="O1_5" countryid="O1">Az Zahirah</state>
+<state value="Muscat" statecode="" stateid="O1_6" countryid="O1">Muscat</state>
+<state value="Musandam" statecode="" stateid="O1_7" countryid="O1">Musandam</state>
+<state value="Zufar" statecode="" stateid="O1_8" countryid="O1">Zufar</state>
+<state value="Sindh" statecode="" stateid="P1_1" countryid="P1">Sindh</state>
+<state value="Ad Dawhah" statecode="" stateid="Q1_1" countryid="Q1">Ad Dawhah</state>
+<state value="Al Ghuwayriyah" statecode="" stateid="Q1_2" countryid="Q1">Al Ghuwayriyah</state>
+<state value="Al Jumayliyah" statecode="" stateid="Q1_3" countryid="Q1">Al Jumayliyah</state>
+<state value="Al Khawr" statecode="" stateid="Q1_4" countryid="Q1">Al Khawr</state>
+<state value="Al Wakrah" statecode="" stateid="Q1_5" countryid="Q1">Al Wakrah</state>
+<state value="Ar Rayyan" statecode="" stateid="Q1_6" countryid="Q1">Ar Rayyan</state>
+<state value="Jarayan al Batinah" statecode="" stateid="Q1_7" countryid="Q1">Jarayan al Batinah</state>
+<state value="Madinat ash Shamal" statecode="" stateid="Q1_8" countryid="Q1">Madinat ash Shamal</state>
+<state value="Umm Salal" statecode="" stateid="Q1_9" countryid="Q1">Umm Salal</state>
+<state value="'Asir" statecode="" stateid="S11_1" countryid="S11">'Asir</state>
+<state value="Al Bahah" statecode="" stateid="S11_2" countryid="S11">Al Bahah</state>
+<state value="Al Hudud ash Shamaliyah" statecode="" stateid="S11_3" countryid="S11">Al Hudud ash Shamaliyah</state>
+<state value="Al Jawf" statecode="" stateid="S11_4" countryid="S11">Al Jawf</state>
+<state value="Al Madinah" statecode="" stateid="S11_5" countryid="S11">Al Madinah</state>
+<state value="Al Qasim" statecode="" stateid="S11_6" countryid="S11">Al Qasim</state>
+<state value="Ar Riyad" statecode="" stateid="S11_7" countryid="S11">Ar Riyad</state>
+<state value="Ash Sharqiyah (Eastern Province)" statecode="" stateid="S11_8" countryid="S11">Ash Sharqiyah (Eastern Province)</state>
+<state value="Ha'il" statecode="" stateid="S11_9" countryid="S11">Ha'il</state>
+<state value="Jizan" statecode="" stateid="S11_10" countryid="S11">Jizan</state>
+<state value="Makkah" statecode="" stateid="S11_11" countryid="S11">Makkah</state>
+<state value="Najran" statecode="" stateid="S11_12" countryid="S11">Najran</state>
+<state value="Tabuk" statecode="" stateid="S11_13" countryid="S11">Tabuk</state>
+<state value="Singapore" statecode="" stateid="S16_1" countryid="S16">Singapore</state>
+<state value="Madrid" statecode="" stateid="S27_1" countryid="S27">Madrid</state>
+<state value="Barcelona" statecode="" stateid="S27_2" countryid="S27">Barcelona</state>
+<state value="Al Hasakah" statecode="" stateid="S35_1" countryid="S35">Al Hasakah</state>
+<state value="Al Ladhiqiyah" statecode="" stateid="S35_2" countryid="S35">Al Ladhiqiyah</state>
+<state value="Al Qunaytirah" statecode="" stateid="S35_3" countryid="S35">Al Qunaytirah</state>
+<state value="Ar Raqqah" statecode="" stateid="S35_4" countryid="S35">Ar Raqqah</state>
+<state value="As Suwayda'" statecode="" stateid="S35_5" countryid="S35">As Suwayda'</state>
+<state value="Dar'a" statecode="" stateid="S35_6" countryid="S35">Dar'a</state>
+<state value="Dayr az Zawr" statecode="" stateid="S35_7" countryid="S35">Dayr az Zawr</state>
+<state value="Dimashq" statecode="" stateid="S35_8" countryid="S35">Dimashq</state>
+<state value="Halab" statecode="" stateid="S35_9" countryid="S35">Halab</state>
+<state value="Hamah" statecode="" stateid="S35_10" countryid="S35">Hamah</state>
+<state value="Hims" statecode="" stateid="S35_11" countryid="S35">Hims</state>
+<state value="Idlib" statecode="" stateid="S35_12" countryid="S35">Idlib</state>
+<state value="Rif Dimashq" statecode="" stateid="S35_13" countryid="S35">Rif Dimashq</state>
+<state value="Tartus" statecode="" stateid="S35_14" countryid="S35">Tartus</state>
+<state value="Bangkok" statecode="" stateid="T4_1" countryid="T4">Bangkok</state>
+<state value="Adana" statecode="" stateid="T12_1" countryid="T12">Adana</state>
+<state value="Adiyaman" statecode="" stateid="T12_2" countryid="T12">Adiyaman</state>
+<state value="Afyon" statecode="" stateid="T12_3" countryid="T12">Afyon</state>
+<state value="Agri" statecode="" stateid="T12_4" countryid="T12">Agri</state>
+<state value="Aksaray" statecode="" stateid="T12_5" countryid="T12">Aksaray</state>
+<state value="Amasya" statecode="" stateid="T12_6" countryid="T12">Amasya</state>
+<state value="Ankara" statecode="" stateid="T12_7" countryid="T12">Ankara</state>
+<state value="Antalya" statecode="" stateid="T12_8" countryid="T12">Antalya</state>
+<state value="Ardahan" statecode="" stateid="T12_9" countryid="T12">Ardahan</state>
+<state value="Artvin" statecode="" stateid="T12_10" countryid="T12">Artvin</state>
+<state value="Aydin" statecode="" stateid="T12_11" countryid="T12">Aydin</state>
+<state value="Balikesir" statecode="" stateid="T12_12" countryid="T12">Balikesir</state>
+<state value="Bartin" statecode="" stateid="T12_13" countryid="T12">Bartin</state>
+<state value="Batman" statecode="" stateid="T12_14" countryid="T12">Batman</state>
+<state value="Bayburt" statecode="" stateid="T12_15" countryid="T12">Bayburt</state>
+<state value="Bilecik" statecode="" stateid="T12_16" countryid="T12">Bilecik</state>
+<state value="Bingol" statecode="" stateid="T12_17" countryid="T12">Bingol</state>
+<state value="Bitlis" statecode="" stateid="T12_18" countryid="T12">Bitlis</state>
+<state value="Bolu" statecode="" stateid="T12_19" countryid="T12">Bolu</state>
+<state value="Burdur" statecode="" stateid="T12_20" countryid="T12">Burdur</state>
+<state value="Bursa" statecode="" stateid="T12_21" countryid="T12">Bursa</state>
+<state value="Canakkale" statecode="" stateid="T12_22" countryid="T12">Canakkale</state>
+<state value="Cankiri" statecode="" stateid="T12_23" countryid="T12">Cankiri</state>
+<state value="Corum" statecode="" stateid="T12_24" countryid="T12">Corum</state>
+<state value="Denizli" statecode="" stateid="T12_25" countryid="T12">Denizli</state>
+<state value="Diyarbakir" statecode="" stateid="T12_26" countryid="T12">Diyarbakir</state>
+<state value="Duzce" statecode="" stateid="T12_27" countryid="T12">Duzce</state>
+<state value="Edirne" statecode="" stateid="T12_28" countryid="T12">Edirne</state>
+<state value="Elazig" statecode="" stateid="T12_29" countryid="T12">Elazig</state>
+<state value="Erzincan" statecode="" stateid="T12_30" countryid="T12">Erzincan</state>
+<state value="Erzurum" statecode="" stateid="T12_31" countryid="T12">Erzurum</state>
+<state value="Eskisehir" statecode="" stateid="T12_32" countryid="T12">Eskisehir</state>
+<state value="Gaziantep" statecode="" stateid="T12_33" countryid="T12">Gaziantep</state>
+<state value="Giresun" statecode="" stateid="T12_34" countryid="T12">Giresun</state>
+<state value="Gumushane" statecode="" stateid="T12_35" countryid="T12">Gumushane</state>
+<state value="Hakkari" statecode="" stateid="T12_36" countryid="T12">Hakkari</state>
+<state value="Hatay" statecode="" stateid="T12_37" countryid="T12">Hatay</state>
+<state value="Icel" statecode="" stateid="T12_38" countryid="T12">Icel</state>
+<state value="Igdir" statecode="" stateid="T12_39" countryid="T12">Igdir</state>
+<state value="Isparta" statecode="" stateid="T12_40" countryid="T12">Isparta</state>
+<state value="Istanbul" statecode="" stateid="T12_41" countryid="T12">Istanbul</state>
+<state value="Izmir" statecode="" stateid="T12_42" countryid="T12">Izmir</state>
+<state value="Kahramanmaras" statecode="" stateid="T12_43" countryid="T12">Kahramanmaras</state>
+<state value="Karabuk" statecode="" stateid="T12_44" countryid="T12">Karabuk</state>
+<state value="Karaman" statecode="" stateid="T12_45" countryid="T12">Karaman</state>
+<state value="Kars" statecode="" stateid="T12_46" countryid="T12">Kars</state>
+<state value="Kastamonu" statecode="" stateid="T12_47" countryid="T12">Kastamonu</state>
+<state value="Kayseri" statecode="" stateid="T12_48" countryid="T12">Kayseri</state>
+<state value="Kilis" statecode="" stateid="T12_49" countryid="T12">Kilis</state>
+<state value="Kirikkale" statecode="" stateid="T12_50" countryid="T12">Kirikkale</state>
+<state value="Kirklareli" statecode="" stateid="T12_51" countryid="T12">Kirklareli</state>
+<state value="Kirsehir" statecode="" stateid="T12_52" countryid="T12">Kirsehir</state>
+<state value="Kocaeli" statecode="" stateid="T12_53" countryid="T12">Kocaeli</state>
+<state value="Konya" statecode="" stateid="T12_54" countryid="T12">Konya</state>
+<state value="Kutahya" statecode="" stateid="T12_55" countryid="T12">Kutahya</state>
+<state value="Malatya" statecode="" stateid="T12_56" countryid="T12">Malatya</state>
+<state value="Manisa" statecode="" stateid="T12_57" countryid="T12">Manisa</state>
+<state value="Mardin" statecode="" stateid="T12_58" countryid="T12">Mardin</state>
+<state value="Mugla" statecode="" stateid="T12_59" countryid="T12">Mugla</state>
+<state value="Mus" statecode="" stateid="T12_60" countryid="T12">Mus</state>
+<state value="Nevsehir" statecode="" stateid="T12_61" countryid="T12">Nevsehir</state>
+<state value="Nigde" statecode="" stateid="T12_62" countryid="T12">Nigde</state>
+<state value="Ordu" statecode="" stateid="T12_63" countryid="T12">Ordu</state>
+<state value="Osmaniye" statecode="" stateid="T12_64" countryid="T12">Osmaniye</state>
+<state value="Rize" statecode="" stateid="T12_65" countryid="T12">Rize</state>
+<state value="Sakarya" statecode="" stateid="T12_66" countryid="T12">Sakarya</state>
+<state value="Samsun" statecode="" stateid="T12_67" countryid="T12">Samsun</state>
+<state value="Sanliurfa" statecode="" stateid="T12_68" countryid="T12">Sanliurfa</state>
+<state value="Siirt" statecode="" stateid="T12_69" countryid="T12">Siirt</state>
+<state value="Sinop" statecode="" stateid="T12_70" countryid="T12">Sinop</state>
+<state value="Sirnak" statecode="" stateid="T12_71" countryid="T12">Sirnak</state>
+<state value="Sivas" statecode="" stateid="T12_72" countryid="T12">Sivas</state>
+<state value="Tekirdag" statecode="" stateid="T12_73" countryid="T12">Tekirdag</state>
+<state value="Tokat" statecode="" stateid="T12_74" countryid="T12">Tokat</state>
+<state value="Trabzon" statecode="" stateid="T12_75" countryid="T12">Trabzon</state>
+<state value="Tunceli" statecode="" stateid="T12_76" countryid="T12">Tunceli</state>
+<state value="Usak" statecode="" stateid="T12_77" countryid="T12">Usak</state>
+<state value="Van" statecode="" stateid="T12_78" countryid="T12">Van</state>
+<state value="Yalova" statecode="" stateid="T12_79" countryid="T12">Yalova</state>
+<state value="Yozgat" statecode="" stateid="T12_80" countryid="T12">Yozgat</state>
+<state value="Zonguldak" statecode="" stateid="T12_81" countryid="T12">Zonguldak</state>
+<state value="'Ajman" statecode="" stateid="U3_1" countryid="U3">'Ajman</state>
+<state value="Abu Zaby (Abu Dhabi)" statecode="" stateid="U3_2" countryid="U3">Abu Zaby (Abu Dhabi)</state>
+<state value="Al Fujayrah" statecode="" stateid="U3_3" countryid="U3">Al Fujayrah</state>
+<state value="Ash Shariqah (Sharjah)" statecode="" stateid="U3_4" countryid="U3">Ash Shariqah (Sharjah)</state>
+<state value="Dubayy (Dubai)" statecode="" stateid="U3_5" countryid="U3">Dubayy (Dubai)</state>
+<state value="Ra's al Khaymah" statecode="" stateid="U3_6" countryid="U3">Ra's al Khaymah</state>
+<state value="Umm al Qaywayn" statecode="" stateid="U3_7" countryid="U3">Umm al Qaywayn</state>
+<state value="London" statecode="" stateid="U4_1" countryid="U4">London</state>
+<state value="Alabama" statecode="" stateid="U5_1" countryid="U5">Alabama</state>
+<state value="Arizona" statecode="" stateid="U5_2" countryid="U5">Arizona</state>
+<state value="Arkansas" statecode="" stateid="U5_3" countryid="U5">Arkansas</state>
+<state value="California" statecode="" stateid="U5_4" countryid="U5">California</state>
+<state value="Colorado" statecode="" stateid="U5_5" countryid="U5">Colorado</state>
+<state value="Connecticut" statecode="" stateid="U5_6" countryid="U5">Connecticut</state>
+<state value="Delaware" statecode="" stateid="U5_7" countryid="U5">Delaware</state>
+<state value="Florida" statecode="" stateid="U5_8" countryid="U5">Florida</state>
+<state value="Georgia" statecode="" stateid="U5_9" countryid="U5">Georgia</state>
+<state value="Idaho" statecode="" stateid="U5_10" countryid="U5">Idaho</state>
+<state value="Illinois" statecode="" stateid="U5_11" countryid="U5">Illinois</state>
+<state value="Indiana" statecode="" stateid="U5_12" countryid="U5">Indiana</state>
+<state value="Iowa" statecode="" stateid="U5_13" countryid="U5">Iowa</state>
+<state value="Kansas" statecode="" stateid="U5_14" countryid="U5">Kansas</state>
+<state value="Kentucky" statecode="" stateid="U5_15" countryid="U5">Kentucky</state>
+<state value="Louisiana" statecode="" stateid="U5_16" countryid="U5">Louisiana</state>
+<state value="Maine" statecode="" stateid="U5_17" countryid="U5">Maine</state>
+<state value="Maryland" statecode="" stateid="U5_18" countryid="U5">Maryland</state>
+<state value="Massachusetts" statecode="" stateid="U5_19" countryid="U5">Massachusetts</state>
+<state value="Michigan" statecode="" stateid="U5_20" countryid="U5">Michigan</state>
+<state value="Minnesota" statecode="" stateid="U5_21" countryid="U5">Minnesota</state>
+<state value="Mississippi" statecode="" stateid="U5_22" countryid="U5">Mississippi</state>
+<state value="Missouri" statecode="" stateid="U5_23" countryid="U5">Missouri</state>
+<state value="Montana" statecode="" stateid="U5_24" countryid="U5">Montana</state>
+<state value="Nebraska" statecode="" stateid="U5_25" countryid="U5">Nebraska</state>
+<state value="Nevada" statecode="" stateid="U5_26" countryid="U5">Nevada</state>
+<state value="New Hampshire" statecode="" stateid="U5_27" countryid="U5">New Hampshire</state>
+<state value="New Jersey" statecode="" stateid="U5_28" countryid="U5">New Jersey</state>
+<state value="New Mexico" statecode="" stateid="U5_29" countryid="U5">New Mexico</state>
+<state value="New York" statecode="" stateid="U5_30" countryid="U5">New York</state>
+<state value="North Carolina" statecode="" stateid="U5_31" countryid="U5">North Carolina</state>
+<state value="North Dakota" statecode="" stateid="U5_32" countryid="U5">North Dakota</state>
+<state value="Ohio" statecode="" stateid="U5_33" countryid="U5">Ohio</state>
+<state value="Oklahoma" statecode="" stateid="U5_34" countryid="U5">Oklahoma</state>
+<state value="Oregon" statecode="" stateid="U5_35" countryid="U5">Oregon</state>
+<state value="Pennsylvania" statecode="" stateid="U5_36" countryid="U5">Pennsylvania</state>
+<state value="Rhode Island" statecode="" stateid="U5_37" countryid="U5">Rhode Island</state>
+<state value="South Carolina" statecode="" stateid="U5_38" countryid="U5">South Carolina</state>
+<state value="South Dakota" statecode="" stateid="U5_39" countryid="U5">South Dakota</state>
+<state value="Tennessee" statecode="" stateid="U5_40" countryid="U5">Tennessee</state>
+<state value="Texas" statecode="" stateid="U5_41" countryid="U5">Texas</state>
+<state value="Utah" statecode="" stateid="U5_42" countryid="U5">Utah</state>
+<state value="Vermont" statecode="" stateid="U5_43" countryid="U5">Vermont</state>
+<state value="Virginia" statecode="" stateid="U5_44" countryid="U5">Virginia</state>
+<state value="Washington" statecode="" stateid="U5_45" countryid="U5">Washington</state>
+<state value="West Virginia" statecode="" stateid="U5_46" countryid="U5">West Virginia</state>
+<state value="Wisconsin" statecode="" stateid="U5_47" countryid="U5">Wisconsin</state>
+<state value="Wyoming" statecode="" stateid="U5_48" countryid="U5">Wyoming</state>
+<state value="'Adan" statecode="" stateid="Y1_1" countryid="Y1">'Adan</state>
+<state value="'Ataq" statecode="" stateid="Y1_2" countryid="Y1">'Ataq</state>
+<state value="Abyan" statecode="" stateid="Y1_3" countryid="Y1">Abyan</state>
+<state value="Al Bayda'" statecode="" stateid="Y1_4" countryid="Y1">Al Bayda'</state>
+<state value="Al Hudaydah" statecode="" stateid="Y1_5" countryid="Y1">Al Hudaydah</state>
+<state value="Al Jawf" statecode="" stateid="Y1_6" countryid="Y1">Al Jawf</state>
+<state value="Al Mahrah" statecode="" stateid="Y1_7" countryid="Y1">Al Mahrah</state>
+<state value="Al Mahwit" statecode="" stateid="Y1_8" countryid="Y1">Al Mahwit</state>
+<state value="Dhamar" statecode="" stateid="Y1_9" countryid="Y1">Dhamar</state>
+<state value="Hadhramawt" statecode="" stateid="Y1_10" countryid="Y1">Hadhramawt</state>
+<state value="Hajjah" statecode="" stateid="Y1_11" countryid="Y1">Hajjah</state>
+<state value="Ibb" statecode="" stateid="Y1_12" countryid="Y1">Ibb</state>
+<state value="Lahij" statecode="" stateid="Y1_13" countryid="Y1">Lahij</state>
+<state value="Ma'rib" statecode="" stateid="Y1_14" countryid="Y1">Ma'rib</state>
+<state value="Sa'dah" statecode="" stateid="Y1_15" countryid="Y1">Sa'dah</state>
+<state value="San'a'" statecode="" stateid="Y1_16" countryid="Y1">San'a'</state>
+<state value="Ta'izz" statecode="" stateid="Y1_17" countryid="Y1">Ta'izz</state>
+</states>

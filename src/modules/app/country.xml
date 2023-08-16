@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+<country value="Afghanistan" countryid="A1">Afghanistan</country>
+<country value="Akrotiri and Dhekelia" countryid="A2">Akrotiri and Dhekelia</country>
+<country value="Aland Islands" countryid="A3">Aland Islands</country>
+<country value="Albania" countryid="A4">Albania</country>
+<country value="Algeria" countryid="A5">Algeria</country>
+<country value="American Samoa" countryid="A6">American Samoa</country>
+<country value="Andorra" countryid="A7">Andorra</country>
+<country value="Angola" countryid="A8">Angola</country>
+<country value="Anguilla" countryid="A9">Anguilla</country>
+<country value="Antigua And Barbuda" countryid="A10">Antigua And Barbuda</country>
+<country value="Argentina" countryid="A11">Argentina</country>
+<country value="Armenia" countryid="A12">Armenia</country>
+<country value="Aruba" countryid="A13">Aruba</country>
+<country value="Ascension Island" countryid="A14">Ascension Island</country>
+<country value="Australia" countryid="A15">Australia</country>
+<country value="Austria" countryid="A16">Austria</country>
+<country value="Azerbaijan" countryid="A17">Azerbaijan</country>
+<country value="Bahamas" countryid="B1">Bahamas</country>
+<country value="Bahrain" countryid="B2">Bahrain</country>
+<country value="Bangladesh" countryid="B3">Bangladesh</country>
+<country value="Barbados" countryid="B4">Barbados</country>
+<country value="Belarus" countryid="B5">Belarus</country>
+<country value="Belgium" countryid="B6">Belgium</country>
+<country value="Belize" countryid="B7">Belize</country>
+<country value="Benin" countryid="B8">Benin</country>
+<country value="Bermuda" countryid="B9">Bermuda</country>
+<country value="Bhutan" countryid="B10">Bhutan</country>
+<country value="Bolivia" countryid="B11">Bolivia</country>
+<country value="Bonaire" countryid="B12">Bonaire</country>
+<country value="Bosnia and Herzegovina" countryid="B13">Bosnia and Herzegovina</country>
+<country value="Botswana" countryid="B14">Botswana</country>
+<country value="Brazil" countryid="B15">Brazil</country>
+<country value="British Indian Ocean Territory" countryid="B16">British Indian Ocean Territory</country>
+<country value="British Virgin Islands" countryid="B17">British Virgin Islands</country>
+<country value="Brunei" countryid="B18">Brunei</country>
+<country value="Bulgaria" countryid="B19">Bulgaria</country>
+<country value="Burkina Faso" countryid="B20">Burkina Faso</country>
+<country value="Burundi" countryid="B21">Burundi</country>
+<country value="Cabo Verde" countryid="C1">Cabo Verde</country>
+<country value="Caribbean Netherlands" countryid="C2">Caribbean Netherlands</country>
+<country value="Canada" countryid="C3">Canada</country>
+<country value="Cayman Islands" countryid="C4">Cayman Islands</country>
+<country value="Central African Republic" countryid="C5">Central African Republic</country>
+<country value="Chad" countryid="C6">Chad</country>
+<country value="Chile" countryid="C7">Chile</country>
+<country value="China" countryid="C8">China</country>
+<country value="Christmas Island" countryid="C9">Christmas Island</country>
+<country value="Cocos (Keeling) Islands" countryid="C10">Cocos (Keeling) Islands</country>
+<country value="Colombia" countryid="C11">Colombia</country>
+<country value="Comoros" countryid="C12">Comoros</country>
+<country value="Congo Republic of the" countryid="C13">Congo Republic of the</country>
+<country value="Congo The Democratic Republic Of The" countryid="C14">Congo The Democratic Republic Of The</country>
+<country value="Cook Islands" countryid="C15">Cook Islands</country>
+<country value="Costa Rica" countryid="C16">Costa Rica</country>
+<country value="Cote D'Ivoire (Ivory Coast)" countryid="C17">Cote D'Ivoire (Ivory Coast)</country>
+<country value="Croatia (Hrvatska)" countryid="C18">Croatia (Hrvatska)</country>
+<country value="Cuba" countryid="C19">Cuba</country>
+<country value="Curacao" countryid="C20">Curacao</country>
+<country value="Cyprus" countryid="C21">Cyprus</country>
+<country value="Czech Republic" countryid="C22">Czech Republic</country>
+<country value="Cambodia" countryid="C23">Cambodia</country>
+<country value="Cameroon" countryid="C24">Cameroon</country>
+<country value="Chatham Island" countryid="C25">Chatham Island</country>
+<country value="Denmark" countryid="D1">Denmark</country>
+<country value="Djibouti" countryid="D2">Djibouti</country>
+<country value="Dominica" countryid="D3">Dominica</country>
+<country value="Dominican Republic" countryid="D4">Dominican Republic</country>
+<country value="Ecuador" countryid="E1">Ecuador</country>
+<country value="Egypt" countryid="E2">Egypt</country>
+<country value="El Salvador" countryid="E3">El Salvador</country>
+<country value="Equatorial Guinea" countryid="E4">Equatorial Guinea</country>
+<country value="Eritrea" countryid="E5">Eritrea</country>
+<country value="Estonia" countryid="E6">Estonia</country>
+<country value="Ethiopia" countryid="E7">Ethiopia</country>
+<country value="Falkland Islands" countryid="F1">Falkland Islands</country>
+<country value="Faroe Islands" countryid="F2">Faroe Islands</country>
+<country value="Fiji Islands" countryid="F3">Fiji Islands</country>
+<country value="Finland" countryid="F4">Finland</country>
+<country value="France" countryid="F5">France</country>
+<country value="French Guiana" countryid="F6">French Guiana</country>
+<country value="French Polynesia" countryid="F7">French Polynesia</country>
+<country value="Gabon" countryid="G1">Gabon</country>
+<country value="Gambia" countryid="G2">Gambia</country>
+<country value="Georgia" countryid="G3">Georgia</country>
+<country value="Germany" countryid="G4">Germany</country>
+<country value="Ghana" countryid="G5">Ghana</country>
+<country value="Gibraltar" countryid="G6">Gibraltar</country>
+<country value="Greece" countryid="G7">Greece</country>
+<country value="Greenland" countryid="G8">Greenland</country>
+<country value="Grenada" countryid="G9">Grenada</country>
+<country value="Guadeloupe" countryid="G10">Guadeloupe</country>
+<country value="Guam" countryid="G11">Guam</country>
+<country value="Guatemala" countryid="G12">Guatemala</country>
+<country value="Guernsey" countryid="G13">Guernsey</country>
+<country value="Guinea" countryid="G14">Guinea</country>
+<country value="Guinea-Bissau" countryid="G15">Guinea-Bissau</country>
+<country value="Guyana" countryid="G16">Guyana</country>
+<country value="Haiti" countryid="H1">Haiti</country>
+<country value="Honduras" countryid="H2">Honduras</country>
+<country value="Hong Kong" countryid="H3">Hong Kong</country>
+<country value="Hungary" countryid="H4">Hungary</country>
+<country value="Iceland" countryid="I1">Iceland</country>
+<country value="India" countryid="I2">India</country>
+<country value="Indonesia" countryid="I3">Indonesia</country>
+<country value="International Monetary Fund (IMF)" countryid="I4">International Monetary Fund (IMF)</country>
+<country value="Iran" countryid="I5">Iran</country>
+<country value="Iraq" countryid="I6">Iraq</country>
+<country value="Ireland" countryid="I7">Ireland</country>
+<country value="Isle of Man" countryid="I8">Isle of Man</country>
+<country value="Israel" countryid="I9">Israel</country>
+<country value="Italy" countryid="I10">Italy</country>
+<country value="Jamaica" countryid="J1">Jamaica</country>
+<country value="Japan" countryid="J2">Japan</country>
+<country value="Jersey" countryid="J3">Jersey</country>
+<country value="Jordan" countryid="J4">Jordan</country>
+<country value="Kazakhstan" countryid="K1">Kazakhstan</country>
+<country value="Kenya" countryid="K2">Kenya</country>
+<country value="Kiribati" countryid="K3">Kiribati</country>
+<country value="Kosovo" countryid="K4">Kosovo</country>
+<country value="Kuwait" countryid="K5">Kuwait</country>
+<country value="Kyrgyzstan" countryid="K6">Kyrgyzstan</country>
+<country value="Laos" countryid="L1">Laos</country>
+<country value="Latvia" countryid="L2">Latvia</country>
+<country value="Lebanon" countryid="L3">Lebanon</country>
+<country value="Lesotho" countryid="L4">Lesotho</country>
+<country value="Liberia" countryid="L5">Liberia</country>
+<country value="Libya" countryid="L6">Libya</country>
+<country value="Liechtenstein" countryid="L7">Liechtenstein</country>
+<country value="Lithuania" countryid="L8">Lithuania</country>
+<country value="Luxembourg" countryid="L9">Luxembourg</country>
+<country value="Macau" countryid="M1">Macau</country>
+<country value="Macedonia" countryid="M2">Macedonia</country>
+<country value="Madagascar" countryid="M3">Madagascar</country>
+<country value="Malawi" countryid="M4">Malawi</country>
+<country value="Malaysia" countryid="M5">Malaysia</country>
+<country value="Maldives" countryid="M6">Maldives</country>
+<country value="Mali" countryid="M7">Mali</country>
+<country value="Malta" countryid="M8">Malta</country>
+<country value="Marshall Islands" countryid="M9">Marshall Islands</country>
+<country value="Martinique" countryid="M10">Martinique</country>
+<country value="Mauritania" countryid="M11">Mauritania</country>
+<country value="Mauritius" countryid="M12">Mauritius</country>
+<country value="Mayotte" countryid="M13">Mayotte</country>
+<country value="Mexico" countryid="M14">Mexico</country>
+<country value="Micronesia" countryid="M15">Micronesia</country>
+<country value="Moldova" countryid="M16">Moldova</country>
+<country value="Monaco" countryid="M17">Monaco</country>
+<country value="Mongolia" countryid="M18">Mongolia</country>
+<country value="Montserrat" countryid="M19">Montserrat</country>
+<country value="Morocco" countryid="M20">Morocco</country>
+<country value="Mozambique" countryid="M21">Mozambique</country>
+<country value="Myanmar" countryid="M22">Myanmar</country>
+<country value="Montenegro" countryid="M23">Montenegro</country>
+<country value="Namibia" countryid="N1">Namibia</country>
+<country value="Nauru" countryid="N2">Nauru</country>
+<country value="Nepal" countryid="N3">Nepal</country>
+<country value="Netherlands" countryid="N4">Netherlands</country>
+<country value="New Caledonia" countryid="N5">New Caledonia</country>
+<country value="New Zealand" countryid="N6">New Zealand</country>
+<country value="Nicaragua" countryid="N7">Nicaragua</country>
+<country value="Niger" countryid="N8">Niger</country>
+<country value="Nigeria" countryid="N9">Nigeria</country>
+<country value="Niue" countryid="N10">Niue</country>
+<country value="Norfolk Island" countryid="N11">Norfolk Island</country>
+<country value="Northern Mariana Islands" countryid="N12">Northern Mariana Islands</country>
+<country value="North Korea" countryid="N13">North Korea</country>
+<country value="Norway" countryid="N14">Norway</country>
+<country value="Oman" countryid="O1">Oman</country>
+<country value="Pakistan" countryid="P1">Pakistan</country>
+<country value="Palau" countryid="P2">Palau</country>
+<country value="Palestine" countryid="P3">Palestine</country>
+<country value="Panama" countryid="P4">Panama</country>
+<country value="Papua new Guinea" countryid="P5">Papua new Guinea</country>
+<country value="Paraguay" countryid="P6">Paraguay</country>
+<country value="Peru" countryid="P7">Peru</country>
+<country value="Philippines" countryid="P8">Philippines</country>
+<country value="Pitcairn Island" countryid="P9">Pitcairn Island</country>
+<country value="Poland" countryid="P10">Poland</country>
+<country value="Portugal" countryid="P11">Portugal</country>
+<country value="Puerto Rico" countryid="P12">Puerto Rico</country>
+<country value="Qatar" countryid="Q1">Qatar</country>
+<country value="Reunion" countryid="R1">Reunion</country>
+<country value="Romania" countryid="R2">Romania</country>
+<country value="Russia" countryid="R3">Russia</country>
+<country value="Rwanda" countryid="R4">Rwanda</country>
+<country value="Saba" countryid="S1">Saba</country>
+<country value="Saint Barthelemy" countryid="S2">Saint Barthelemy</country>
+<country value="Saint Helena" countryid="S3">Saint Helena</country>
+<country value="Saint Kitts And Nevis" countryid="S4">Saint Kitts And Nevis</country>
+<country value="Saint Lucia" countryid="S5">Saint Lucia</country>
+<country value="Saint Pierre and Miquelon" countryid="S6">Saint Pierre and Miquelon</country>
+<country value="Saint Vincent And The Grenadines" countryid="S7">Saint Vincent And The Grenadines</country>
+<country value="Samoa" countryid="S8">Samoa</country>
+<country value="San Marino" countryid="S9">San Marino</country>
+<country value="Sao Tome and Principe" countryid="S10">Sao Tome and Principe</country>
+<country value="Saudi Arabia" countryid="S11">Saudi Arabia</country>
+<country value="Senegal" countryid="S12">Senegal</country>
+<country value="Serbia" countryid="S13">Serbia</country>
+<country value="Seychelles" countryid="S14">Seychelles</country>
+<country value="Sierra Leone" countryid="S15">Sierra Leone</country>
+<country value="Singapore" countryid="S16">Singapore</country>
+<country value="Sint Eustatius" countryid="S17">Sint Eustatius</country>
+<country value="Sint Maarten" countryid="S18">Sint Maarten</country>
+<country value="Slovakia" countryid="S19">Slovakia</country>
+<country value="Slovenia" countryid="S20">Slovenia</country>
+<country value="Solomon Islands" countryid="S21">Solomon Islands</country>
+<country value="Somalia" countryid="S22">Somalia</country>
+<country value="South Africa" countryid="S23">South Africa</country>
+<country value="South Georgia Island" countryid="S24">South Georgia Island</country>
+<country value="South Korea" countryid="S25">South Korea</country>
+<country value="South Sudan" countryid="S26">South Sudan</country>
+<country value="Spain" countryid="S27">Spain</country>
+<country value="Sri Lanka" countryid="S28">Sri Lanka</country>
+<country value="Sudan" countryid="S29">Sudan</country>
+<country value="Suriname" countryid="S30">Suriname</country>
+<country value="Svalbard And Jan Mayen" countryid="S31">Svalbard And Jan Mayen</country>
+<country value="Swaziland" countryid="S32">Swaziland</country>
+<country value="Sweden" countryid="S33">Sweden</country>
+<country value="Switzerland" countryid="S34">Switzerland</country>
+<country value="Syria" countryid="S35">Syria</country>
+<country value="Saint Martin" countryid="S36">Saint Martin</country>
+<country value="Taiwan" countryid="T1">Taiwan</country>
+<country value="Tajikistan" countryid="T2">Tajikistan</country>
+<country value="Tanzania" countryid="T3">Tanzania</country>
+<country value="Thailand" countryid="T4">Thailand</country>
+<country value="Timor-Leste" countryid="T5">Timor-Leste</country>
+<country value="Togo" countryid="T6">Togo</country>
+<country value="Tokelau" countryid="T7">Tokelau</country>
+<country value="Tonga" countryid="T8">Tonga</country>
+<country value="Trinidad And Tobago" countryid="T9">Trinidad And Tobago</country>
+<country value="Tristan da Cunha" countryid="T10">Tristan da Cunha</country>
+<country value="Tunisia" countryid="T11">Tunisia</country>
+<country value="Turkey" countryid="T12">Turkey</country>
+<country value="Turkmenistan" countryid="T13">Turkmenistan</country>
+<country value="Turks And Caicos Islands" countryid="T14">Turks And Caicos Islands</country>
+<country value="Tuvalu" countryid="T15">Tuvalu</country>
+<country value="Uganda" countryid="U1">Uganda</country>
+<country value="Ukraine" countryid="U2">Ukraine</country>
+<country value="United Arab Emirates" countryid="U3">United Arab Emirates</country>
+<country value="United Kingdom" countryid="U4">United Kingdom</country>
+<country value="United States of America" countryid="U5">United States of America</country>
+<country value="Uruguay" countryid="U6">Uruguay</country>
+<country value="US Virgin Islands" countryid="U7">US Virgin Islands</country>
+<country value="Uzbekistan" countryid="U8">Uzbekistan</country>
+<country value="Vanuatu" countryid="V1">Vanuatu</country>
+<country value="Vatican City State (Holy See)" countryid="V2">Vatican City State (Holy See)</country>
+<country value="Venezuela" countryid="V3">Venezuela</country>
+<country value="Vietnam" countryid="V4">Vietnam</country>
+<country value="Wallis And Futuna" countryid="W1">Wallis And Futuna</country>
+<country value="Wake Island" countryid="W2">Wake Island</country>
+<country value="Yemen" countryid="Y1">Yemen</country>
+<country value="Zambia" countryid="Z1">Zambia</country>
+<country value="Zimbabwe" countryid="Z2">Zimbabwe</country>
+</countries>

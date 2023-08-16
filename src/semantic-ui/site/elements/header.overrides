@@ -1,0 +1,16 @@
+.VerticalAlign{
+
+margin-top: 4px !important; 
+
+}
+.SmallHeadingAlign{
+
+margin-top: 10px !important; 
+
+}
+
+.closeIcon{
+    float: right !important;
+    margin-top: -4px !important;
+    cursor: pointer !important;
+}

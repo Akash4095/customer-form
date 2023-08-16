@@ -1,0 +1,1246 @@
+
+
+.ui.labeled.icon.menu .item > .icon:not(.dropdown) {
+    
+margin: 0.3rem auto !important; 
+   
+}
+
+.ui.labeled.icon.menu .item {
+    min-width: 6.4em;
+    flex-direction: column;
+}
+i.icon, i.icons {
+    font-size: 0.9em;
+}
+
+.ui.labeled.icon.menu .item > .icon:not(.dropdown) {
+    height: 1em; 
+    position: relative;
+    top: -20px;
+    display: block;
+    font-size: 1.71428571em !important;
+    margin: 0em auto 0.5rem !important;
+}
+
+.iconNames{
+    font-weight:bold !important;
+    fontSize:12px !important;
+    letter-spacing: 1px;
+    top:30px !important;
+    position:relative !important;
+}
+.ui.horizontally.fitted.menu .item, .ui.horizontally.fitted.menu .item .menu .item, .ui.menu .horizontally.fitted.item{
+
+padding: 1.929em 18px !important;
+
+}
+
+.logo{
+position: absolute !important;
+top:14px;
+left:0px;
+right:0px;
+margin:0px auto; 
+width: 51%;
+height:auto; 
+
+}
+
+
+.formheader{
+
+padding-top: 15px !important;
+font-family: 'Hind Siliguri', sans-serif !important;
+
+}
+
+.CustomeForm{
+
+margin-top:26px; 
+
+}
+
+.Customefluid{
+width:100%;
+height: auto;
+border-bottom: 1px solid #000; 
+
+}
+
+.CustomeBTN{
+
+font-family: 'Hind Siliguri', sans-serif !important;
+font-weight: 600 !important;
+margin-top: 20px !important; 
+
+}
+
+.MenuFont{
+
+font-family: 'Hind Siliguri', sans-serif;
+font-size: 13px !important; 
+
+}
+
+.CustomeForm .field > label{
+
+font-family: 'Hind Siliguri', sans-serif;
+font-size: 13px !important; 
+
+
+}
+
+.CustomeSegment{
+
+padding: 1em 1em 4em !important; 
+
+}
+
+.HeaderSkills{
+padding-top: 20px !important; 
+
+
+}
+
+.description label{
+
+clear: both; 
+
+}
+
+.description textarea{
+
+    clear: both; 
+}
+.react-datepicker-wrapper, .react-datepicker__input-container{
+
+width:100%;
+
+
+}
+
+.Skillfield label{
+
+font-size:13px;
+font-weight: 600; 
+
+}
+
+.addRow{
+
+visibility: hidden;
+margin-right:8px !important; 
+
+}
+
+.Skilltable > .row:last-child .addRow, .StepsTable > .row:last-child .addRow, .collaboratorsTable > .row:last-child .addRow{
+
+visibility: visible;
+
+}
+
+
+.EditListHeader{
+
+font-family: 'Hind Siliguri', sans-serif !important;
+
+}
+.workflowActive, .decisionsHeader, .processesHeader{
+
+clear:both !important;
+float: left;
+
+
+}
+
+.workflowGrid, .decisionsGrid, .processesGrid{
+clear:both;
+float: left; 
+
+}
+.activeRow .container{
+margin-bottom: 16px; 
+
+
+}
+.activeRowHeader, .decisionsHeader, .ProcessesGridHeader{
+padding-bottom:5px !important;
+font-weight: bold;
+font-family: 'Hind Siliguri', sans-serif !important;
+
+}
+.bold th{
+
+    font-weight:700 !important;
+}
+
+.Toastify__toast--success{
+
+background: #26a22a !important;
+
+}
+
+
+
+.VBottoomPanel{
+
+position: relative;
+
+}
+
+
+.VBottoomPanel textarea{
+
+float: left;
+width: 45% !important; 
+font-size: 14px;
+
+}
+
+.VBottoomPanel Button[type="submit"]{
+
+height: 37px !important;
+width: 16%;
+margin-top: 5%; 
+
+}
+.LabelBold{
+
+    font-weight: 700;
+    font-size: 1em;
+    margin-top: 12px;
+    padding-right: 7px;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 170px;
+
+}
+
+.HeadingMargin{
+
+    margin:10px 0px !important; 
+
+}
+
+.AmountBtn{
+
+    margin:10px 0px 0px; 
+
+}
+
+.syncLogo{
+    cursor: pointer;
+}
+
+.syncLogoPosted{
+    cursor: pointer;
+}
+
+.syncLogoNA{
+    cursor: not-allowed;
+}
+
+.eyeSymbol{
+    color: #4183C4
+}
+
+.syncLogoHidden{
+    cursor: pointer;
+    position: relative;
+    top: 5px;
+    left: 30px;
+    visibility: hidden;
+}
+
+.visibleHide{
+    visibility: hidden;
+}
+
+.alignLeftCell{
+    text-align: left !important;
+}
+
+.AutoGenerate{
+    margin:0px !important;
+    margin-top:1px !important;
+}
+
+.headerDisplay{
+    margin:0px !important;
+    margin-bottom:1px !important;
+    color: gray !important;
+}
+
+.ciform.ui.form .field > label.AutoGenerate{
+    font-size: 14px !important;
+    padding-top: 10px;
+}
+
+
+.ui.header:first-child{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.ciform.ui.form .field > label.headerDisplay{
+    font-size: 12px !important;
+}
+.paddingTopOnly{
+    padding-top: 15px !important;
+}
+
+.Toastify__toast--warning {
+    background: #d9b00d !important;
+}
+
+.Toastify__toast--success{
+    background: #00ab66 !important;
+}
+
+.Toastify__toast-body {
+    font-weight: 700 !important;
+}
+
+.paddingZero{
+    padding: 2px !important;
+}
+
+.marginZero{
+    margin: 0 0 10px 0 !important;
+}
+
+.fontTwentyFour{
+    font-size: 24px !important;
+    font-weight: bold !important;
+}
+
+.boldLabel{
+    font-weight: bold !important;
+}
+
+.borderNone td{
+    border: none !important;
+}
+
+.borderButtom td{
+  border-bottom: 1px solid rgba(34, 36, 38, 0.15) !important;
+}
+
+.borderButtomTable{
+    border-bottom: 1px solid rgba(34, 36, 38, 0.15) !important;
+}
+.goRelative{
+    position: relative !important;
+}
+.noColorLabel{
+    background: none !important;
+    position: absolute !important;
+    left: 3px !important;
+    right: 0 !important;
+    bottom: -17px !important;
+}
+.smallLoader{
+    width: 2px !important;
+    height: 2px !important;
+    font-size: 4px !important;
+    position: absolute !important;
+    left: 7% !important;
+    top: 102% !important;
+}
+
+.underlineLabel{
+    text-decoration: underline;
+}
+
+.boldText{
+
+    font-weight:700 !important;
+}
+
+.externalBlock{
+    border: 1px solid #DEDEDE !important;
+}
+
+.paddingFiveLeft{
+    padding-left: 5px !important;
+}
+
+.paddingFiveRight{
+    padding-right: 5px !important;
+}
+
+.boldLabel{
+    font-weight:700 !important;
+}
+
+.boldLabelApproved{
+    font-weight: 900 !important;
+    font-size: 25px !important;
+    color: #00AB66 !important;
+}
+
+.alreadyApprovedTable{
+    border-top: 1px solid #DEDEDE !important;
+    border-bottom: 1px solid #DEDEDE !important;
+}
+
+.alreadyApprovedTable td{
+    height: 80px !important;
+    vertical-align: middle !important;
+}
+
+.approvedImg{
+    float: right !important;
+}
+
+.calenderImg{
+    position: relative !important;
+    margin-left: -27px !important;
+    margin-top: -4px !important;
+}
+
+.sc-bdVaJa.iRVyCP.sticky-table-table{
+    width: 100% !important;
+}
+.sc-bwzfXH.fgCnNE.borderNoneObj.borderBottomObj.sticky-table-cell{
+    padding: 0 !important;
+}
+
+.borderNoneObj{
+   border: none !important;
+}
+
+.borderTopObj{
+   border-top: none !important;
+}
+
+.borderBottomObj{
+   border-bottom: 1px solid rgba(34, 36, 38, 0.1) !important;
+}
+
+.gXNYNt .sc-htpNat .sc-bwzfXH:nth-child(-n+1){
+    border-right: none !important;
+}
+
+.fgCnNE{
+    padding: 0 !important;
+}
+.withoutPadding .ui.table td{
+    padding: 8px 3px !important;
+}
+.withoutPadding .ui.table{
+    border: none !important;
+    border-bottom: 1px solid rgba(34, 36, 38, 0.15) !important;
+}
+
+.react-datepicker-popper{
+    z-index: 10000 !important;
+}
+
+.fromOnRow.CustomeForm{
+    margin-top: 0 !important;
+}
+
+.paddingFifteenLeft{
+    padding-left: 15px !important;
+}
+
+.paddingFifteenRight{
+    padding-right: 15px !important;
+}
+
+.ui.container{
+    min-width: 99% !important;
+}
+
+div[name="doStatusType"]{
+    width: 95% !important;
+    min-width: 95% !important;
+    max-width: 95% !important;
+}
+div[name="billStatusType"]{
+    width: 95% !important;
+    min-width: 95% !important;
+    max-width: 95% !important;
+}
+
+div[name="doStatusType"] div{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 90% !important;
+}
+
+div[name="billStatusType"] div{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 90% !important;
+}
+
+.ellipsisDiv{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.paddingLeft5{
+    padding-left: 5px;
+}
+
+.paddingTopBottom5{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.borderTopGetObj{
+   border-top: 1px solid rgba(34, 36, 38, 0.1) !important;
+}
+.sc-bwzfXH.fgCnNE.sticky-table-cell{
+    border-bottom: none !important;
+}
+
+[name='segment']{
+    min-width: 10em !important;
+}
+
+.headderApp1{
+    padding: 0 !important;
+    padding-top: 15px !important;
+    padding-bottom: 5px !important;
+    font-size: 16px;
+    font-weight: bold;
+}
+.headderApp2{
+    padding: 0 !important;
+    padding-top: 5px !important;
+    padding-bottom: 15px !important;
+    font-size: 14px;
+    font-weight: bold;
+}
+.detailsPrintTable{
+    font-size: 12px !important;
+    border: none !important;
+}
+.detailsPrintTable{
+    font-size: 12px !important;
+    border: none !important;
+}
+.detailsPrintTableBody{
+    border: none !important;
+}
+.detailsPrintTD{
+    padding: 3px !important;
+    border: none !important;
+}
+.detailsPrintTDLeft{
+    text-align: right !important;
+    width: 50% !important;
+    padding-right: 30px !important;
+}
+.detailsPrintTDRight{
+    text-align: left !important;
+    width: 50% !important;
+    padding-left: 30px !important;
+}
+.detailsPrintTDCenter{
+    text-align: center !important;
+    width: 100% !important;
+}
+
+.paddingTDPrint{
+    padding: 1px !important;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
+
+.paddingTBodyPrint tr td{
+    padding: 1px !important;
+}
+.leftApproveTd{
+    padding: 1px !important;
+    width: 20% !important;
+    font-weight: bold !important;
+}
+.rightApproveTd{
+    padding: 1px !important;
+    width: 80% !important;
+}
+.borderTopSig{
+    border-top: 1px dotted #222222 !important;
+    padding-top: 5px !important;
+}
+
+.customerBlock{
+    padding-top: 25px !important;
+}
+.pricingBlock{
+    padding-top: 25px !important;
+}
+
+.tdcb1{
+    width: 3% !important;
+}
+.tdcb2{
+    width: 3% !important;
+}
+.tdcb3{
+    width: 4% !important;
+}
+.tdcb4{
+    width: 4% !important;
+}
+.tdcb5{
+    width: 5% !important;
+}
+.tdcb6{
+    width: 10% !important;
+}
+.tdcb7{
+    width: 12% !important;
+}
+.tdcb8{
+    width: 7% !important;
+}
+.tdcb9{
+    width: 5% !important;
+}
+.tdcb10{
+    width: 5% !important;
+}
+.tdcb11{
+    width: 4% !important;
+}
+.tdcb12{
+    width: 4% !important;
+}
+.tdcb13{
+    width: 5% !important;
+}
+.tdcb14{
+    width: 5% !important;
+}
+.tdcb15{
+    width: 5% !important;
+}
+.tdcb16{
+    width: 5% !important;
+}
+.tdcb17{
+    width: 5% !important;
+}
+.tdcb18{
+    width: 5% !important;
+}
+.actionTdC{
+    width: 4% !important;
+}
+.likeTh{
+    display: inline-block; 
+    box-sizing: border-box;
+}
+.table.reactTableComm {
+    display: inline-block;
+    border-spacing: 0;
+}
+.table.reactTableComm .th,.table.reactTableComm .td {
+    margin: 0;
+    padding: 0px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    /* border: 1px dotted #d1d1d1 !important; */
+    font-size: 12px;
+}
+.table.reactTableComm .th{
+    font-weight: bold !important;
+    vertical-align: top !important;
+}
+.table.reactTableComm .tr{
+    text-align: left;
+    border-bottom: 1px dotted #d1d1d1 !important;
+    /* width: 100% !important; */
+    /* height: 35px !important; */
+}
+  .rightBoxCol{
+    text-align: right !important;
+  }
+  .centerBoxCol{
+    text-align: center !important;
+  }
+
+  .tddr1{
+    width: 20% !important;
+  }
+  .tddr2{
+    width: 12% !important;
+  }
+  .tddr3{
+    width: 15% !important;
+  }
+  .tddr4{
+    width: 12% !important;
+  }
+  .tddr5{
+    width: 12% !important;
+  }
+  .tddr6{
+    width: 12% !important;
+  }
+  .tddr7{
+    width: 12% !important;
+  }
+.actionTdDR{
+    width: 5% !important;
+}
+
+.wordBreakAll{
+    white-space: nowrap !important; 
+    width: 90% !important; 
+    overflow: hidden !important;
+    text-overflow: ellipsis !important; 
+}
+
+.field input[type="text"]{
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    margin: 0em;
+    outline: none;
+    -webkit-appearance: none;
+    tap-highlight-color: rgba(255, 255, 255, 0);
+    line-height: 1.21428571em;
+    padding: 0.67857143em 1em;
+    font-size: 1em;
+    background: #FFFFFF;
+    border: 1px solid rgba(34, 36, 38, 0.15);
+    color: rgba(0, 0, 0, 0.87);
+    border-radius: 0.28571429rem;
+    box-shadow: 0em 0em 0em 0em transparent inset;
+    -webkit-transition: color 0.1s ease, border-color 0.1s ease;
+    transition: color 0.1s ease, border-color 0.1s ease;
+}
+.stickyHead{
+    position: sticky !important;
+}
+
+.AddIcon{
+    visibility: hidden; 
+}
+
+.AccessoriesInputPanel:last-child .AddIcon{
+
+visibility: visible; 
+
+}
+.fontSizeAddDeleteIcon{
+    font-size: 15px !important;
+}
+
+.border-bottom input[type="text"], .border-bottom .search {
+
+border-bottom: 1px solid rgba(0,0,0,0.2) !important;
+border-top: none !important;
+border-right: none !important;
+border-left: none !important;
+border-radius:0px !important; 
+
+
+}
+.ciform.ui.form .field > label.headerDisplay{
+    font-weight: normal !important;
+}
+.addTextBelow_small{
+    font-size: 11px !important;
+}
+
+.summaryContainer{
+    width: 100% !important;
+    border-radius: 10px !important;
+    border: 1px solid #BFBFBF !important;
+    height: 500px !important;
+    box-shadow: 5px 5px 20px !important;
+    padding: 30px 20px !important;
+}
+
+.headLabel{
+    background-color: transparent !important;
+    color: #111111 !important;
+    font-size: 14px !important;
+}
+
+.fontBold{
+    font-weight: bold !important;
+}
+
+.headerDisplayDiv{
+    font-size: 10px !important;
+    color: gray !important;
+    text-align: left !important;
+}
+.AutoGenerateDiv{
+    font-size: 11px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    width: 150px !important;
+    color: #111111 !important;
+    text-align: left !important;
+}
+.ui.top.attached.label:first-child + :not(.attached), .ui.top.attached.label + [class*="right floated"] + *{
+    margin-top: 10px !important
+}
+.tableDiv{
+    display: table !important;
+    width: 100% !important;
+}
+.trDiv{
+    display: table-row !important;
+}
+.tdDiv{
+    display: table-cell !important;
+}
+.removePadding{
+    padding: 0px !important;
+}
+.ui.padded.segment{
+    padding: 1.5em 1.2em !important;
+}
+.ui.padded.segment.lastSegmentPadding{
+    padding: 1.5em 1.2em 0.9em 1.2em !important;
+}
+.ui.padded.segment.lastPageSegmentPadding{
+    padding: 1.5em 1.2em 1.5em 1.2em !important;
+    border: 1px solid #FFFFFF !important;
+}
+.floatRightB{
+    position: relative !important;
+    margin: 0px !important;
+    border-radius: 3rem !important;
+    background-color: #2185D0 !important;
+    color: #FFFFFF !important;
+    padding: 0.5em 1.5em 0.5em !important;
+    font-size: 12px !important;
+}
+
+.deleteButtonGet{
+    position: relative !important;
+    margin: 0px !important;
+    border-radius: 3rem !important;
+    background-color: #FF3333 !important;
+    color: #FFFFFF !important;
+    padding: 0.5em 1.0em 0.5em !important;
+    font-size: 12px !important;
+}
+.floatRightA{
+    position: relative !important;
+    margin: 0px !important;
+    border-radius: 0.28571429rem !important;
+    background-color: #2185D0 !important;
+    color: #FFFFFF !important;
+}
+.ui.grid > .row.gridRowSummary{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.backGroundChange{
+    margin-top: -12px !important;
+    padding: 30px !important;
+}
+.fontHead{
+    font-size: 22px !important;
+    font-weight: bold !important;
+    line-height: 23px !important;
+}
+.fontSub{
+    font-size: 14px !important;
+}
+.tdDiv{
+    text-align: eft !important;
+}
+
+.ui.grid > .row > .column.bodyColumn{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding: 0px !important;
+}
+.backgroundWhite{
+    background-color: #FFFFFF !important;
+}
+
+.slWidth{
+    width: 8% !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: #2185D0 !important;
+    text-align: left !important; 
+    height: 35px !important;
+    vertical-align: top !important;
+    padding: 5px 0px !important;
+}
+.nameWidth{
+    width: 38% !important;
+    text-align: left !important; 
+    height: 35px !important;
+    vertical-align: top !important;
+    padding: 5px 0px !important;
+}
+.amountWidth{
+    width: 29% !important;
+    text-align: right !important; 
+    height: 35px !important;
+    vertical-align: top !important;
+    padding: 5px 0px !important;
+}
+.postWidth{
+    width: 25% !important;
+    text-align: center !important; 
+    height: 35px !important;
+    vertical-align: top !important;
+    padding: 5px 0px !important;
+}
+.headAmtLabel{
+    background-color: transparent !important;
+    color: #111111 !important;
+    font-size: 14px !important;
+}
+.topFontLabel{
+    position: relative !important;
+    top: 0px !important;
+}
+.getPadding{
+    padding: 16px !important;
+}
+.paddingTop15{
+    padding-top: 15px !important;
+}
+
+.subMenuTd{
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+
+/* -------- Print Related -------- */
+
+.tablePrint{
+    display: table !important;
+}
+
+.trPrint{
+    display: table-row !important;
+}
+
+.tdPrint{
+    display: table-cell !important;
+    line-height: 12px !important;
+    vertical-align: middle !important;
+}
+
+.setTableCellLineHeightPrint .trPrint .tdPrint{
+    height: 17px !important;
+}
+.remarkHeightOnly.heightPrint90px.tdPrint{
+    padding-top: 5px !important;
+    height: 85px !important;
+    vertical-align: top !important;
+    font-weight: bold !important;
+}
+.printContainer{
+    padding: 10px !important;
+    padding-top: 25px !important;
+}
+
+.printTableHeader{
+    border: 1px solid #2185D0 !important;
+    background-color: #2185D0 !important;
+    color: #FFFFFF !important;
+    font-weight: bold !important;
+    font-size: 10px !important;
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+}
+
+.printTableHeaderBorder{
+    border: 2px solid #2185D0 !important;
+}
+
+.printCenterAlign{
+    text-align: center !important;
+}
+
+.printTableSubHeader{
+    border: 1px solid #BCDBF6 !important;
+    background-color: #BCDBF6 !important;
+    color: #0D0D0D !important;
+    font-weight: bold !important;
+    font-size: 9px !important;
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+}
+.printTableSubNextHeader{
+    background-color: #E9F3FC !important;
+    color: #0D0D0D !important;
+    font-weight: bold !important;
+    font-size: 9px !important;
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+}
+.fontBodySet10{
+    font-size: 9px !important;
+    font-weight: normal !important;
+}
+.fontBodySet10 .tdPrint{
+    padding-left: 5px;
+}
+
+.paddingLeftSet5{
+    padding-left: 5px;
+}
+
+.rightBorderPrint{
+    border-right: 1px solid #c4e3ff !important
+}
+
+.bottomBorderPrint{
+    border-bottom: 1px solid #c4e3ff !important
+}
+
+.topBorderPrint{
+    border-top: 1px solid #c4e3ff !important
+}
+
+.borderTopRemovePrint{
+    border-top: none !important;   
+}
+
+.topBorderPrint{
+    border-top:  1px solid #c4e3ff !important
+}
+
+.leftBorderPrint{
+    border-left:  1px solid #c4e3ff !important
+}
+
+.fontSetBoldPrint{
+    font-weight: bold !important;
+}
+
+.alignRightPrint{
+    text-align: right !important;
+    padding-right: 5px !important;
+}
+
+.bottomBorderRemovePrint{
+    border-bottom: none !important;   
+}
+
+.valignMiddlePrint{
+    height: 110px !important;
+    vertical-align: bottom !important;
+}
+.lineHeightSetPrint{
+    line-height: 5px !important;
+}
+
+.finalAmountBlockPrint{
+    background-color: #1678c2 !important;
+    color: #FFFFFF !important;
+    font-weight: bold !important;
+    font-size: 10px !important;
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+}
+
+.topAlignPrint{
+    vertical-align: top !important
+}
+
+#menuContent{
+    position: sticky !important;
+    background-color: #FFFFFF !important;
+    z-index : 1000 !important;
+    top: 0px !important;
+}
+.markedMenuOpt{
+    background: #BDDCF5 !important;
+}
+
+.toast-position{
+  top: 75px !important;
+}
+
+.heightPrint108px{
+    height: 90px !important;
+}
+
+//calculator Related
+
+.calculator {
+    box-shadow: 0 0 20px 0 #aaa;
+    display: flex;
+    flex-direction: column;
+    font-family: Helvetica,sans-serif;
+    height: 215px;
+    width: 144px;
+  
+}
+
+.calculator-display {
+    background: #1c191c;
+    color: #fff;
+    flex: 1;
+    font-size: 1.3em;
+    line-height: 40px;
+    position: relative;
+    border-radius: 4px 4px 0 0;
+}
+
+.calculator-display__auto-scaling {
+    display: inline-block;
+    font-family: inherit;
+    padding: 0 10px;
+    position: absolute;
+    right: 0;
+    transform-origin: right;
+}
+
+.calculator-key {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    background: none;
+    border: none;
+    border-right: 1px solid #666;
+    border-top: 1px solid #777;
+    cursor: pointer;
+    display: block;
+    font-family: inherit;
+    height: 35px;
+    line-height: 35px;
+    outline: none;
+    padding: 0;
+    text-align: center;
+    user-select: none;
+    width: 36px;
+}
+
+
+.calculator .calculator-keypad {
+    display: flex;
+    height: 175px;
+}
+
+.calculator .digit-keys .key-0 {
+    padding-left: 34px;
+    text-align: left;
+    width: 72px;
+}
+
+.calculator .input-keys {
+    width: 110px;
+}
+
+.calculator .function-keys .calculator-key {
+    font-size: 1em;
+}
+
+.calculator .digit-keys .calculator-key {
+    font-size: 1em;
+}
+
+.calculator .operator-keys .calculator-key {
+    border-right: 0;
+    color: #fff;
+    font-size: 1.4em;
+}
+
+.calculator .digit-keys .key-dot {
+    font-size: .75em;
+    padding-top: .1em;
+}
+.mtaxCheckbox{
+    position: absolute !important;
+    left: 210px !important;
+}
+
+.editBankName{
+    position: absolute !important;
+    left: 64% !important;
+    
+}
+
+.editBankName:hover{
+    cursor: pointer !important;
+}
+
+.editCustomer{
+    position: absolute !important;
+    left: 30% !important;
+    
+}
+
+.editCustomer:hover{
+    cursor: pointer !important;
+}
+
+.addBankName{
+    position: absolute !important;
+    left: 64% !important;
+}
+
+.addBankName:hover{
+    cursor: pointer !important;
+}
+
+.itemName{
+    position: absolute !important;
+    left: 47% !important;
+}
+
+.itemName:hover{
+     cursor: pointer !important;
+}
+
+.itemCheckbox{
+    margin-top: 22px !important;
+}
+.calculatorOnCashDisc{
+    position: absolute !important;
+    left: 98% !important;
+}
+.calculatorOnCashDisc{
+    cursor: pointer !important;
+}
+
+.accesoryDropdown{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    margin-top: 3px !important;
+}
+
+.createItem{
+    font-size: 13px !important;
+    margin-top: -8px !important;
+    color: #2185D0 !important;
+    cursor: pointer !important;
+    margin-right: 80% !important;
+}
+
+.createItem:hover{
+    font-size: 13px !important;
+    margin-top: -8px !important;
+    color: #21ba45 !important;
+    cursor: pointer !important;
+    margin-right: 80% !important;
+}
+.createCutomer{
+    font-size: 13px !important;
+    color: #2185D0 !important;
+    cursor: pointer !important;
+    margin-top: -10px !important;
+    margin-right: 80% !important;
+}
+.createCutomer:hover{
+    font-size: 13px !important;
+    color: #21ba45 !important;
+    cursor: pointer !important;
+    margin-top: -10px !important;
+    margin-right: 80% !important;
+}

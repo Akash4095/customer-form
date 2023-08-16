@@ -1,0 +1,232 @@
+.ciFormMenu{
+    border-radius: 3px; 
+    width: 99%;
+    position: sticky !important;
+    top:80px !important;
+    height: 320px;
+    display: block; 
+    border-right: 8px solid #D8D8D8 !important;
+    border-top: none !important; 
+    border-left: none !important; 
+    border-bottom: none !important;  
+}
+.ciFormMenu:hover{
+    cursor:pointer !important;
+}
+
+.mtax:hover{
+    cursor:pointer !important;
+}
+
+.paddingTop{
+    padding-top:25px;
+}
+.paddingBottom{
+    padding-bottom:30px;
+}
+.paddingBottomSegmap{
+    padding-bottom:40px;
+}
+.paddingTopSummary{
+    padding-top:15px;
+}
+.TableHeader tr th{
+
+    position: sticky !important;
+    top:0px !important; 
+    z-index: 9;
+
+}
+
+.tbCellCiForm{
+    color:#eaf3FF;
+}
+
+.headerGap{
+    padding-top: 25px
+}
+.custHeaderGap{
+    padding-top: 5px
+}
+.headerGapDown{
+    padding-bottom: 10px;
+}
+.paddingAcc{
+    padding-top: 75px
+}
+.ciform.ui.form .field > label {
+    font-weight: 500 !important;
+}
+
+.ui.form .ui.input.sales_manager_name input{
+    background: #F5F5F5;
+}
+
+.ui.form .ui.input.cust_id input{
+    background: #F5F5F5;
+}
+.ui.form .ui.input.cust_email input{
+    background: #F5F5F5;
+}
+.ui.form .ui.input.cust_mobile input{
+    background: #F5F5F5;
+}
+.ui.form .ui.input.cust_pan input{
+    background: #F5F5F5;
+}
+
+.ui.form .ui.input.cust_gst input{
+    background: #F5F5F5;
+}
+
+
+.ui.form .ui.input.model_no input{
+    background: #F5F5F5;
+}
+.ui.form .ui.input.color input{
+    background: #F5F5F5;
+}
+.ui.form .ui.input.variant input{
+    background: #F5F5F5;
+}
+.ui.form .ui.input.engine_no input{
+    background: #F5F5F5;
+}
+
+.ui.form .ui.input.vnumGet input{
+    background: #F5F5F5;
+}
+
+.ui.table tr td{
+    border-top: none !important;
+}
+
+.commonActive.active{
+    color: #2185D0 !important;
+}
+
+.headerBlue{
+    color: #2185D0 !important;
+}
+
+.ciFormUl{
+    font-size: 12px;
+    padding-left: 10px;
+    list-style-type: none;
+    margin-top: 5px !important;
+    margin-bottom: 0px !important;
+    color: #444444 !important;
+}
+
+.accessoriesPanel{
+    border-radius: 3px;
+    width: 99%;
+    margin: 8px auto 0px !important;
+    height: 300px;
+    overflow-x: none;
+    overflow-y: scroll;
+    display: block;
+    border: none !important;
+}
+
+.TableHeader tr th{
+
+position: sticky !important;
+top:0px !important; 
+z-index: 9;
+
+}
+
+.stickyHead{
+    position: sticky !important;
+}
+
+tr.AccessoriesPanel td{
+  vertical-align: top !important;
+}
+
+.AccessoriesPanel{
+  font-size: 12px !important;
+}
+
+.ItemVInputPanel{
+
+padding-top:2px !important; 
+height: 45px !important;
+
+
+}
+
+.ItemVInputPanel td{
+
+padding: 0px 0.76923077em 14px !important;  
+
+}
+
+.input-text-left input[type="text"]{
+  text-align:left; 
+}
+
+.AccessoriesInputPanel {
+    
+}
+
+.AccessoriesInputPanel .column input[type="text"]:focus{
+
+background: none; 
+
+}
+
+.AccessoriesInputPanel .field input[type="text"]{
+
+border: none !important;
+border-bottom: 1px solid rgba(0,0,0,0.2) !important;
+border-radius: 0px !important; 
+background:none;  
+font-size: 14px;
+
+}
+
+.ui.small.form.ciformSearch{
+    font-size: 0.92857143rem;
+    left: 75px;
+}
+
+.ciListFilter1{
+  width: 19% !important;
+}
+.ciListFilter2{
+  width: 15% !important;
+}
+.ciListFilter3{
+  width: 14% !important;
+}
+.ciListFilter4{
+  width: 14% !important;
+}
+.ciListFilter5{
+  width: 14% !important;
+}
+.ciListFilter6{
+  width: 14% !important;
+}
+
+.loading{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+
+
+.customDatePickerIcon.custom-input-DateIcon {
+  position: absolute;
+  top: 8px;
+  right: 0px;
+  color: #2185d0;
+  cursor: pointer;
+}
+
+.backgroundGray{
+    background: #F5F5F5 !important; 
+}
